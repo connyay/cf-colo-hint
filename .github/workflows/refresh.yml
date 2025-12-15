@@ -61,13 +61,14 @@ jobs:
           IFS='.' read -r MAJOR MINOR PATCH <<< "$CURRENT"
           NEW_VERSION="$MAJOR.$MINOR.$((PATCH + 1))"
 
-          # Update Cargo.toml
+          # Update Cargo.toml and sync Cargo.lock
           sed -i "s/^version = \"$CURRENT\"/version = \"$NEW_VERSION\"/" Cargo.toml
+          cargo check --quiet
 
           # Commit and tag
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add Cargo.toml Cargo.lock src/generated.rs
+          git add Cargo.toml Cargo.lock src/generated.rs components.json where.durableobjects.live.json
           git commit -m "chore: refresh colo data (v$NEW_VERSION)
 
           Automated update from upstream data sources."
