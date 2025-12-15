@@ -1,0 +1,81 @@
+name: Refresh Data
+
+on:
+  schedule:
+    # Run every 3 hours
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Rust
+        uses: actions-rust-lang/setup-rust-toolchain@v1
+        with:
+          toolchain: stable
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Download data files
+        run: |
+          curl -sSL "https://where.durableobjects.live/api/v3/data.json" | jq '.' > where.durableobjects.live.json
+          curl -sSL "https://www.cloudflarestatus.com/api/v2/components.json" | jq '.' > components.json
+
+      - name: Generate Rust code
+        run: python3 codegen.py
+
+      - name: Build and test
+        run: |
+          cargo build
+          cargo test
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet src/generated.rs; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Bump version and release
+        if: steps.changes.outputs.changed == 'true'
+        env:
+          CARGO_REGISTRY_TOKEN: ${{ secrets.CARGO_REGISTRY_TOKEN }}
+        run: |
+          # Get current version
+          CURRENT=$(grep '^version' Cargo.toml | head -1 | sed 's/.*"\(.*\)"/\1/')
+
+          # Bump patch version
+          IFS='.' read -r MAJOR MINOR PATCH <<< "$CURRENT"
+          NEW_VERSION="$MAJOR.$MINOR.$((PATCH + 1))"
+
+          # Update Cargo.toml
+          sed -i "s/^version = \"$CURRENT\"/version = \"$NEW_VERSION\"/" Cargo.toml
+
+          # Commit and tag
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add Cargo.toml Cargo.lock src/generated.rs
+          git commit -m "chore: refresh colo data (v$NEW_VERSION)
+
+          Automated update from upstream data sources."
+          git tag "v$NEW_VERSION"
+          git push
+          git push origin "v$NEW_VERSION"
+
+          echo "Released v$NEW_VERSION"
+
+          # Publish to crates.io
+          cargo publish

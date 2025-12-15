@@ -1,0 +1,6438 @@
+{
+  "hourly": 454902,
+  "coverage": 0.1185,
+  "colos": {
+    "ASK": {
+      "hosts": {
+        "LIS": {
+          "likelihood": 0.6,
+          "latency": 103.33
+        },
+        "CDG": {
+          "likelihood": 0.4,
+          "latency": 61.5
+        }
+      },
+      "nearestRegion": "weur",
+      "regions": {
+        "weur": 61.75,
+        "afr": 72.75,
+        "eeur": 336.75,
+        "me": 345.75,
+        "sam": 525.75,
+        "enam": 531,
+        "wnam": 651.4,
+        "apac": 787.25,
+        "oc": 1010
+      }
+    },
+    "LHE": {
+      "hosts": {
+        "HKG": {
+          "likelihood": 0.3333,
+          "latency": 111
+        },
+        "NRT": {
+          "likelihood": 0.3333,
+          "latency": 209
+        },
+        "KIX": {
+          "likelihood": 0.3333,
+          "latency": 212
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 174.33,
+        "eeur": 539.33,
+        "weur": 663,
+        "afr": 705,
+        "wnam": 780.66,
+        "me": 856.25,
+        "enam": 858.33,
+        "sam": 889.33,
+        "oc": 1315.66
+      }
+    },
+    "BNU": {
+      "hosts": {
+        "MIA": {
+          "likelihood": 0.6666,
+          "latency": 99
+        },
+        "EWR": {
+          "likelihood": 0.3333,
+          "latency": 79
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 86.66,
+        "sam": 101.33,
+        "afr": 539,
+        "weur": 556,
+        "wnam": 559.66,
+        "eeur": 562.33,
+        "me": 607.33,
+        "apac": 867.33,
+        "oc": 950.33
+      }
+    },
+    "LPB": {
+      "hosts": {
+        "ATL": {
+          "likelihood": 0.6666,
+          "latency": 122
+        },
+        "MIA": {
+          "likelihood": 0.3333,
+          "latency": 84
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 113.33,
+        "enam": 125,
+        "wnam": 534.5,
+        "afr": 625,
+        "weur": 660,
+        "me": 706,
+        "eeur": 758.75,
+        "apac": 875.25,
+        "oc": 907.5
+      }
+    },
+    "SOF": {
+      "hosts": {
+        "ZRH": {
+          "likelihood": 0.3571,
+          "latency": 24.8
+        },
+        "VIE": {
+          "likelihood": 0.2142,
+          "latency": 27.33
+        },
+        "MXP": {
+          "likelihood": 0.2142,
+          "latency": 35
+        },
+        "MRS": {
+          "likelihood": 0.2142,
+          "latency": 42
+        }
+      },
+      "nearestRegion": "eeur",
+      "regions": {
+        "eeur": 38.3,
+        "me": 50.83,
+        "weur": 97.84,
+        "afr": 151.58,
+        "sam": 356.46,
+        "enam": 371.23,
+        "wnam": 485.46,
+        "apac": 566.75,
+        "oc": 869.66
+      }
+    },
+    "SOD": {
+      "hosts": {
+        "EWR": {
+          "likelihood": 0.5,
+          "latency": 81.5
+        },
+        "MIA": {
+          "likelihood": 0.5,
+          "latency": 91.5
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 84,
+        "enam": 89.75,
+        "afr": 482.25,
+        "wnam": 485.25,
+        "weur": 536,
+        "eeur": 547.75,
+        "me": 567.5,
+        "apac": 886.25,
+        "oc": 894
+      }
+    },
+    "MCI": {
+      "hosts": {
+        "DFW": {
+          "likelihood": 0.5714,
+          "latency": 52.75
+        },
+        "ORD": {
+          "likelihood": 0.4285,
+          "latency": 41.33
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 71.75,
+        "enam": 75.5,
+        "wnam": 127.62,
+        "weur": 337.87,
+        "afr": 341.77,
+        "me": 375.66,
+        "eeur": 396.11,
+        "apac": 538.33,
+        "oc": 562
+      }
+    },
+    "RUH": {
+      "hosts": {
+        "FRA": {
+          "likelihood": 0.5882,
+          "latency": 62.6
+        },
+        "MXP": {
+          "likelihood": 0.2352,
+          "latency": 85
+        },
+        "ZRH": {
+          "likelihood": 0.1176,
+          "latency": 54.5
+        },
+        "MRS": {
+          "likelihood": 0.0588,
+          "latency": 60
+        }
+      },
+      "nearestRegion": "eeur",
+      "regions": {
+        "eeur": 129.88,
+        "me": 175.25,
+        "weur": 233.31,
+        "afr": 242.5,
+        "sam": 474.37,
+        "enam": 519.11,
+        "apac": 549,
+        "wnam": 620.94,
+        "oc": 974.18
+      }
+    },
+    "FRA": {
+      "hosts": {
+        "FRA": {
+          "likelihood": 0.4061,
+          "latency": 22.38
+        },
+        "ZRH": {
+          "likelihood": 0.2812,
+          "latency": 17.55
+        },
+        "CDG": {
+          "likelihood": 0.1718,
+          "latency": 23.54
+        },
+        "AMS": {
+          "likelihood": 0.1406,
+          "latency": 24.77
+        }
+      },
+      "nearestRegion": "me",
+      "regions": {
+        "me": 46.39,
+        "eeur": 48.71,
+        "weur": 53.62,
+        "afr": 59.09,
+        "sam": 308.52,
+        "enam": 315.88,
+        "wnam": 423.67,
+        "apac": 547.84,
+        "oc": 815.9
+      }
+    },
+    "LAX": {
+      "hosts": {
+        "LAX": {
+          "likelihood": 1,
+          "latency": 24.36
+        }
+      },
+      "nearestRegion": "wnam",
+      "regions": {
+        "wnam": 26.15,
+        "sam": 206.58,
+        "enam": 211.8,
+        "apac": 404.51,
+        "weur": 412.71,
+        "afr": 416.3,
+        "eeur": 438.36,
+        "me": 457.15,
+        "oc": 619
+      }
+    },
+    "TLV": {
+      "hosts": {
+        "FRA": {
+          "likelihood": 0.4285,
+          "latency": 47.88
+        },
+        "MRS": {
+          "likelihood": 0.2857,
+          "latency": 54.66
+        },
+        "CDG": {
+          "likelihood": 0.238,
+          "latency": 44.6
+        },
+        "ZRH": {
+          "likelihood": 0.0476,
+          "latency": 42
+        }
+      },
+      "nearestRegion": "eeur",
+      "regions": {
+        "eeur": 114.85,
+        "me": 116.19,
+        "afr": 175.57,
+        "weur": 187.71,
+        "sam": 442.52,
+        "enam": 445.42,
+        "wnam": 541.09,
+        "apac": 679.9,
+        "oc": 908.85
+      }
+    },
+    "KNU": {
+      "hosts": {
+        "SIN": {
+          "likelihood": 1,
+          "latency": 49.75
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 49.25,
+        "afr": 487.25,
+        "eeur": 498,
+        "weur": 506.5,
+        "me": 538,
+        "oc": 588,
+        "wnam": 707,
+        "sam": 724,
+        "enam": 738.75
+      }
+    },
+    "EWR": {
+      "hosts": {
+        "EWR": {
+          "likelihood": 0.7297,
+          "latency": 26.62
+        },
+        "IAD": {
+          "likelihood": 0.2702,
+          "latency": 33.79
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 27.78,
+        "sam": 28.75,
+        "wnam": 217.68,
+        "afr": 262.39,
+        "weur": 281.65,
+        "me": 307.74,
+        "eeur": 308.57,
+        "oc": 584.81,
+        "apac": 591.2
+      }
+    },
+    "SJC": {
+      "hosts": {
+        "SJC": {
+          "likelihood": 1,
+          "latency": 22.06
+        }
+      },
+      "nearestRegion": "wnam",
+      "regions": {
+        "wnam": 24.6,
+        "sam": 201.75,
+        "enam": 210.22,
+        "weur": 408.25,
+        "apac": 409.39,
+        "afr": 411.43,
+        "oc": 442.31,
+        "eeur": 455.66,
+        "me": 458.75
+      }
+    },
+    "CRK": {
+      "hosts": {
+        "SIN": {
+          "likelihood": 0.5,
+          "latency": 25.5
+        },
+        "KIX": {
+          "likelihood": 0.25,
+          "latency": 44
+        },
+        "ICN": {
+          "likelihood": 0.25,
+          "latency": 120
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 74.75,
+        "wnam": 517,
+        "weur": 566.75,
+        "oc": 618.25,
+        "afr": 625.25,
+        "eeur": 629.5,
+        "enam": 643,
+        "me": 657.75,
+        "sam": 679.25
+      }
+    },
+    "CFC": {
+      "hosts": {
+        "MIA": {
+          "likelihood": 0.75,
+          "latency": 95.33
+        },
+        "EWR": {
+          "likelihood": 0.25,
+          "latency": 87
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 93.5,
+        "enam": 95.75,
+        "wnam": 517.75,
+        "afr": 526.25,
+        "weur": 543.75,
+        "me": 582,
+        "eeur": 583.75,
+        "apac": 877.75,
+        "oc": 946
+      }
+    },
+    "ATH": {
+      "hosts": {
+        "FRA": {
+          "likelihood": 0.5,
+          "latency": 43.5
+        },
+        "VIE": {
+          "likelihood": 0.25,
+          "latency": 32
+        },
+        "MXP": {
+          "likelihood": 0.25,
+          "latency": 38
+        }
+      },
+      "nearestRegion": "me",
+      "regions": {
+        "me": 39,
+        "eeur": 42.25,
+        "afr": 170,
+        "weur": 172.25,
+        "enam": 397.75,
+        "sam": 428,
+        "wnam": 558.5,
+        "apac": 620,
+        "oc": 907.5
+      }
+    },
+    "EBB": {
+      "hosts": {
+        "LHR": {
+          "likelihood": 0.5,
+          "latency": 144
+        },
+        "MAD": {
+          "likelihood": 0.25,
+          "latency": 150
+        },
+        "LIS": {
+          "likelihood": 0.25,
+          "latency": 162
+        }
+      },
+      "nearestRegion": "afr",
+      "regions": {
+        "afr": 145.75,
+        "weur": 156.25,
+        "eeur": 702.5,
+        "me": 748.5,
+        "sam": 901.75,
+        "enam": 924,
+        "wnam": 1035.5,
+        "apac": 1159,
+        "oc": 1357.25
+      }
+    },
+    "CCU": {
+      "hosts": {
+        "SIN": {
+          "likelihood": 0.75,
+          "latency": 61.83
+        },
+        "SYD": {
+          "likelihood": 0.25,
+          "latency": 175
+        }
+      },
+      "nearestRegion": "oc",
+      "regions": {
+        "oc": 457,
+        "apac": 489,
+        "eeur": 749.87,
+        "afr": 765.75,
+        "weur": 775.62,
+        "me": 791.25,
+        "wnam": 802.25,
+        "sam": 853.5,
+        "enam": 881.62
+      }
+    },
+    "ZAG": {
+      "hosts": {
+        "VIE": {
+          "likelihood": 0.5,
+          "latency": 32.5
+        },
+        "ZRH": {
+          "likelihood": 0.25,
+          "latency": 26
+        },
+        "FRA": {
+          "likelihood": 0.25,
+          "latency": 45
+        }
+      },
+      "nearestRegion": "me",
+      "regions": {
+        "me": 37.25,
+        "eeur": 44.25,
+        "weur": 158.25,
+        "afr": 170.75,
+        "enam": 374.5,
+        "sam": 400.75,
+        "wnam": 490,
+        "apac": 636.75,
+        "oc": 820.75
+      }
+    },
+    "MXP": {
+      "hosts": {
+        "MXP": {
+          "likelihood": 0.4583,
+          "latency": 27.36
+        },
+        "MRS": {
+          "likelihood": 0.2083,
+          "latency": 31.8
+        },
+        "ZRH": {
+          "likelihood": 0.1666,
+          "latency": 16.75
+        },
+        "FRA": {
+          "likelihood": 0.1666,
+          "latency": 32.75
+        }
+      },
+      "nearestRegion": "me",
+      "regions": {
+        "me": 32.7,
+        "eeur": 39.91,
+        "afr": 87.45,
+        "weur": 92.08,
+        "enam": 324.39,
+        "sam": 326.95,
+        "wnam": 451.96,
+        "apac": 519.41,
+        "oc": 839.16
+      }
+    },
+    "CMB": {
+      "hosts": {
+        "SYD": {
+          "likelihood": 0.6666,
+          "latency": 267.75
+        },
+        "MEL": {
+          "likelihood": 0.1666,
+          "latency": 155.5
+        },
+        "MXP": {
+          "likelihood": 0.0833,
+          "latency": 75
+        },
+        "MRS": {
+          "likelihood": 0.0833,
+          "latency": 94
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 619.5,
+        "afr": 677.91,
+        "oc": 708.83,
+        "weur": 738.08,
+        "eeur": 775.16,
+        "wnam": 797.41,
+        "sam": 850.25,
+        "me": 852.9,
+        "enam": 878.66
+      }
+    },
+    "LCA": {
+      "hosts": {
+        "CDG": {
+          "likelihood": 0.6923,
+          "latency": 43.77
+        },
+        "MRS": {
+          "likelihood": 0.2307,
+          "latency": 51.66
+        },
+        "FRA": {
+          "likelihood": 0.0769,
+          "latency": 49
+        }
+      },
+      "nearestRegion": "weur",
+      "regions": {
+        "weur": 63.75,
+        "afr": 81.91,
+        "me": 176.66,
+        "eeur": 218.76,
+        "enam": 407.84,
+        "sam": 410.41,
+        "wnam": 534.92,
+        "apac": 662,
+        "oc": 945.27
+      }
+    },
+    "STL": {
+      "hosts": {
+        "DFW": {
+          "likelihood": 0.6,
+          "latency": 57
+        },
+        "ORD": {
+          "likelihood": 0.2,
+          "latency": 36
+        },
+        "DEN": {
+          "likelihood": 0.2,
+          "latency": 49
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 57.2,
+        "enam": 82,
+        "wnam": 118.6,
+        "weur": 301,
+        "afr": 357,
+        "me": 370.2,
+        "eeur": 389,
+        "apac": 569.2,
+        "oc": 583.2
+      }
+    },
+    "WAW": {
+      "hosts": {
+        "VIE": {
+          "likelihood": 0.5,
+          "latency": 24.87
+        },
+        "WAW": {
+          "likelihood": 0.5,
+          "latency": 33.37
+        }
+      },
+      "nearestRegion": "me",
+      "regions": {
+        "me": 30.37,
+        "eeur": 30.93,
+        "afr": 134.81,
+        "weur": 137.56,
+        "sam": 343.37,
+        "enam": 361.26,
+        "wnam": 468.43,
+        "apac": 614,
+        "oc": 859.62
+      }
+    },
+    "OKA": {
+      "hosts": {
+        "NRT": {
+          "likelihood": 0.75,
+          "latency": 31
+        },
+        "KIX": {
+          "likelihood": 0.25,
+          "latency": 36
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 29.25,
+        "wnam": 405.25,
+        "sam": 530.5,
+        "enam": 550.25,
+        "me": 678.4,
+        "afr": 681,
+        "weur": 684.5,
+        "eeur": 699.5,
+        "oc": 864.5
+      }
+    },
+    "BSB": {
+      "hosts": {
+        "IAD": {
+          "likelihood": 0.875,
+          "latency": 93.57
+        },
+        "EWR": {
+          "likelihood": 0.125,
+          "latency": 94
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 89.62,
+        "enam": 95.12,
+        "wnam": 522.75,
+        "weur": 523.5,
+        "me": 537.75,
+        "eeur": 551.12,
+        "afr": 557.25,
+        "apac": 846.25,
+        "oc": 929.25
+      }
+    },
+    "EZE": {
+      "hosts": {
+        "MIA": {
+          "likelihood": 0.6071,
+          "latency": 105
+        },
+        "EWR": {
+          "likelihood": 0.3928,
+          "latency": 94.45
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 99.3,
+        "sam": 104.37,
+        "wnam": 528.78,
+        "afr": 626.17,
+        "weur": 631.68,
+        "me": 655.71,
+        "eeur": 660.41,
+        "oc": 926.03,
+        "apac": 930.86
+      }
+    },
+    "FSD": {
+      "hosts": {
+        "DEN": {
+          "likelihood": 0.5714,
+          "latency": 45.75
+        },
+        "ORD": {
+          "likelihood": 0.4285,
+          "latency": 54.66
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 72.66,
+        "wnam": 103.75,
+        "sam": 117.75,
+        "afr": 340.37,
+        "weur": 363,
+        "me": 423.25,
+        "eeur": 428.75,
+        "apac": 546.12,
+        "oc": 588.37
+      }
+    },
+    "BNE": {
+      "hosts": {
+        "BNE": {
+          "likelihood": 0.75,
+          "latency": 23
+        },
+        "SYD": {
+          "likelihood": 0.25,
+          "latency": 29
+        }
+      },
+      "nearestRegion": "oc",
+      "regions": {
+        "oc": 26.5,
+        "apac": 413.75,
+        "wnam": 498.75,
+        "sam": 598.25,
+        "enam": 610.5,
+        "weur": 796.25,
+        "afr": 802.25,
+        "me": 855.75,
+        "eeur": 888
+      }
+    },
+    "PNH": {
+      "hosts": {
+        "SIN": {
+          "likelihood": 1,
+          "latency": 22.5
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 30.75,
+        "eeur": 557,
+        "afr": 557.25,
+        "me": 560,
+        "weur": 561,
+        "sam": 725.5,
+        "enam": 759.25,
+        "wnam": 814,
+        "oc": 1171.5
+      }
+    },
+    "ORN": {
+      "hosts": {
+        "MRS": {
+          "likelihood": 0.4285,
+          "latency": 44.33
+        },
+        "MAD": {
+          "likelihood": 0.2857,
+          "latency": 42
+        },
+        "MXP": {
+          "likelihood": 0.2857,
+          "latency": 46
+        }
+      },
+      "nearestRegion": "weur",
+      "regions": {
+        "weur": 95.28,
+        "eeur": 102.42,
+        "me": 193,
+        "afr": 199,
+        "sam": 437.42,
+        "enam": 446.62,
+        "wnam": 494.25,
+        "apac": 682,
+        "oc": 1176.42
+      }
+    },
+    "CHC": {
+      "hosts": {
+        "AKL": {
+          "likelihood": 1,
+          "latency": 50.5
+        }
+      },
+      "nearestRegion": "oc",
+      "regions": {
+        "oc": 48.75,
+        "apac": 611.25,
+        "enam": 676.75,
+        "sam": 680.75,
+        "wnam": 783.5,
+        "weur": 861.5,
+        "afr": 879.75,
+        "eeur": 909.5,
+        "me": 921.75
+      }
+    },
+    "RDU": {
+      "hosts": {
+        "IAD": {
+          "likelihood": 0.6666,
+          "latency": 25.5
+        },
+        "ATL": {
+          "likelihood": 0.3333,
+          "latency": 34
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 28.25,
+        "enam": 36.5,
+        "wnam": 211.75,
+        "afr": 268.66,
+        "weur": 286.75,
+        "eeur": 337.66,
+        "me": 340.25,
+        "apac": 470.33,
+        "oc": 606.33
+      }
+    },
+    "RIX": {
+      "hosts": {
+        "WAW": {
+          "likelihood": 0.75,
+          "latency": 64.66
+        },
+        "ARN": {
+          "likelihood": 0.25,
+          "latency": 46
+        }
+      },
+      "nearestRegion": "me",
+      "regions": {
+        "me": 43.25,
+        "eeur": 43.75,
+        "weur": 167.75,
+        "afr": 182,
+        "sam": 380.25,
+        "enam": 381.25,
+        "wnam": 472,
+        "apac": 673,
+        "oc": 856
+      }
+    },
+    "TBS": {
+      "hosts": {
+        "FRA": {
+          "likelihood": 0.4285,
+          "latency": 53
+        },
+        "VIE": {
+          "likelihood": 0.2857,
+          "latency": 43.5
+        },
+        "MXP": {
+          "likelihood": 0.2857,
+          "latency": 60
+        }
+      },
+      "nearestRegion": "eeur",
+      "regions": {
+        "eeur": 50.71,
+        "me": 52.42,
+        "weur": 234.37,
+        "afr": 252.85,
+        "sam": 464.37,
+        "enam": 520.37,
+        "wnam": 561.75,
+        "apac": 666.57,
+        "oc": 917.71
+      }
+    },
+    "MUC": {
+      "hosts": {
+        "FRA": {
+          "likelihood": 0.4285,
+          "latency": 25.33
+        },
+        "ZRH": {
+          "likelihood": 0.2857,
+          "latency": 20.5
+        },
+        "CDG": {
+          "likelihood": 0.1428,
+          "latency": 24
+        },
+        "PRG": {
+          "likelihood": 0.1428,
+          "latency": 35
+        }
+      },
+      "nearestRegion": "me",
+      "regions": {
+        "me": 35.28,
+        "eeur": 42.28,
+        "afr": 91,
+        "weur": 103.5,
+        "sam": 306.75,
+        "enam": 326.5,
+        "wnam": 442.5,
+        "apac": 605.28,
+        "oc": 839.12
+      }
+    },
+    "ULN": {
+      "hosts": {
+        "FRA": {
+          "likelihood": 0.7142,
+          "latency": 62
+        },
+        "ZRH": {
+          "likelihood": 0.1428,
+          "latency": 49
+        },
+        "AMS": {
+          "likelihood": 0.1428,
+          "latency": 50
+        }
+      },
+      "nearestRegion": "me",
+      "regions": {
+        "me": 128.62,
+        "weur": 284.87,
+        "eeur": 290.85,
+        "afr": 337,
+        "apac": 559.5,
+        "wnam": 620.14,
+        "sam": 641.75,
+        "enam": 644.85,
+        "oc": 960
+      }
+    },
+    "LUX": {
+      "hosts": {
+        "CDG": {
+          "likelihood": 0.5,
+          "latency": 19.5
+        },
+        "FRA": {
+          "likelihood": 0.5,
+          "latency": 24
+        }
+      },
+      "nearestRegion": "me",
+      "regions": {
+        "me": 42.33,
+        "weur": 45.66,
+        "afr": 47.33,
+        "eeur": 74.66,
+        "enam": 259.33,
+        "sam": 311.66,
+        "wnam": 425.75,
+        "apac": 663,
+        "oc": 757.33
+      }
+    },
+    "NOU": {
+      "hosts": {
+        "SYD": {
+          "likelihood": 0.25,
+          "latency": 36
+        },
+        "MEL": {
+          "likelihood": 0.25,
+          "latency": 39
+        },
+        "BNE": {
+          "likelihood": 0.25,
+          "latency": 42
+        },
+        "AKL": {
+          "likelihood": 0.25,
+          "latency": 60
+        }
+      },
+      "nearestRegion": "oc",
+      "regions": {
+        "oc": 37.25,
+        "wnam": 649,
+        "sam": 681.5,
+        "enam": 696.25,
+        "apac": 697.5,
+        "afr": 857,
+        "weur": 857.75,
+        "me": 863,
+        "eeur": 897.75
+      }
+    },
+    "IST": {
+      "hosts": {
+        "FRA": {
+          "likelihood": 0.3214,
+          "latency": 39.22
+        },
+        "VIE": {
+          "likelihood": 0.2857,
+          "latency": 42.12
+        },
+        "AMS": {
+          "likelihood": 0.2142,
+          "latency": 39
+        },
+        "PRG": {
+          "likelihood": 0.1785,
+          "latency": 50.2
+        }
+      },
+      "nearestRegion": "eeur",
+      "regions": {
+        "eeur": 77.28,
+        "me": 91.81,
+        "weur": 180.25,
+        "afr": 181.25,
+        "sam": 404.25,
+        "enam": 429,
+        "wnam": 516.22,
+        "apac": 643.85,
+        "oc": 900.4
+      }
+    },
+    "MLG": {
+      "hosts": {
+        "NRT": {
+          "likelihood": 0.25,
+          "latency": 58
+        },
+        "HKG": {
+          "likelihood": 0.25,
+          "latency": 66
+        },
+        "ICN": {
+          "likelihood": 0.25,
+          "latency": 92
+        },
+        "KIX": {
+          "likelihood": 0.25,
+          "latency": 227
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 46.5,
+        "oc": 550,
+        "weur": 622.25,
+        "eeur": 636.75,
+        "afr": 680.5,
+        "me": 709.5,
+        "enam": 710.75,
+        "sam": 712,
+        "wnam": 783.5
+      }
+    },
+    "HKG": {
+      "hosts": {
+        "HKG": {
+          "likelihood": 0.5609,
+          "latency": 48.3
+        },
+        "SIN": {
+          "likelihood": 0.439,
+          "latency": 29.38
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 36.12,
+        "oc": 471.25,
+        "wnam": 514.62,
+        "afr": 532.79,
+        "weur": 545.77,
+        "me": 546.05,
+        "eeur": 557.61,
+        "sam": 641.82,
+        "enam": 644.55
+      }
+    },
+    "JNB": {
+      "hosts": {
+        "LHR": {
+          "likelihood": 0.4,
+          "latency": 107.62
+        },
+        "LIS": {
+          "likelihood": 0.35,
+          "latency": 103.14
+        },
+        "MAD": {
+          "likelihood": 0.25,
+          "latency": 96.2
+        }
+      },
+      "nearestRegion": "weur",
+      "regions": {
+        "weur": 101.28,
+        "afr": 106.42,
+        "eeur": 533.15,
+        "me": 544.31,
+        "sam": 670.5,
+        "enam": 673.52,
+        "wnam": 808.31,
+        "apac": 935.26,
+        "oc": 1141.27
+      }
+    },
+    "HAM": {
+      "hosts": {
+        "FRA": {
+          "likelihood": 0.5,
+          "latency": 29.5
+        },
+        "ZRH": {
+          "likelihood": 0.25,
+          "latency": 22
+        },
+        "AMS": {
+          "likelihood": 0.25,
+          "latency": 68
+        }
+      },
+      "nearestRegion": "me",
+      "regions": {
+        "me": 27.75,
+        "eeur": 32.5,
+        "weur": 67.25,
+        "afr": 132.5,
+        "enam": 324.5,
+        "sam": 349,
+        "wnam": 448,
+        "apac": 637.5,
+        "oc": 848.25
+      }
+    },
+    "AAE": {
+      "hosts": {
+        "MXP": {
+          "likelihood": 0.75,
+          "latency": 43
+        },
+        "MRS": {
+          "likelihood": 0.25,
+          "latency": 39
+        }
+      },
+      "nearestRegion": "weur",
+      "regions": {
+        "weur": 82.5,
+        "afr": 148,
+        "me": 148,
+        "eeur": 185,
+        "enam": 381,
+        "sam": 436,
+        "wnam": 572,
+        "apac": 715.75,
+        "oc": 1248.59
+      }
+    },
+    "BCN": {
+      "hosts": {
+        "MXP": {
+          "likelihood": 0.5,
+          "latency": 39
+        },
+        "MAD": {
+          "likelihood": 0.5,
+          "latency": 48.5
+        }
+      },
+      "nearestRegion": "weur",
+      "regions": {
+        "weur": 39.25,
+        "afr": 63.5,
+        "eeur": 84,
+        "me": 136.5,
+        "enam": 336.75,
+        "sam": 345.5,
+        "wnam": 459.5,
+        "apac": 545.75,
+        "oc": 796.5
+      }
+    },
+    "YYC": {
+      "hosts": {
+        "SEA": {
+          "likelihood": 1,
+          "latency": 58.8
+        }
+      },
+      "nearestRegion": "wnam",
+      "regions": {
+        "wnam": 48.6,
+        "sam": 264.5,
+        "enam": 289.2,
+        "afr": 453.4,
+        "weur": 476,
+        "eeur": 516.25,
+        "me": 518.2,
+        "apac": 537.25,
+        "oc": 603.5
+      }
+    },
+    "SJO": {
+      "hosts": {
+        "ATL": {
+          "likelihood": 0.625,
+          "latency": 56.2
+        },
+        "MIA": {
+          "likelihood": 0.375,
+          "latency": 59.66
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 57.62,
+        "sam": 61.14,
+        "wnam": 331.5,
+        "weur": 472.5,
+        "afr": 473.71,
+        "me": 504.75,
+        "eeur": 505.62,
+        "apac": 710,
+        "oc": 728.75
+      }
+    },
+    "MLE": {
+      "hosts": {
+        "SIN": {
+          "likelihood": 0.5,
+          "latency": 47.75
+        },
+        "CDG": {
+          "likelihood": 0.25,
+          "latency": 101.5
+        },
+        "LHR": {
+          "likelihood": 0.25,
+          "latency": 115
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 110.87,
+        "afr": 521.5,
+        "weur": 541.75,
+        "me": 671.75,
+        "eeur": 684.87,
+        "oc": 782.12,
+        "wnam": 831,
+        "sam": 853.25,
+        "enam": 1042.22
+      }
+    },
+    "POA": {
+      "hosts": {
+        "MIA": {
+          "likelihood": 0.75,
+          "latency": 99.16
+        },
+        "MAD": {
+          "likelihood": 0.25,
+          "latency": 122.5
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 311.75,
+        "afr": 372.62,
+        "weur": 437.37,
+        "enam": 449.62,
+        "me": 595.87,
+        "eeur": 605.12,
+        "wnam": 624.5,
+        "apac": 941.37,
+        "oc": 1005.75
+      }
+    },
+    "PER": {
+      "hosts": {
+        "MEL": {
+          "likelihood": 0.75,
+          "latency": 41.33
+        },
+        "SYD": {
+          "likelihood": 0.25,
+          "latency": 46
+        }
+      },
+      "nearestRegion": "oc",
+      "regions": {
+        "oc": 45.8,
+        "apac": 611.2,
+        "wnam": 614.4,
+        "sam": 690.2,
+        "enam": 703.25,
+        "weur": 865.25,
+        "afr": 888.25,
+        "eeur": 907,
+        "me": 936
+      }
+    },
+    "SJK": {
+      "hosts": {
+        "EWR": {
+          "likelihood": 0.5,
+          "latency": 82.5
+        },
+        "IAD": {
+          "likelihood": 0.5,
+          "latency": 85
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 79.25,
+        "enam": 93.25,
+        "weur": 485.5,
+        "wnam": 496,
+        "afr": 496.25,
+        "me": 499,
+        "eeur": 541,
+        "apac": 828.33,
+        "oc": 886.5
+      }
+    },
+    "DAC": {
+      "hosts": {
+        "SIN": {
+          "likelihood": 1,
+          "latency": 43.65
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 41.67,
+        "afr": 535.52,
+        "weur": 538.28,
+        "me": 564.78,
+        "eeur": 567.64,
+        "oc": 598.63,
+        "wnam": 690.63,
+        "enam": 794.16,
+        "sam": 798.85
+      }
+    },
+    "QRO": {
+      "hosts": {
+        "ATL": {
+          "likelihood": 0.6,
+          "latency": 51.5
+        },
+        "DFW": {
+          "likelihood": 0.4,
+          "latency": 56.75
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 167.88,
+        "wnam": 184.37,
+        "enam": 202.44,
+        "weur": 426.75,
+        "afr": 434.75,
+        "eeur": 451.62,
+        "me": 457.5,
+        "apac": 524.22,
+        "oc": 628.55
+      }
+    },
+    "POS": {
+      "hosts": {
+        "EWR": {
+          "likelihood": 1,
+          "latency": 63.75
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 58.5,
+        "enam": 60.5,
+        "wnam": 360.25,
+        "afr": 409.5,
+        "weur": 414.5,
+        "eeur": 433.25,
+        "me": 453.75,
+        "apac": 700.5,
+        "oc": 746.75
+      }
+    },
+    "CAI": {
+      "hosts": {
+        "CDG": {
+          "likelihood": 0.5,
+          "latency": 47.5
+        },
+        "LHR": {
+          "likelihood": 0.25,
+          "latency": 51
+        },
+        "MRS": {
+          "likelihood": 0.25,
+          "latency": 63
+        }
+      },
+      "nearestRegion": "afr",
+      "regions": {
+        "afr": 53,
+        "weur": 60.5,
+        "eeur": 208.25,
+        "me": 279.75,
+        "sam": 404.75,
+        "enam": 430.75,
+        "wnam": 500.5,
+        "apac": 725.5,
+        "oc": 911.5
+      }
+    },
+    "DMM": {
+      "hosts": {
+        "MXP": {
+          "likelihood": 0.5,
+          "latency": 89.75
+        },
+        "CDG": {
+          "likelihood": 0.25,
+          "latency": 60
+        },
+        "MAD": {
+          "likelihood": 0.25,
+          "latency": 103
+        }
+      },
+      "nearestRegion": "me",
+      "regions": {
+        "me": 219.87,
+        "afr": 240.5,
+        "eeur": 296.12,
+        "weur": 302.87,
+        "sam": 533.25,
+        "enam": 539.87,
+        "wnam": 652.62,
+        "apac": 677,
+        "oc": 971
+      }
+    },
+    "BRU": {
+      "hosts": {
+        "AMS": {
+          "likelihood": 0.875,
+          "latency": 22.71
+        },
+        "CDG": {
+          "likelihood": 0.125,
+          "latency": 18
+        }
+      },
+      "nearestRegion": "weur",
+      "regions": {
+        "weur": 20.5,
+        "afr": 22.12,
+        "eeur": 89.12,
+        "me": 91.25,
+        "sam": 264.12,
+        "enam": 291,
+        "wnam": 400.62,
+        "apac": 537.62,
+        "oc": 849.5
+      }
+    },
+    "VCP": {
+      "hosts": {
+        "MIA": {
+          "likelihood": 0.75,
+          "latency": 93.33
+        },
+        "EWR": {
+          "likelihood": 0.25,
+          "latency": 71
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 82,
+        "sam": 88.5,
+        "weur": 510.5,
+        "afr": 512,
+        "wnam": 516,
+        "eeur": 531.5,
+        "me": 549.75,
+        "apac": 847,
+        "oc": 904.75
+      }
+    },
+    "GDL": {
+      "hosts": {
+        "DFW": {
+          "likelihood": 0.75,
+          "latency": 59
+        },
+        "ATL": {
+          "likelihood": 0.25,
+          "latency": 50
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 142,
+        "sam": 146.5,
+        "wnam": 193,
+        "weur": 393,
+        "afr": 422,
+        "eeur": 468.25,
+        "me": 471,
+        "oc": 613.66,
+        "apac": 619.5
+      }
+    },
+    "MFM": {
+      "hosts": {
+        "HKG": {
+          "likelihood": 1,
+          "latency": 63.25
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 62.25,
+        "wnam": 543.25,
+        "enam": 632.75,
+        "afr": 641,
+        "sam": 649.75,
+        "eeur": 654.25,
+        "weur": 677.25,
+        "me": 703.5,
+        "oc": 772.75
+      }
+    },
+    "EBL": {
+      "hosts": {
+        "FRA": {
+          "likelihood": 0.75,
+          "latency": 54.16
+        },
+        "MXP": {
+          "likelihood": 0.25,
+          "latency": 65.5
+        }
+      },
+      "nearestRegion": "me",
+      "regions": {
+        "me": 53.37,
+        "eeur": 56.37,
+        "afr": 249.25,
+        "weur": 254.62,
+        "sam": 469.37,
+        "enam": 480.75,
+        "wnam": 586.37,
+        "apac": 691,
+        "oc": 947.12
+      }
+    },
+    "MAD": {
+      "hosts": {
+        "MRS": {
+          "likelihood": 0.4166,
+          "latency": 36.79
+        },
+        "MAD": {
+          "likelihood": 0.3333,
+          "latency": 32
+        },
+        "LIS": {
+          "likelihood": 0.25,
+          "latency": 45.66
+        }
+      },
+      "nearestRegion": "afr",
+      "regions": {
+        "afr": 31.91,
+        "weur": 38.16,
+        "me": 132.08,
+        "eeur": 146.08,
+        "sam": 337,
+        "enam": 344.83,
+        "wnam": 438.41,
+        "apac": 533.25,
+        "oc": 789.83
+      }
+    },
+    "JED": {
+      "hosts": {
+        "LHR": {
+          "likelihood": 0.4285,
+          "latency": 53
+        },
+        "AMS": {
+          "likelihood": 0.2857,
+          "latency": 56
+        },
+        "FRA": {
+          "likelihood": 0.2857,
+          "latency": 58.5
+        }
+      },
+      "nearestRegion": "afr",
+      "regions": {
+        "afr": 205.28,
+        "eeur": 219.71,
+        "me": 226.33,
+        "weur": 279.85,
+        "sam": 452,
+        "enam": 473.85,
+        "wnam": 616.28,
+        "apac": 714.16,
+        "oc": 932.66
+      }
+    },
+    "COK": {
+      "hosts": {
+        "SIN": {
+          "likelihood": 1,
+          "latency": 79.75
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 88,
+        "weur": 538.66,
+        "afr": 555,
+        "eeur": 566.75,
+        "wnam": 683.75,
+        "me": 693.25,
+        "oc": 739,
+        "sam": 829.75,
+        "enam": 848
+      }
+    },
+    "TPA": {
+      "hosts": {
+        "MIA": {
+          "likelihood": 0.75,
+          "latency": 45
+        },
+        "ATL": {
+          "likelihood": 0.25,
+          "latency": 38
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 43,
+        "sam": 43.33,
+        "wnam": 251,
+        "afr": 344.75,
+        "weur": 376.75,
+        "me": 397.75,
+        "eeur": 408.5,
+        "oc": 597.25,
+        "apac": 611.5
+      }
+    },
+    "WRO": {
+      "hosts": {
+        "ZRH": {
+          "likelihood": 0.25,
+          "latency": 22
+        },
+        "VIE": {
+          "likelihood": 0.25,
+          "latency": 32
+        },
+        "FRA": {
+          "likelihood": 0.25,
+          "latency": 33
+        },
+        "WAW": {
+          "likelihood": 0.25,
+          "latency": 36
+        }
+      },
+      "nearestRegion": "me",
+      "regions": {
+        "me": 37,
+        "eeur": 42,
+        "afr": 135,
+        "weur": 156.75,
+        "enam": 357.33,
+        "sam": 362.5,
+        "wnam": 479.25,
+        "apac": 622.25,
+        "oc": 873.5
+      }
+    },
+    "MCT": {
+      "hosts": {
+        "SIN": {
+          "likelihood": 0.5833,
+          "latency": 45.28
+        },
+        "FRA": {
+          "likelihood": 0.4166,
+          "latency": 75.4
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 106.36,
+        "me": 354.36,
+        "eeur": 361.18,
+        "weur": 516.54,
+        "afr": 533.29,
+        "wnam": 795.45,
+        "enam": 805.36,
+        "sam": 811.18,
+        "oc": 830.18
+      }
+    },
+    "KWI": {
+      "hosts": {
+        "LHR": {
+          "likelihood": 0.8,
+          "latency": 56.91
+        },
+        "FRA": {
+          "likelihood": 0.2,
+          "latency": 59.66
+        }
+      },
+      "nearestRegion": "weur",
+      "regions": {
+        "weur": 119.11,
+        "afr": 122.86,
+        "me": 296.18,
+        "eeur": 304.87,
+        "sam": 475.11,
+        "enam": 484.5,
+        "wnam": 595.93,
+        "apac": 718.47,
+        "oc": 877.6
+      }
+    },
+    "FCO": {
+      "hosts": {
+        "FRA": {
+          "likelihood": 0.5,
+          "latency": 32
+        },
+        "MXP": {
+          "likelihood": 0.5,
+          "latency": 35.5
+        }
+      },
+      "nearestRegion": "me",
+      "regions": {
+        "me": 27.25,
+        "eeur": 43.25,
+        "afr": 86.75,
+        "weur": 125.5,
+        "sam": 340.75,
+        "enam": 343.25,
+        "wnam": 472.5,
+        "apac": 533.75,
+        "oc": 850
+      }
+    },
+    "YVR": {
+      "hosts": {
+        "SEA": {
+          "likelihood": 1,
+          "latency": 37
+        }
+      },
+      "nearestRegion": "wnam",
+      "regions": {
+        "wnam": 46.33,
+        "sam": 242,
+        "enam": 244,
+        "afr": 403.33,
+        "apac": 415.33,
+        "weur": 444.66,
+        "me": 461,
+        "eeur": 463,
+        "oc": 588
+      }
+    },
+    "MDE": {
+      "hosts": {
+        "MIA": {
+          "likelihood": 0.5714,
+          "latency": 103.25
+        },
+        "EWR": {
+          "likelihood": 0.4285,
+          "latency": 74.66
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 89.42,
+        "enam": 93.5,
+        "wnam": 412,
+        "afr": 566.75,
+        "weur": 576.87,
+        "me": 601.87,
+        "eeur": 604,
+        "apac": 741,
+        "oc": 859.62
+      }
+    },
+    "MSQ": {
+      "hosts": {
+        "FRA": {
+          "likelihood": 0.5,
+          "latency": 35.5
+        },
+        "AMS": {
+          "likelihood": 0.25,
+          "latency": 28
+        },
+        "WAW": {
+          "likelihood": 0.25,
+          "latency": 35
+        }
+      },
+      "nearestRegion": "eeur",
+      "regions": {
+        "eeur": 34.75,
+        "weur": 73.5,
+        "me": 80.75,
+        "afr": 142,
+        "sam": 420.75,
+        "enam": 438,
+        "wnam": 499,
+        "apac": 622.75,
+        "oc": 889.5
+      }
+    },
+    "YXE": {
+      "hosts": {
+        "SEA": {
+          "likelihood": 1,
+          "latency": 69.25
+        }
+      },
+      "nearestRegion": "wnam",
+      "regions": {
+        "wnam": 61.5,
+        "enam": 333.5,
+        "sam": 339.5,
+        "weur": 477,
+        "afr": 481,
+        "eeur": 538.33,
+        "me": 555.5,
+        "apac": 566.33,
+        "oc": 692.33
+      }
+    },
+    "CGY": {
+      "hosts": {
+        "SIN": {
+          "likelihood": 0.5,
+          "latency": 27.5
+        },
+        "HKG": {
+          "likelihood": 0.5,
+          "latency": 52
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 46.5,
+        "oc": 579.5,
+        "afr": 594.25,
+        "me": 595.25,
+        "wnam": 607.5,
+        "weur": 637.5,
+        "eeur": 681.5,
+        "sam": 699.25,
+        "enam": 701.25
+      }
+    },
+    "ARU": {
+      "hosts": {
+        "ATL": {
+          "likelihood": 0.75,
+          "latency": 96
+        },
+        "MIA": {
+          "likelihood": 0.25,
+          "latency": 96
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 97,
+        "sam": 99,
+        "weur": 475.33,
+        "me": 541,
+        "afr": 541.5,
+        "wnam": 544.5,
+        "eeur": 555.25,
+        "apac": 836,
+        "oc": 905.5
+      }
+    },
+    "VNO": {
+      "hosts": {
+        "AMS": {
+          "likelihood": 0.625,
+          "latency": 33.4
+        },
+        "ARN": {
+          "likelihood": 0.25,
+          "latency": 60
+        },
+        "ZRH": {
+          "likelihood": 0.125,
+          "latency": 26
+        }
+      },
+      "nearestRegion": "eeur",
+      "regions": {
+        "eeur": 73,
+        "me": 102.75,
+        "afr": 102.75,
+        "weur": 123.37,
+        "sam": 348.5,
+        "enam": 372.66,
+        "wnam": 476.88,
+        "apac": 670.87,
+        "oc": 841.75
+      }
+    },
+    "MRS": {
+      "hosts": {
+        "CDG": {
+          "likelihood": 0.4117,
+          "latency": 28.14
+        },
+        "MRS": {
+          "likelihood": 0.2941,
+          "latency": 27.4
+        },
+        "MXP": {
+          "likelihood": 0.2941,
+          "latency": 31.4
+        }
+      },
+      "nearestRegion": "afr",
+      "regions": {
+        "afr": 47.29,
+        "weur": 53.23,
+        "eeur": 68.88,
+        "me": 83.18,
+        "sam": 322.47,
+        "enam": 323.17,
+        "wnam": 443.05,
+        "apac": 491.76,
+        "oc": 818.23
+      }
+    },
+    "SJP": {
+      "hosts": {
+        "EWR": {
+          "likelihood": 0.7142,
+          "latency": 87.2
+        },
+        "MIA": {
+          "likelihood": 0.2857,
+          "latency": 97
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 93.28,
+        "sam": 95.5,
+        "wnam": 546.85,
+        "afr": 553.28,
+        "me": 556.33,
+        "weur": 557,
+        "eeur": 620.66,
+        "apac": 885,
+        "oc": 944.16
+      }
+    },
+    "ABQ": {
+      "hosts": {
+        "DFW": {
+          "likelihood": 0.75,
+          "latency": 58.33
+        },
+        "DEN": {
+          "likelihood": 0.25,
+          "latency": 40
+        }
+      },
+      "nearestRegion": "wnam",
+      "regions": {
+        "wnam": 41.75,
+        "enam": 183.5,
+        "sam": 189,
+        "afr": 378.25,
+        "weur": 381,
+        "eeur": 430.25,
+        "me": 448,
+        "oc": 531,
+        "apac": 537
+      }
+    },
+    "XAP": {
+      "hosts": {
+        "EWR": {
+          "likelihood": 0.5,
+          "latency": 89.5
+        },
+        "MIA": {
+          "likelihood": 0.5,
+          "latency": 98
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 95.5,
+        "sam": 98,
+        "wnam": 497.75,
+        "afr": 565,
+        "weur": 607.25,
+        "eeur": 636.25,
+        "me": 637.5,
+        "apac": 867.5,
+        "oc": 1033.75
+      }
+    },
+    "ICN": {
+      "hosts": {
+        "ICN": {
+          "likelihood": 1,
+          "latency": 50.81
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 51.45,
+        "wnam": 447.18,
+        "oc": 485.36,
+        "sam": 552.66,
+        "enam": 565.2,
+        "weur": 692.36,
+        "me": 722,
+        "eeur": 727.36,
+        "afr": 736.3
+      }
+    },
+    "UDI": {
+      "hosts": {
+        "MAD": {
+          "likelihood": 0.5,
+          "latency": 86
+        },
+        "MIA": {
+          "likelihood": 0.5,
+          "latency": 94
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 96.75,
+        "sam": 223.5,
+        "eeur": 487.25,
+        "me": 532.75,
+        "wnam": 542,
+        "weur": 592.5,
+        "afr": 611.75,
+        "apac": 877.25,
+        "oc": 913.75
+      }
+    },
+    "BLR": {
+      "hosts": {
+        "SIN": {
+          "likelihood": 1,
+          "latency": 37.5
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 41.68,
+        "afr": 499.25,
+        "weur": 534.81,
+        "eeur": 543.88,
+        "me": 553.58,
+        "wnam": 642.76,
+        "oc": 664,
+        "enam": 719,
+        "sam": 728.25
+      }
+    },
+    "SJU": {
+      "hosts": {
+        "IAD": {
+          "likelihood": 1,
+          "latency": 49.25
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 49.66,
+        "enam": 50.66,
+        "wnam": 298.33,
+        "weur": 373.33,
+        "afr": 375,
+        "eeur": 410.75,
+        "me": 419.5,
+        "oc": 681,
+        "apac": 711.66
+      }
+    },
+    "YUL": {
+      "hosts": {
+        "IAD": {
+          "likelihood": 0.75,
+          "latency": 34.33
+        },
+        "EWR": {
+          "likelihood": 0.25,
+          "latency": 28
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 33.5,
+        "enam": 36.5,
+        "wnam": 236.25,
+        "afr": 257.25,
+        "weur": 265.75,
+        "eeur": 336,
+        "me": 347,
+        "apac": 627,
+        "oc": 631.25
+      }
+    },
+    "CWB": {
+      "hosts": {
+        "MIA": {
+          "likelihood": 0.6363,
+          "latency": 103.28
+        },
+        "MAD": {
+          "likelihood": 0.3636,
+          "latency": 90.75
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 185.72,
+        "enam": 374.75,
+        "weur": 457.91,
+        "afr": 510.16,
+        "me": 548.5,
+        "eeur": 552.18,
+        "wnam": 555.66,
+        "apac": 854.81,
+        "oc": 940.45
+      }
+    },
+    "HYD": {
+      "hosts": {
+        "SIN": {
+          "likelihood": 0.76,
+          "latency": 45.1
+        },
+        "SYD": {
+          "likelihood": 0.24,
+          "latency": 138.83
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 219.95,
+        "oc": 440.95,
+        "afr": 600.38,
+        "me": 615.91,
+        "weur": 669.72,
+        "eeur": 692.54,
+        "wnam": 748,
+        "enam": 832.4,
+        "sam": 837.08
+      }
+    },
+    "CPH": {
+      "hosts": {
+        "AMS": {
+          "likelihood": 0.75,
+          "latency": 27.33
+        },
+        "ARN": {
+          "likelihood": 0.25,
+          "latency": 52
+        }
+      },
+      "nearestRegion": "weur",
+      "regions": {
+        "weur": 50.5,
+        "afr": 51.75,
+        "me": 79.25,
+        "eeur": 82.5,
+        "enam": 313.5,
+        "sam": 320.25,
+        "wnam": 421.75,
+        "apac": 575.5,
+        "oc": 841
+      }
+    },
+    "ALA": {
+      "hosts": {
+        "WAW": {
+          "likelihood": 0.375,
+          "latency": 79.66
+        },
+        "ARN": {
+          "likelihood": 0.375,
+          "latency": 83.33
+        },
+        "FRA": {
+          "likelihood": 0.25,
+          "latency": 61.5
+        }
+      },
+      "nearestRegion": "me",
+      "regions": {
+        "me": 71.37,
+        "eeur": 73.42,
+        "afr": 330.75,
+        "weur": 337.87,
+        "sam": 547.37,
+        "enam": 565.75,
+        "wnam": 643.5,
+        "apac": 801.87,
+        "oc": 961.12
+      }
+    },
+    "SDQ": {
+      "hosts": {
+        "MIA": {
+          "likelihood": 0.75,
+          "latency": 56.33
+        },
+        "ATL": {
+          "likelihood": 0.25,
+          "latency": 63
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 50,
+        "sam": 58,
+        "wnam": 341,
+        "weur": 431.25,
+        "me": 461,
+        "afr": 467.5,
+        "eeur": 477.75,
+        "apac": 597.75,
+        "oc": 826.75
+      }
+    },
+    "GYD": {
+      "hosts": {
+        "CDG": {
+          "likelihood": 0.5833,
+          "latency": 52.14
+        },
+        "FRA": {
+          "likelihood": 0.4166,
+          "latency": 57.2
+        }
+      },
+      "nearestRegion": "afr",
+      "regions": {
+        "afr": 138.07,
+        "weur": 154.66,
+        "eeur": 241.66,
+        "me": 242.33,
+        "enam": 470,
+        "sam": 475.16,
+        "wnam": 571.33,
+        "apac": 748.92,
+        "oc": 946.92
+      }
+    },
+    "BOM": {
+      "hosts": {
+        "SIN": {
+          "likelihood": 0.4,
+          "latency": 65.37
+        },
+        "KIX": {
+          "likelihood": 0.35,
+          "latency": 125.42
+        },
+        "SYD": {
+          "likelihood": 0.25,
+          "latency": 154.19
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 166,
+        "oc": 664.47,
+        "wnam": 746.9,
+        "eeur": 749.1,
+        "weur": 756.65,
+        "afr": 787.55,
+        "me": 789.05,
+        "sam": 836.3,
+        "enam": 861.2
+      }
+    },
+    "KHH": {
+      "hosts": {
+        "NRT": {
+          "likelihood": 0.5555,
+          "latency": 55.2
+        },
+        "KIX": {
+          "likelihood": 0.2222,
+          "latency": 44.5
+        },
+        "HKG": {
+          "likelihood": 0.2222,
+          "latency": 62
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 51.9,
+        "wnam": 454.62,
+        "sam": 598.55,
+        "enam": 625.37,
+        "oc": 631.79,
+        "weur": 669,
+        "afr": 690.55,
+        "eeur": 718.4,
+        "me": 750.5
+      }
+    },
+    "ACC": {
+      "hosts": {
+        "LHR": {
+          "likelihood": 0.75,
+          "latency": 74.66
+        },
+        "CDG": {
+          "likelihood": 0.25,
+          "latency": 72
+        }
+      },
+      "nearestRegion": "weur",
+      "regions": {
+        "weur": 68.25,
+        "afr": 71,
+        "eeur": 331.5,
+        "me": 359.5,
+        "enam": 518.25,
+        "sam": 536.5,
+        "wnam": 642,
+        "apac": 660,
+        "oc": 998.25
+      }
+    },
+    "BOG": {
+      "hosts": {
+        "MIA": {
+          "likelihood": 0.6363,
+          "latency": 88
+        },
+        "EWR": {
+          "likelihood": 0.3636,
+          "latency": 107.25
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 86.81,
+        "enam": 91.36,
+        "wnam": 385.45,
+        "afr": 557.58,
+        "eeur": 584.7,
+        "weur": 601.81,
+        "me": 604.5,
+        "apac": 781.7,
+        "oc": 912.36
+      }
+    },
+    "MIA": {
+      "hosts": {
+        "MIA": {
+          "likelihood": 0.6784,
+          "latency": 40.84
+        },
+        "ATL": {
+          "likelihood": 0.3214,
+          "latency": 36.22
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 38.56,
+        "sam": 39.62,
+        "wnam": 212.58,
+        "afr": 333.66,
+        "weur": 335,
+        "eeur": 368.5,
+        "me": 369.03,
+        "apac": 555.4,
+        "oc": 618.4
+      }
+    },
+    "LAD": {
+      "hosts": {
+        "MAD": {
+          "likelihood": 0.5,
+          "latency": 108
+        },
+        "LIS": {
+          "likelihood": 0.5,
+          "latency": 117
+        }
+      },
+      "nearestRegion": "afr",
+      "regions": {
+        "afr": 104,
+        "weur": 105.5,
+        "eeur": 648.5,
+        "me": 661.75,
+        "enam": 767,
+        "sam": 796.25,
+        "wnam": 884.5,
+        "apac": 987.25,
+        "oc": 1385.75
+      }
+    },
+    "LOS": {
+      "hosts": {
+        "LIS": {
+          "likelihood": 0.6,
+          "latency": 75.66
+        },
+        "MAD": {
+          "likelihood": 0.4,
+          "latency": 68.5
+        }
+      },
+      "nearestRegion": "weur",
+      "regions": {
+        "weur": 71,
+        "afr": 74.4,
+        "me": 329,
+        "eeur": 341.5,
+        "enam": 502,
+        "sam": 521,
+        "wnam": 605.2,
+        "apac": 643.5,
+        "oc": 978.75
+      }
+    },
+    "GIG": {
+      "hosts": {
+        "IAD": {
+          "likelihood": 0.6956,
+          "latency": 253.5
+        },
+        "MIA": {
+          "likelihood": 0.3043,
+          "latency": 102.28
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 90.65,
+        "enam": 95.43,
+        "wnam": 495.26,
+        "weur": 495.78,
+        "afr": 501.04,
+        "me": 547.39,
+        "eeur": 551,
+        "apac": 829.08,
+        "oc": 962.95
+      }
+    },
+    "NRT": {
+      "hosts": {
+        "NRT": {
+          "likelihood": 0.5416,
+          "latency": 17.84
+        },
+        "KIX": {
+          "likelihood": 0.4583,
+          "latency": 25.4
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 21.2,
+        "wnam": 343.14,
+        "enam": 475.97,
+        "sam": 479.75,
+        "oc": 504.52,
+        "weur": 624.02,
+        "afr": 625.12,
+        "me": 635.95,
+        "eeur": 636.3
+      }
+    },
+    "BKK": {
+      "hosts": {
+        "SIN": {
+          "likelihood": 0.6773,
+          "latency": 26.42
+        },
+        "HKG": {
+          "likelihood": 0.3225,
+          "latency": 71.7
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 53.24,
+        "afr": 623.66,
+        "weur": 632.63,
+        "eeur": 636.12,
+        "me": 654.5,
+        "oc": 720.6,
+        "wnam": 734.8,
+        "enam": 781.59,
+        "sam": 798.2
+      }
+    },
+    "BUD": {
+      "hosts": {
+        "FRA": {
+          "likelihood": 0.5,
+          "latency": 26.5
+        },
+        "PRG": {
+          "likelihood": 0.5,
+          "latency": 28.5
+        }
+      },
+      "nearestRegion": "eeur",
+      "regions": {
+        "eeur": 29.5,
+        "me": 30.25,
+        "afr": 112.5,
+        "weur": 126.25,
+        "enam": 346.25,
+        "sam": 351.5,
+        "wnam": 474.75,
+        "apac": 555.5,
+        "oc": 809.75
+      }
+    },
+    "KJA": {
+      "hosts": {
+        "ARN": {
+          "likelihood": 1,
+          "latency": 72.33
+        }
+      },
+      "nearestRegion": "eeur",
+      "regions": {
+        "eeur": 72.33,
+        "me": 72.66,
+        "weur": 312.5,
+        "afr": 323.33,
+        "sam": 497.75,
+        "enam": 516.5,
+        "wnam": 623,
+        "apac": 665,
+        "oc": 1060
+      }
+    },
+    "MAO": {
+      "hosts": {
+        "EWR": {
+          "likelihood": 0.625,
+          "latency": 104.8
+        },
+        "IAD": {
+          "likelihood": 0.375,
+          "latency": 118.33
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 116.12,
+        "enam": 121,
+        "wnam": 617.37,
+        "weur": 629.62,
+        "afr": 632.37,
+        "eeur": 660.87,
+        "me": 672.88,
+        "apac": 972.87,
+        "oc": 1023.11
+      }
+    },
+    "PMO": {
+      "hosts": {
+        "MXP": {
+          "likelihood": 0.75,
+          "latency": 36
+        },
+        "FRA": {
+          "likelihood": 0.25,
+          "latency": 58
+        }
+      },
+      "nearestRegion": "me",
+      "regions": {
+        "me": 39.5,
+        "eeur": 40.25,
+        "weur": 180,
+        "afr": 199.5,
+        "enam": 378,
+        "sam": 386.25,
+        "wnam": 574,
+        "apac": 650,
+        "oc": 841.75
+      }
+    },
+    "UIO": {
+      "hosts": {
+        "MIA": {
+          "likelihood": 0.625,
+          "latency": 73.8
+        },
+        "ATL": {
+          "likelihood": 0.375,
+          "latency": 67.33
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 71.37,
+        "sam": 71.87,
+        "wnam": 376.37,
+        "weur": 513.62,
+        "afr": 526.87,
+        "eeur": 544.62,
+        "me": 552.37,
+        "apac": 672.87,
+        "oc": 869.62
+      }
+    },
+    "BOS": {
+      "hosts": {
+        "EWR": {
+          "likelihood": 1,
+          "latency": 24
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 29.4,
+        "sam": 31,
+        "wnam": 228.81,
+        "afr": 253,
+        "weur": 267.5,
+        "eeur": 288.81,
+        "me": 310.66,
+        "apac": 533.81,
+        "oc": 609.08
+      }
+    },
+    "PIT": {
+      "hosts": {
+        "IAD": {
+          "likelihood": 0.75,
+          "latency": 31.33
+        },
+        "ORD": {
+          "likelihood": 0.25,
+          "latency": 37
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 29.75,
+        "sam": 36.25,
+        "wnam": 220.5,
+        "weur": 295.25,
+        "afr": 304.25,
+        "eeur": 340.6,
+        "me": 341,
+        "oc": 577.5,
+        "apac": 593.5
+      }
+    },
+    "GEO": {
+      "hosts": {
+        "MIA": {
+          "likelihood": 0.8,
+          "latency": 68.25
+        },
+        "ATL": {
+          "likelihood": 0.2,
+          "latency": 66
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 67.5,
+        "enam": 69,
+        "wnam": 332,
+        "weur": 430.2,
+        "afr": 469.2,
+        "eeur": 501.5,
+        "me": 510.8,
+        "apac": 699,
+        "oc": 732
+      }
+    },
+    "KBP": {
+      "hosts": {
+        "VIE": {
+          "likelihood": 0.25,
+          "latency": 32
+        },
+        "WAW": {
+          "likelihood": 0.25,
+          "latency": 35.5
+        },
+        "FRA": {
+          "likelihood": 0.25,
+          "latency": 36
+        },
+        "PRG": {
+          "likelihood": 0.25,
+          "latency": 42.5
+        }
+      },
+      "nearestRegion": "eeur",
+      "regions": {
+        "eeur": 37.25,
+        "me": 39.75,
+        "afr": 153.5,
+        "weur": 168.5,
+        "enam": 371.25,
+        "sam": 379.12,
+        "wnam": 504.25,
+        "apac": 673.5,
+        "oc": 838
+      }
+    },
+    "LIM": {
+      "hosts": {
+        "EWR": {
+          "likelihood": 0.5454,
+          "latency": 96.16
+        },
+        "MIA": {
+          "likelihood": 0.4545,
+          "latency": 80.4
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 87.9,
+        "enam": 89,
+        "wnam": 489.3,
+        "weur": 617.5,
+        "afr": 623,
+        "me": 655.75,
+        "eeur": 666.81,
+        "apac": 874.45,
+        "oc": 920.18
+      }
+    },
+    "CNF": {
+      "hosts": {
+        "IAD": {
+          "likelihood": 0.6666,
+          "latency": 92.41
+        },
+        "EWR": {
+          "likelihood": 0.3333,
+          "latency": 84.5
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 87.7,
+        "sam": 88.55,
+        "weur": 498.1,
+        "afr": 499.89,
+        "wnam": 517.77,
+        "eeur": 530.77,
+        "me": 536.11,
+        "apac": 876.16,
+        "oc": 919.38
+      }
+    },
+    "OKC": {
+      "hosts": {
+        "ORD": {
+          "likelihood": 1,
+          "latency": 44.33
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 48,
+        "wnam": 77.75,
+        "enam": 94.5,
+        "weur": 338.33,
+        "afr": 340,
+        "eeur": 384.75,
+        "me": 397.25,
+        "apac": 503.75,
+        "oc": 577.25
+      }
+    },
+    "DAR": {
+      "hosts": {
+        "LHR": {
+          "likelihood": 0.5714,
+          "latency": 157.75
+        },
+        "AMS": {
+          "likelihood": 0.4285,
+          "latency": 114.66
+        }
+      },
+      "nearestRegion": "weur",
+      "regions": {
+        "weur": 111.42,
+        "afr": 133.66,
+        "me": 523.42,
+        "eeur": 614.28,
+        "enam": 710.42,
+        "sam": 734.2,
+        "wnam": 834.42,
+        "apac": 888.28,
+        "oc": 1077.28
+      }
+    },
+    "NBO": {
+      "hosts": {
+        "FRA": {
+          "likelihood": 0.5,
+          "latency": 122.62
+        },
+        "AMS": {
+          "likelihood": 0.5,
+          "latency": 123
+        }
+      },
+      "nearestRegion": "weur",
+      "regions": {
+        "weur": 340.52,
+        "eeur": 345.12,
+        "afr": 351.82,
+        "me": 544.87,
+        "sam": 735.7,
+        "enam": 743.93,
+        "wnam": 855.37,
+        "apac": 983.43,
+        "oc": 1257.35
+      }
+    },
+    "KCH": {
+      "hosts": {
+        "SIN": {
+          "likelihood": 0.75,
+          "latency": 11.66
+        },
+        "MEL": {
+          "likelihood": 0.25,
+          "latency": 67
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 160.66,
+        "oc": 261.33,
+        "eeur": 553.66,
+        "me": 569,
+        "weur": 600.33,
+        "sam": 675.33,
+        "afr": 677,
+        "enam": 709.66,
+        "wnam": 728.75
+      }
+    },
+    "MEX": {
+      "hosts": {
+        "DFW": {
+          "likelihood": 0.75,
+          "latency": 60.66
+        },
+        "ATL": {
+          "likelihood": 0.25,
+          "latency": 57
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 147.75,
+        "sam": 147.75,
+        "wnam": 200.5,
+        "weur": 412.25,
+        "afr": 438,
+        "eeur": 451.75,
+        "me": 477.5,
+        "oc": 622.5,
+        "apac": 623
+      }
+    },
+    "KIN": {
+      "hosts": {
+        "ATL": {
+          "likelihood": 0.75,
+          "latency": 41.66
+        },
+        "MIA": {
+          "likelihood": 0.25,
+          "latency": 53
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 46,
+        "sam": 48.33,
+        "wnam": 267,
+        "afr": 389,
+        "weur": 392.66,
+        "eeur": 409.75,
+        "me": 424.25,
+        "apac": 622,
+        "oc": 676.75
+      }
+    },
+    "STR": {
+      "hosts": {
+        "AMS": {
+          "likelihood": 0.5,
+          "latency": 27
+        },
+        "ZRH": {
+          "likelihood": 0.25,
+          "latency": 19
+        },
+        "FRA": {
+          "likelihood": 0.25,
+          "latency": 24
+        }
+      },
+      "nearestRegion": "eeur",
+      "regions": {
+        "eeur": 23.66,
+        "me": 41.25,
+        "afr": 56.25,
+        "weur": 83.33,
+        "sam": 272,
+        "enam": 296.66,
+        "wnam": 433.33,
+        "apac": 620.75,
+        "oc": 790
+      }
+    },
+    "TGU": {
+      "hosts": {
+        "ATL": {
+          "likelihood": 0.6666,
+          "latency": 59.5
+        },
+        "MIA": {
+          "likelihood": 0.3333,
+          "latency": 62
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 60.33,
+        "sam": 61.33,
+        "wnam": 289.33,
+        "weur": 412.33,
+        "afr": 433,
+        "eeur": 461.66,
+        "me": 484,
+        "apac": 597.66,
+        "oc": 764
+      }
+    },
+    "BEY": {
+      "hosts": {
+        "MXP": {
+          "likelihood": 0.5,
+          "latency": 47
+        },
+        "CDG": {
+          "likelihood": 0.25,
+          "latency": 42
+        },
+        "MRS": {
+          "likelihood": 0.25,
+          "latency": 49
+        }
+      },
+      "nearestRegion": "afr",
+      "regions": {
+        "afr": 187.5,
+        "eeur": 233.75,
+        "me": 245.75,
+        "weur": 265.75,
+        "sam": 520,
+        "enam": 560.25,
+        "wnam": 665.5,
+        "apac": 779.25,
+        "oc": 988.5
+      }
+    },
+    "DTW": {
+      "hosts": {
+        "ORD": {
+          "likelihood": 0.75,
+          "latency": 39
+        },
+        "EWR": {
+          "likelihood": 0.25,
+          "latency": 30
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 33.5,
+        "enam": 38.75,
+        "wnam": 197.5,
+        "weur": 324.75,
+        "afr": 336,
+        "eeur": 346.5,
+        "me": 350,
+        "apac": 560.75,
+        "oc": 581
+      }
+    },
+    "PHL": {
+      "hosts": {
+        "EWR": {
+          "likelihood": 0.7777,
+          "latency": 22.28
+        },
+        "IAD": {
+          "likelihood": 0.2222,
+          "latency": 36.5
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 24.25,
+        "enam": 27.87,
+        "wnam": 212.62,
+        "afr": 267.75,
+        "weur": 267.77,
+        "me": 306.33,
+        "eeur": 332.37,
+        "apac": 596.87,
+        "oc": 600.11
+      }
+    },
+    "KTM": {
+      "hosts": {
+        "SIN": {
+          "likelihood": 1,
+          "latency": 61.87
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 61.26,
+        "weur": 526.55,
+        "afr": 527.03,
+        "eeur": 564.91,
+        "me": 569.07,
+        "wnam": 717.04,
+        "sam": 830.8,
+        "oc": 832.69,
+        "enam": 833.32
+      }
+    },
+    "OMA": {
+      "hosts": {
+        "DEN": {
+          "likelihood": 1,
+          "latency": 44
+        }
+      },
+      "nearestRegion": "wnam",
+      "regions": {
+        "wnam": 41.25,
+        "enam": 158.5,
+        "sam": 182.25,
+        "afr": 370.25,
+        "weur": 380.5,
+        "me": 442.5,
+        "eeur": 444.75,
+        "apac": 454.25,
+        "oc": 565.5
+      }
+    },
+    "GUA": {
+      "hosts": {
+        "MIA": {
+          "likelihood": 0.7272,
+          "latency": 51.62
+        },
+        "ATL": {
+          "likelihood": 0.2727,
+          "latency": 48.33
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 50.36,
+        "sam": 52.18,
+        "wnam": 281.41,
+        "afr": 384.58,
+        "weur": 407.16,
+        "eeur": 443.63,
+        "me": 451,
+        "apac": 650.53,
+        "oc": 690.53
+      }
+    },
+    "TXL": {
+      "hosts": {
+        "AMS": {
+          "likelihood": 0.75,
+          "latency": 40.66
+        },
+        "WAW": {
+          "likelihood": 0.25,
+          "latency": 34
+        }
+      },
+      "nearestRegion": "weur",
+      "regions": {
+        "weur": 63.75,
+        "me": 68.25,
+        "eeur": 85.25,
+        "afr": 100.75,
+        "sam": 308,
+        "enam": 327.5,
+        "wnam": 441.5,
+        "apac": 679.5,
+        "oc": 876.5
+      }
+    },
+    "SGN": {
+      "hosts": {
+        "SIN": {
+          "likelihood": 1,
+          "latency": 19.62
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 19.37,
+        "weur": 517.5,
+        "afr": 524.87,
+        "eeur": 538.5,
+        "wnam": 591.75,
+        "me": 648.75,
+        "enam": 694.25,
+        "sam": 697.5,
+        "oc": 803.12
+      }
+    },
+    "SCL": {
+      "hosts": {
+        "EWR": {
+          "likelihood": 0.8,
+          "latency": 99.5
+        },
+        "IAD": {
+          "likelihood": 0.2,
+          "latency": 108.5
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 101.05,
+        "sam": 103,
+        "wnam": 501.4,
+        "weur": 617,
+        "afr": 621.14,
+        "eeur": 662.21,
+        "me": 670,
+        "apac": 846.44,
+        "oc": 948.68
+      }
+    },
+    "DOH": {
+      "hosts": {
+        "CDG": {
+          "likelihood": 0.5714,
+          "latency": 67
+        },
+        "MRS": {
+          "likelihood": 0.2857,
+          "latency": 80
+        },
+        "MXP": {
+          "likelihood": 0.1428,
+          "latency": 183
+        }
+      },
+      "nearestRegion": "afr",
+      "regions": {
+        "afr": 183,
+        "weur": 251.14,
+        "me": 261.28,
+        "eeur": 352.42,
+        "sam": 582.75,
+        "enam": 594.25,
+        "wnam": 696.85,
+        "apac": 811.62,
+        "oc": 1050.5
+      }
+    },
+    "IAD": {
+      "hosts": {
+        "IAD": {
+          "likelihood": 0.5294,
+          "latency": 27.66
+        },
+        "EWR": {
+          "likelihood": 0.4705,
+          "latency": 26.58
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 28.47,
+        "enam": 28.86,
+        "wnam": 207.29,
+        "afr": 258.71,
+        "weur": 261.77,
+        "eeur": 307.16,
+        "me": 308.79,
+        "apac": 567.5,
+        "oc": 609.84
+      }
+    },
+    "BOD": {
+      "hosts": {
+        "MRS": {
+          "likelihood": 0.5,
+          "latency": 32
+        },
+        "CDG": {
+          "likelihood": 0.25,
+          "latency": 20
+        },
+        "MAD": {
+          "likelihood": 0.25,
+          "latency": 35
+        }
+      },
+      "nearestRegion": "weur",
+      "regions": {
+        "weur": 27.25,
+        "afr": 28.25,
+        "me": 116.75,
+        "eeur": 146.5,
+        "enam": 313,
+        "sam": 338.5,
+        "wnam": 446.75,
+        "apac": 643.5,
+        "oc": 801.5
+      }
+    },
+    "YOW": {
+      "hosts": {
+        "EWR": {
+          "likelihood": 0.6666,
+          "latency": 54.5
+        },
+        "ORD": {
+          "likelihood": 0.3333,
+          "latency": 44
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 43.25,
+        "sam": 43.33,
+        "wnam": 222.25,
+        "afr": 306.75,
+        "weur": 327,
+        "eeur": 357.5,
+        "me": 371.5,
+        "apac": 593.75,
+        "oc": 621.75
+      }
+    },
+    "SAP": {
+      "hosts": {
+        "MIA": {
+          "likelihood": 0.75,
+          "latency": 63.66
+        },
+        "ATL": {
+          "likelihood": 0.25,
+          "latency": 56
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 60.5,
+        "sam": 60.5,
+        "wnam": 304,
+        "weur": 407,
+        "afr": 409.5,
+        "eeur": 485,
+        "me": 487.5,
+        "apac": 681.5,
+        "oc": 722.75
+      }
+    },
+    "PRG": {
+      "hosts": {
+        "FRA": {
+          "likelihood": 0.6666,
+          "latency": 28
+        },
+        "PRG": {
+          "likelihood": 0.2222,
+          "latency": 30.5
+        },
+        "ZRH": {
+          "likelihood": 0.1111,
+          "latency": 22
+        }
+      },
+      "nearestRegion": "me",
+      "regions": {
+        "me": 26.33,
+        "eeur": 27.77,
+        "afr": 92.62,
+        "weur": 114.11,
+        "enam": 327.88,
+        "sam": 333.44,
+        "wnam": 448.44,
+        "apac": 566.77,
+        "oc": 817.55
+      }
+    },
+    "CLE": {
+      "hosts": {
+        "ORD": {
+          "likelihood": 0.5,
+          "latency": 36
+        },
+        "ATL": {
+          "likelihood": 0.5,
+          "latency": 38.5
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 37.25,
+        "enam": 39.5,
+        "wnam": 204.75,
+        "weur": 298,
+        "afr": 303.75,
+        "eeur": 357,
+        "me": 363.5,
+        "oc": 590,
+        "apac": 615.5
+      }
+    },
+    "GYN": {
+      "hosts": {
+        "EWR": {
+          "likelihood": 0.5,
+          "latency": 81
+        },
+        "IAD": {
+          "likelihood": 0.5,
+          "latency": 91
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 95,
+        "enam": 96.66,
+        "wnam": 513,
+        "weur": 519.5,
+        "afr": 527,
+        "me": 538.66,
+        "eeur": 560,
+        "apac": 893.33,
+        "oc": 927.33
+      }
+    },
+    "CEB": {
+      "hosts": {
+        "SIN": {
+          "likelihood": 0.75,
+          "latency": 26.66
+        },
+        "HKG": {
+          "likelihood": 0.25,
+          "latency": 59
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 35.75,
+        "wnam": 561.25,
+        "weur": 604,
+        "eeur": 629.25,
+        "oc": 634.5,
+        "afr": 636.25,
+        "me": 659.5,
+        "sam": 735.5,
+        "enam": 744
+      }
+    },
+    "TNR": {
+      "hosts": {
+        "CDG": {
+          "likelihood": 0.75,
+          "latency": 289.66
+        },
+        "LHR": {
+          "likelihood": 0.25,
+          "latency": 118
+        }
+      },
+      "nearestRegion": "afr",
+      "regions": {
+        "afr": 205,
+        "weur": 291.5,
+        "me": 734.5,
+        "eeur": 762.25,
+        "wnam": 962,
+        "enam": 1035.25,
+        "sam": 1164.75,
+        "apac": 1258,
+        "oc": 1641
+      }
+    },
+    "SKG": {
+      "hosts": {
+        "FRA": {
+          "likelihood": 0.5,
+          "latency": 42.5
+        },
+        "VIE": {
+          "likelihood": 0.25,
+          "latency": 31
+        },
+        "ZRH": {
+          "likelihood": 0.25,
+          "latency": 34
+        }
+      },
+      "nearestRegion": "eeur",
+      "regions": {
+        "eeur": 36.75,
+        "me": 38.5,
+        "afr": 151.5,
+        "weur": 172.5,
+        "sam": 363,
+        "enam": 382.25,
+        "wnam": 515.5,
+        "apac": 617.5,
+        "oc": 871.25
+      }
+    },
+    "YYZ": {
+      "hosts": {
+        "ORD": {
+          "likelihood": 0.5625,
+          "latency": 42.44
+        },
+        "EWR": {
+          "likelihood": 0.4375,
+          "latency": 32.42
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 37.66,
+        "sam": 39.18,
+        "wnam": 212.25,
+        "weur": 295.25,
+        "afr": 304.25,
+        "eeur": 350.62,
+        "me": 361.18,
+        "apac": 559.62,
+        "oc": 619.5
+      }
+    },
+    "CDG": {
+      "hosts": {
+        "CDG": {
+          "likelihood": 0.6136,
+          "latency": 20.14
+        },
+        "LHR": {
+          "likelihood": 0.3863,
+          "latency": 22.47
+        }
+      },
+      "nearestRegion": "afr",
+      "regions": {
+        "afr": 21.48,
+        "weur": 22.04,
+        "me": 99.33,
+        "eeur": 102.95,
+        "enam": 284.22,
+        "sam": 295.17,
+        "wnam": 410.97,
+        "apac": 564.18,
+        "oc": 781.44
+      }
+    },
+    "LIS": {
+      "hosts": {
+        "LIS": {
+          "likelihood": 0.625,
+          "latency": 40.6
+        },
+        "MAD": {
+          "likelihood": 0.375,
+          "latency": 34.66
+        }
+      },
+      "nearestRegion": "weur",
+      "regions": {
+        "weur": 38.37,
+        "afr": 38.37,
+        "me": 155.12,
+        "eeur": 165.14,
+        "sam": 335.5,
+        "enam": 337.25,
+        "wnam": 430.37,
+        "apac": 600.75,
+        "oc": 805.12
+      }
+    },
+    "KHI": {
+      "hosts": {
+        "SIN": {
+          "likelihood": 1,
+          "latency": 45.8
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 46.06,
+        "afr": 502.2,
+        "weur": 519.37,
+        "eeur": 555.2,
+        "me": 576.53,
+        "oc": 660.93,
+        "wnam": 764.68,
+        "enam": 774.12,
+        "sam": 806.43
+      }
+    },
+    "KIV": {
+      "hosts": {
+        "FRA": {
+          "likelihood": 0.5,
+          "latency": 40.5
+        },
+        "ZRH": {
+          "likelihood": 0.25,
+          "latency": 32
+        },
+        "VIE": {
+          "likelihood": 0.25,
+          "latency": 34
+        }
+      },
+      "nearestRegion": "eeur",
+      "regions": {
+        "eeur": 40.25,
+        "me": 42,
+        "afr": 163,
+        "weur": 166,
+        "sam": 395.75,
+        "enam": 420.75,
+        "wnam": 495.5,
+        "apac": 660,
+        "oc": 881.5
+      }
+    },
+    "HNL": {
+      "hosts": {
+        "SJC": {
+          "likelihood": 0.5,
+          "latency": 63.5
+        },
+        "SEA": {
+          "likelihood": 0.5,
+          "latency": 64
+        }
+      },
+      "nearestRegion": "wnam",
+      "regions": {
+        "wnam": 53,
+        "enam": 314.25,
+        "sam": 362.75,
+        "apac": 531.25,
+        "afr": 540.5,
+        "oc": 586.25,
+        "weur": 650.5,
+        "eeur": 681.5,
+        "me": 741.25
+      }
+    },
+    "MRU": {
+      "hosts": {
+        "LHR": {
+          "likelihood": 0.75,
+          "latency": 110.66
+        },
+        "SIN": {
+          "likelihood": 0.25,
+          "latency": 42
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 195.25,
+        "afr": 396.25,
+        "weur": 612.75,
+        "me": 624,
+        "eeur": 665.75,
+        "wnam": 753,
+        "sam": 809.25,
+        "enam": 809.75,
+        "oc": 1118.75
+      }
+    },
+    "CPT": {
+      "hosts": {
+        "LHR": {
+          "likelihood": 0.75,
+          "latency": 102.66
+        },
+        "LIS": {
+          "likelihood": 0.25,
+          "latency": 115
+        }
+      },
+      "nearestRegion": "afr",
+      "regions": {
+        "afr": 106.25,
+        "weur": 107.25,
+        "me": 512.37,
+        "eeur": 514.87,
+        "sam": 639,
+        "enam": 670.5,
+        "wnam": 764.62,
+        "apac": 919.87,
+        "oc": 1160.75
+      }
+    },
+    "SLC": {
+      "hosts": {
+        "LAX": {
+          "likelihood": 0.75,
+          "latency": 35.33
+        },
+        "DEN": {
+          "likelihood": 0.25,
+          "latency": 43
+        }
+      },
+      "nearestRegion": "wnam",
+      "regions": {
+        "wnam": 42.75,
+        "enam": 199.5,
+        "sam": 206.25,
+        "weur": 393.75,
+        "afr": 417.25,
+        "eeur": 442.25,
+        "me": 462.75,
+        "oc": 507,
+        "apac": 540
+      }
+    },
+    "PTY": {
+      "hosts": {
+        "ATL": {
+          "likelihood": 0.5,
+          "latency": 54.5
+        },
+        "MIA": {
+          "likelihood": 0.5,
+          "latency": 59
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 54.33,
+        "enam": 56.5,
+        "wnam": 329,
+        "weur": 423,
+        "afr": 429.25,
+        "eeur": 482,
+        "me": 494.75,
+        "apac": 675.25,
+        "oc": 712.5
+      }
+    },
+    "TUN": {
+      "hosts": {
+        "CDG": {
+          "likelihood": 1,
+          "latency": 33.37
+        }
+      },
+      "nearestRegion": "afr",
+      "regions": {
+        "afr": 68.71,
+        "me": 83,
+        "weur": 102.42,
+        "eeur": 105.57,
+        "enam": 356.25,
+        "sam": 367.37,
+        "wnam": 477.87,
+        "apac": 576.87,
+        "oc": 1003.71
+      }
+    },
+    "COR": {
+      "hosts": {
+        "MIA": {
+          "likelihood": 0.75,
+          "latency": 109.33
+        },
+        "ATL": {
+          "likelihood": 0.25,
+          "latency": 103
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 104,
+        "sam": 104.75,
+        "wnam": 568,
+        "afr": 637.5,
+        "weur": 653.5,
+        "eeur": 677.75,
+        "me": 692.75,
+        "apac": 915,
+        "oc": 919.5
+      }
+    },
+    "VIE": {
+      "hosts": {
+        "WAW": {
+          "likelihood": 0.5294,
+          "latency": 40.77
+        },
+        "FRA": {
+          "likelihood": 0.3529,
+          "latency": 30.66
+        },
+        "VIE": {
+          "likelihood": 0.1176,
+          "latency": 20
+        }
+      },
+      "nearestRegion": "me",
+      "regions": {
+        "me": 32.29,
+        "eeur": 33.29,
+        "afr": 121.23,
+        "weur": 121.76,
+        "enam": 345.11,
+        "sam": 353.31,
+        "wnam": 473.64,
+        "apac": 595.75,
+        "oc": 825.25
+      }
+    },
+    "BGW": {
+      "hosts": {
+        "FRA": {
+          "likelihood": 0.4615,
+          "latency": 62.5
+        },
+        "MXP": {
+          "likelihood": 0.3846,
+          "latency": 58
+        },
+        "VIE": {
+          "likelihood": 0.1538,
+          "latency": 57
+        }
+      },
+      "nearestRegion": "eeur",
+      "regions": {
+        "eeur": 61.76,
+        "me": 62.76,
+        "afr": 276.23,
+        "weur": 282.84,
+        "enam": 492,
+        "sam": 495.69,
+        "wnam": 614.46,
+        "apac": 770.76,
+        "oc": 999.66
+      }
+    },
+    "QWJ": {
+      "hosts": {
+        "MIA": {
+          "likelihood": 1,
+          "latency": 96
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 78.66,
+        "sam": 87.33,
+        "weur": 510,
+        "me": 514.66,
+        "afr": 530.33,
+        "wnam": 538.33,
+        "eeur": 568,
+        "apac": 841.33,
+        "oc": 899.33
+      }
+    },
+    "LLK": {
+      "hosts": {
+        "AMS": {
+          "likelihood": 0.75,
+          "latency": 55.66
+        },
+        "FRA": {
+          "likelihood": 0.25,
+          "latency": 49
+        }
+      },
+      "nearestRegion": "weur",
+      "regions": {
+        "weur": 100.5,
+        "me": 124.25,
+        "afr": 157.33,
+        "eeur": 232,
+        "sam": 451.33,
+        "enam": 501.4,
+        "wnam": 586.6,
+        "apac": 656,
+        "oc": 1046
+      }
+    },
+    "VTE": {
+      "hosts": {
+        "SIN": {
+          "likelihood": 0.75,
+          "latency": 121.66
+        },
+        "HKG": {
+          "likelihood": 0.25,
+          "latency": 59
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 39,
+        "weur": 523.33,
+        "oc": 544.75,
+        "afr": 600,
+        "wnam": 641.5,
+        "me": 677.33,
+        "enam": 713.75,
+        "sam": 714,
+        "eeur": 775
+      }
+    },
+    "JOI": {
+      "hosts": {
+        "MIA": {
+          "likelihood": 1,
+          "latency": 101.66
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 95.66,
+        "enam": 98.66,
+        "afr": 530.33,
+        "weur": 553.66,
+        "eeur": 563,
+        "wnam": 580.66,
+        "me": 593,
+        "apac": 867,
+        "oc": 955
+      }
+    },
+    "HAN": {
+      "hosts": {
+        "HKG": {
+          "likelihood": 1,
+          "latency": 67.37
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 69.37,
+        "wnam": 559.75,
+        "me": 649.62,
+        "afr": 670.12,
+        "eeur": 679.37,
+        "sam": 700.87,
+        "enam": 702.37,
+        "weur": 709.62,
+        "oc": 720.75
+      }
+    },
+    "LYS": {
+      "hosts": {
+        "CDG": {
+          "likelihood": 0.6666,
+          "latency": 20.5
+        },
+        "MXP": {
+          "likelihood": 0.3333,
+          "latency": 30
+        }
+      },
+      "nearestRegion": "weur",
+      "regions": {
+        "weur": 36,
+        "afr": 49.33,
+        "me": 87.75,
+        "eeur": 87.75,
+        "enam": 289.2,
+        "sam": 291.25,
+        "wnam": 444,
+        "apac": 499.75,
+        "oc": 762
+      }
+    },
+    "ISU": {
+      "hosts": {
+        "PRG": {
+          "likelihood": 0.5,
+          "latency": 66
+        },
+        "MXP": {
+          "likelihood": 0.25,
+          "latency": 53
+        },
+        "FRA": {
+          "likelihood": 0.25,
+          "latency": 113
+        }
+      },
+      "nearestRegion": "me",
+      "regions": {
+        "me": 59.5,
+        "eeur": 66,
+        "afr": 232.25,
+        "weur": 248.75,
+        "enam": 428.25,
+        "sam": 452.25,
+        "wnam": 569.5,
+        "apac": 746.25,
+        "oc": 976.75
+      }
+    },
+    "PBM": {
+      "hosts": {
+        "ATL": {
+          "likelihood": 0.5,
+          "latency": 67
+        },
+        "MIA": {
+          "likelihood": 0.5,
+          "latency": 73
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 70.33,
+        "enam": 74.5,
+        "wnam": 331,
+        "weur": 476.66,
+        "afr": 478.66,
+        "eeur": 534.66,
+        "me": 559.33,
+        "apac": 625.66,
+        "oc": 843
+      }
+    },
+    "YWG": {
+      "hosts": {
+        "ORD": {
+          "likelihood": 0.75,
+          "latency": 53.66
+        },
+        "EWR": {
+          "likelihood": 0.25,
+          "latency": 52
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 54.5,
+        "enam": 55,
+        "wnam": 282,
+        "weur": 354.75,
+        "afr": 355.25,
+        "me": 408,
+        "eeur": 419.75,
+        "oc": 670,
+        "apac": 683.75
+      }
+    },
+    "CGP": {
+      "hosts": {
+        "SIN": {
+          "likelihood": 1,
+          "latency": 32.25
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 34.5,
+        "weur": 538,
+        "afr": 539,
+        "eeur": 545.5,
+        "me": 556.6,
+        "oc": 563.5,
+        "wnam": 728.25,
+        "enam": 735.33,
+        "sam": 756.5
+      }
+    },
+    "BEG": {
+      "hosts": {
+        "FRA": {
+          "likelihood": 0.5,
+          "latency": 38
+        },
+        "ZRH": {
+          "likelihood": 0.25,
+          "latency": 24
+        },
+        "VIE": {
+          "likelihood": 0.25,
+          "latency": 38
+        }
+      },
+      "nearestRegion": "me",
+      "regions": {
+        "me": 33.5,
+        "eeur": 35.25,
+        "afr": 150.25,
+        "weur": 172,
+        "sam": 381.25,
+        "enam": 388,
+        "wnam": 488.5,
+        "apac": 625.25,
+        "oc": 851.5
+      }
+    },
+    "PMW": {
+      "hosts": {
+        "MIA": {
+          "likelihood": 1,
+          "latency": 107.4
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 98.5,
+        "sam": 100.5,
+        "afr": 517.6,
+        "wnam": 533,
+        "weur": 552.5,
+        "me": 570.6,
+        "eeur": 586.2,
+        "apac": 885,
+        "oc": 945
+      }
+    },
+    "SEA": {
+      "hosts": {
+        "SEA": {
+          "likelihood": 1,
+          "latency": 39.7
+        }
+      },
+      "nearestRegion": "wnam",
+      "regions": {
+        "wnam": 42,
+        "sam": 259.1,
+        "enam": 269.38,
+        "apac": 420.1,
+        "weur": 438.15,
+        "afr": 440.21,
+        "me": 476.57,
+        "eeur": 488.26,
+        "oc": 555.57
+      }
+    },
+    "DUS": {
+      "hosts": {
+        "AMS": {
+          "likelihood": 0.5,
+          "latency": 24.25
+        },
+        "FRA": {
+          "likelihood": 0.5,
+          "latency": 26
+        }
+      },
+      "nearestRegion": "afr",
+      "regions": {
+        "afr": 38,
+        "weur": 44.22,
+        "eeur": 51.66,
+        "me": 52.42,
+        "sam": 304.66,
+        "enam": 311.44,
+        "wnam": 421.87,
+        "apac": 592.75,
+        "oc": 805
+      }
+    },
+    "TLL": {
+      "hosts": {
+        "WAW": {
+          "likelihood": 1,
+          "latency": 38.5
+        }
+      },
+      "nearestRegion": "eeur",
+      "regions": {
+        "eeur": 40.25,
+        "me": 46.75,
+        "afr": 167,
+        "weur": 209,
+        "enam": 336,
+        "sam": 354.5,
+        "wnam": 456,
+        "apac": 605.5,
+        "oc": 846.75
+      }
+    },
+    "IAH": {
+      "hosts": {
+        "DFW": {
+          "likelihood": 0.75,
+          "latency": 60
+        },
+        "IAD": {
+          "likelihood": 0.25,
+          "latency": 39
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 38,
+        "sam": 112,
+        "wnam": 137.25,
+        "weur": 338.5,
+        "eeur": 363.25,
+        "afr": 374.75,
+        "me": 396.75,
+        "apac": 542.5,
+        "oc": 617.75
+      }
+    },
+    "TLH": {
+      "hosts": {
+        "ATL": {
+          "likelihood": 0.5,
+          "latency": 30.5
+        },
+        "MIA": {
+          "likelihood": 0.5,
+          "latency": 45
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 44.5,
+        "enam": 46.5,
+        "wnam": 217,
+        "afr": 330,
+        "weur": 338.5,
+        "me": 368.25,
+        "eeur": 388,
+        "apac": 446.66,
+        "oc": 608.25
+      }
+    },
+    "DAD": {
+      "hosts": {
+        "SIN": {
+          "likelihood": 0.6666,
+          "latency": 33.5
+        },
+        "HKG": {
+          "likelihood": 0.3333,
+          "latency": 124
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 32.66,
+        "oc": 533,
+        "eeur": 563,
+        "wnam": 578.33,
+        "afr": 599,
+        "me": 646.33,
+        "weur": 668,
+        "enam": 700.5,
+        "sam": 750
+      }
+    },
+    "FOR": {
+      "hosts": {
+        "ORD": {
+          "likelihood": 0.5454,
+          "latency": 110.33
+        },
+        "IAD": {
+          "likelihood": 0.4545,
+          "latency": 118.2
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 103.72,
+        "sam": 113.45,
+        "afr": 470.27,
+        "weur": 485.27,
+        "me": 517.29,
+        "wnam": 534.45,
+        "eeur": 537.72,
+        "apac": 852.2,
+        "oc": 943.18
+      }
+    },
+    "MBA": {
+      "hosts": {
+        "AMS": {
+          "likelihood": 0.6,
+          "latency": 126.33
+        },
+        "FRA": {
+          "likelihood": 0.4,
+          "latency": 133
+        }
+      },
+      "nearestRegion": "weur",
+      "regions": {
+        "weur": 124.25,
+        "afr": 426.75,
+        "me": 648.25,
+        "sam": 738.75,
+        "eeur": 766.2,
+        "enam": 794.5,
+        "wnam": 857.2,
+        "apac": 1059,
+        "oc": 1193.25
+      }
+    },
+    "DKR": {
+      "hosts": {
+        "LIS": {
+          "likelihood": 0.75,
+          "latency": 83
+        },
+        "AMS": {
+          "likelihood": 0.25,
+          "latency": 51
+        }
+      },
+      "nearestRegion": "weur",
+      "regions": {
+        "weur": 44.5,
+        "afr": 54.75,
+        "eeur": 239.75,
+        "me": 253.25,
+        "sam": 448,
+        "enam": 454,
+        "wnam": 513,
+        "apac": 700.75,
+        "oc": 904.5
+      }
+    },
+    "YHZ": {
+      "hosts": {
+        "EWR": {
+          "likelihood": 0.7142,
+          "latency": 34.79
+        },
+        "IAD": {
+          "likelihood": 0.2857,
+          "latency": 40
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 31.37,
+        "sam": 32.62,
+        "wnam": 245.5,
+        "afr": 278.87,
+        "weur": 288,
+        "me": 317,
+        "eeur": 330.75,
+        "apac": 598.12,
+        "oc": 668.28
+      }
+    },
+    "MNL": {
+      "hosts": {
+        "SIN": {
+          "likelihood": 0.5714,
+          "latency": 38.87
+        },
+        "HKG": {
+          "likelihood": 0.4285,
+          "latency": 64.25
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 62.35,
+        "oc": 579.82,
+        "wnam": 608.85,
+        "afr": 610,
+        "weur": 621.03,
+        "me": 637.25,
+        "eeur": 648.77,
+        "enam": 749.21,
+        "sam": 751.92
+      }
+    },
+    "BAQ": {
+      "hosts": {
+        "ATL": {
+          "likelihood": 0.5,
+          "latency": 56
+        },
+        "MIA": {
+          "likelihood": 0.5,
+          "latency": 59.5
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 55.5,
+        "sam": 56.5,
+        "wnam": 299.5,
+        "me": 452.5,
+        "eeur": 469.25,
+        "afr": 545,
+        "weur": 552.25,
+        "apac": 706.5,
+        "oc": 720.75
+      }
+    },
+    "HRE": {
+      "hosts": {
+        "MAD": {
+          "likelihood": 0.75,
+          "latency": 105.66
+        },
+        "LIS": {
+          "likelihood": 0.25,
+          "latency": 108
+        }
+      },
+      "nearestRegion": "afr",
+      "regions": {
+        "afr": 107.6,
+        "weur": 124,
+        "eeur": 539.79,
+        "me": 559.79,
+        "sam": 701.4,
+        "enam": 723.4,
+        "wnam": 832.2,
+        "apac": 907.2,
+        "oc": 1214.2
+      }
+    },
+    "HFA": {
+      "hosts": {
+        "AMS": {
+          "likelihood": 0.6,
+          "latency": 52.66
+        },
+        "FRA": {
+          "likelihood": 0.4,
+          "latency": 62.5
+        }
+      },
+      "nearestRegion": "me",
+      "regions": {
+        "me": 190.75,
+        "afr": 193,
+        "weur": 203.2,
+        "eeur": 206.6,
+        "sam": 403.4,
+        "enam": 450.2,
+        "wnam": 546,
+        "apac": 632.25,
+        "oc": 907.2
+      }
+    },
+    "CLO": {
+      "hosts": {
+        "IAD": {
+          "likelihood": 0.5,
+          "latency": 111.5
+        },
+        "EWR": {
+          "likelihood": 0.25,
+          "latency": 105
+        },
+        "ORD": {
+          "likelihood": 0.25,
+          "latency": 120
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 122.25,
+        "sam": 122.5,
+        "wnam": 460.5,
+        "weur": 663.75,
+        "afr": 704.25,
+        "eeur": 724.25,
+        "me": 735.75,
+        "apac": 849.75,
+        "oc": 1000.25
+      }
+    },
+    "GYE": {
+      "hosts": {
+        "ATL": {
+          "likelihood": 0.5454,
+          "latency": 61.5
+        },
+        "MIA": {
+          "likelihood": 0.4545,
+          "latency": 72
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 65.18,
+        "sam": 68.63,
+        "wnam": 354.81,
+        "weur": 472.54,
+        "afr": 472.83,
+        "me": 504.58,
+        "eeur": 522,
+        "apac": 718.09,
+        "oc": 799.25
+      }
+    },
+    "EVN": {
+      "hosts": {
+        "FRA": {
+          "likelihood": 0.5555,
+          "latency": 58.2
+        },
+        "AMS": {
+          "likelihood": 0.4444,
+          "latency": 50.5
+        }
+      },
+      "nearestRegion": "weur",
+      "regions": {
+        "weur": 115.12,
+        "eeur": 129.12,
+        "me": 183.62,
+        "afr": 194,
+        "sam": 433.87,
+        "enam": 444.33,
+        "wnam": 589.33,
+        "apac": 747.37,
+        "oc": 912.5
+      }
+    },
+    "PDX": {
+      "hosts": {
+        "SJC": {
+          "likelihood": 0.625,
+          "latency": 31.4
+        },
+        "SEA": {
+          "likelihood": 0.375,
+          "latency": 43.33
+        }
+      },
+      "nearestRegion": "wnam",
+      "regions": {
+        "wnam": 39.5,
+        "enam": 244.25,
+        "sam": 252.62,
+        "weur": 465.5,
+        "afr": 466.12,
+        "apac": 480.12,
+        "oc": 497.5,
+        "me": 501.12,
+        "eeur": 525.5
+      }
+    },
+    "AUS": {
+      "hosts": {
+        "DEN": {
+          "likelihood": 0.6666,
+          "latency": 46.5
+        },
+        "DFW": {
+          "likelihood": 0.3333,
+          "latency": 46
+        }
+      },
+      "nearestRegion": "wnam",
+      "regions": {
+        "wnam": 48,
+        "enam": 154.33,
+        "sam": 192.66,
+        "weur": 377,
+        "me": 395,
+        "afr": 396.25,
+        "eeur": 418.75,
+        "apac": 558.75,
+        "oc": 578.5
+      }
+    },
+    "TIA": {
+      "hosts": {
+        "FRA": {
+          "likelihood": 0.6,
+          "latency": 37
+        },
+        "VIE": {
+          "likelihood": 0.4,
+          "latency": 38.5
+        }
+      },
+      "nearestRegion": "eeur",
+      "regions": {
+        "eeur": 36.6,
+        "me": 44.8,
+        "weur": 157.6,
+        "afr": 182,
+        "enam": 383,
+        "sam": 414,
+        "wnam": 468.2,
+        "apac": 686,
+        "oc": 849.8
+      }
+    },
+    "ZRH": {
+      "hosts": {
+        "MXP": {
+          "likelihood": 0.5,
+          "latency": 34.5
+        },
+        "ZRH": {
+          "likelihood": 0.25,
+          "latency": 14
+        },
+        "FRA": {
+          "likelihood": 0.25,
+          "latency": 25
+        }
+      },
+      "nearestRegion": "eeur",
+      "regions": {
+        "eeur": 24.57,
+        "me": 25.25,
+        "weur": 89.5,
+        "afr": 92.37,
+        "sam": 321.62,
+        "enam": 336.12,
+        "wnam": 413.25,
+        "apac": 530.87,
+        "oc": 802.12
+      }
+    },
+    "MEM": {
+      "hosts": {
+        "DFW": {
+          "likelihood": 0.6666,
+          "latency": 46.5
+        },
+        "ATL": {
+          "likelihood": 0.3333,
+          "latency": 32
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 59.33,
+        "sam": 69.66,
+        "wnam": 116,
+        "weur": 326.66,
+        "afr": 328,
+        "eeur": 378,
+        "me": 383.66,
+        "oc": 558.66,
+        "apac": 605
+      }
+    },
+    "GOT": {
+      "hosts": {
+        "AMS": {
+          "likelihood": 0.5,
+          "latency": 27
+        },
+        "ARN": {
+          "likelihood": 0.5,
+          "latency": 47
+        }
+      },
+      "nearestRegion": "afr",
+      "regions": {
+        "afr": 28.25,
+        "weur": 51,
+        "me": 86.5,
+        "eeur": 115.75,
+        "enam": 303.75,
+        "sam": 316.75,
+        "wnam": 418,
+        "apac": 659.5,
+        "oc": 813.5
+      }
+    },
+    "MAA": {
+      "hosts": {
+        "SIN": {
+          "likelihood": 1,
+          "latency": 40.5
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 40.05,
+        "weur": 635.87,
+        "afr": 646.22,
+        "eeur": 685.11,
+        "me": 707.29,
+        "oc": 740.11,
+        "wnam": 751.52,
+        "sam": 849.31,
+        "enam": 857.76
+      }
+    },
+    "GVA": {
+      "hosts": {
+        "ZRH": {
+          "likelihood": 0.75,
+          "latency": 16
+        },
+        "MRS": {
+          "likelihood": 0.25,
+          "latency": 29
+        }
+      },
+      "nearestRegion": "me",
+      "regions": {
+        "me": 56.75,
+        "eeur": 58,
+        "weur": 78.25,
+        "afr": 89.75,
+        "sam": 287.25,
+        "enam": 322.5,
+        "wnam": 435,
+        "apac": 613.75,
+        "oc": 722.5
+      }
+    },
+    "IXC": {
+      "hosts": {
+        "SIN": {
+          "likelihood": 1,
+          "latency": 47
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 54.25,
+        "afr": 476.5,
+        "weur": 480.5,
+        "eeur": 492.75,
+        "me": 497.25,
+        "oc": 584.25,
+        "wnam": 702.25,
+        "sam": 724,
+        "enam": 739
+      }
+    },
+    "ASU": {
+      "hosts": {
+        "MIA": {
+          "likelihood": 0.75,
+          "latency": 106
+        },
+        "EWR": {
+          "likelihood": 0.25,
+          "latency": 101
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 105.66,
+        "sam": 107,
+        "wnam": 566.25,
+        "weur": 566.25,
+        "eeur": 573.75,
+        "afr": 579.5,
+        "me": 602.25,
+        "apac": 901.5,
+        "oc": 946.75
+      }
+    },
+    "KEF": {
+      "hosts": {
+        "AMS": {
+          "likelihood": 1,
+          "latency": 43
+        }
+      },
+      "nearestRegion": "afr",
+      "regions": {
+        "afr": 37.33,
+        "weur": 41.25,
+        "me": 190.33,
+        "eeur": 210.25,
+        "enam": 365,
+        "sam": 428.25,
+        "wnam": 496,
+        "apac": 737,
+        "oc": 808
+      }
+    },
+    "GRU": {
+      "hosts": {
+        "MIA": {
+          "likelihood": 0.6363,
+          "latency": 97.74
+        },
+        "EWR": {
+          "likelihood": 0.3636,
+          "latency": 82.1
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 91.33,
+        "sam": 93.54,
+        "afr": 501.22,
+        "wnam": 501.51,
+        "weur": 503.28,
+        "me": 527.41,
+        "eeur": 539.28,
+        "apac": 838.69,
+        "oc": 898.94
+      }
+    },
+    "HBA": {
+      "hosts": {
+        "MEL": {
+          "likelihood": 0.5,
+          "latency": 30
+        },
+        "SYD": {
+          "likelihood": 0.5,
+          "latency": 34
+        }
+      },
+      "nearestRegion": "oc",
+      "regions": {
+        "oc": 33.75,
+        "wnam": 485.25,
+        "apac": 536.75,
+        "enam": 600.25,
+        "sam": 618.5,
+        "weur": 815.75,
+        "afr": 837,
+        "eeur": 886.75,
+        "me": 898.5
+      }
+    },
+    "CBR": {
+      "hosts": {
+        "BNE": {
+          "likelihood": 0.5,
+          "latency": 33
+        },
+        "MEL": {
+          "likelihood": 0.5,
+          "latency": 33.5
+        }
+      },
+      "nearestRegion": "oc",
+      "regions": {
+        "oc": 31,
+        "apac": 374.25,
+        "wnam": 477.75,
+        "sam": 582.5,
+        "afr": 754.75,
+        "enam": 763.5,
+        "weur": 806,
+        "me": 828,
+        "eeur": 837.5
+      }
+    },
+    "LHR": {
+      "hosts": {
+        "LHR": {
+          "likelihood": 0.75,
+          "latency": 21.22
+        },
+        "AMS": {
+          "likelihood": 0.25,
+          "latency": 23.16
+        }
+      },
+      "nearestRegion": "afr",
+      "regions": {
+        "afr": 20.44,
+        "weur": 21.5,
+        "eeur": 106.29,
+        "me": 106.4,
+        "enam": 277.02,
+        "sam": 293.79,
+        "wnam": 383.06,
+        "apac": 597.83,
+        "oc": 762.72
+      }
+    },
+    "LED": {
+      "hosts": {
+        "ARN": {
+          "likelihood": 1,
+          "latency": 51
+        }
+      },
+      "nearestRegion": "eeur",
+      "regions": {
+        "eeur": 54,
+        "me": 56.5,
+        "afr": 173.75,
+        "weur": 202.25,
+        "enam": 412.25,
+        "sam": 413.25,
+        "wnam": 505.75,
+        "apac": 635.75,
+        "oc": 892
+      }
+    },
+    "BEL": {
+      "hosts": {
+        "ATL": {
+          "likelihood": 0.75,
+          "latency": 110.5
+        },
+        "IAD": {
+          "likelihood": 0.25,
+          "latency": 122
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 110.71,
+        "sam": 115.12,
+        "weur": 524.37,
+        "afr": 534.37,
+        "eeur": 551,
+        "wnam": 563.25,
+        "me": 573,
+        "apac": 851.87,
+        "oc": 993.12
+      }
+    },
+    "FRU": {
+      "hosts": {
+        "WAW": {
+          "likelihood": 0.6666,
+          "latency": 95
+        },
+        "ARN": {
+          "likelihood": 0.3333,
+          "latency": 91
+        }
+      },
+      "nearestRegion": "me",
+      "regions": {
+        "me": 83.33,
+        "eeur": 90.33,
+        "weur": 380,
+        "afr": 383.25,
+        "sam": 551.75,
+        "enam": 565.25,
+        "wnam": 659.5,
+        "apac": 763.75,
+        "oc": 1058.5
+      }
+    },
+    "BAH": {
+      "hosts": {
+        "SIN": {
+          "likelihood": 0.75,
+          "latency": 79.5
+        },
+        "CDG": {
+          "likelihood": 0.25,
+          "latency": 57
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 314.28,
+        "weur": 360.71,
+        "me": 410.33,
+        "eeur": 471.25,
+        "afr": 534.5,
+        "enam": 618.25,
+        "sam": 635.55,
+        "wnam": 777.22,
+        "oc": 818.75
+      }
+    },
+    "RIC": {
+      "hosts": {
+        "IAD": {
+          "likelihood": 0.5,
+          "latency": 30.5
+        },
+        "ATL": {
+          "likelihood": 0.5,
+          "latency": 33.5
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 30.66,
+        "enam": 33,
+        "wnam": 186.5,
+        "afr": 274,
+        "weur": 304.25,
+        "me": 315.75,
+        "eeur": 329.25,
+        "oc": 586,
+        "apac": 606.5
+      }
+    },
+    "DXB": {
+      "hosts": {
+        "SIN": {
+          "likelihood": 1,
+          "latency": 96.58
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 96.16,
+        "me": 523.41,
+        "eeur": 535.33,
+        "weur": 537.83,
+        "afr": 557.18,
+        "wnam": 701.33,
+        "sam": 754.33,
+        "enam": 770,
+        "oc": 781.66
+      }
+    },
+    "BGR": {
+      "hosts": {
+        "IAD": {
+          "likelihood": 1,
+          "latency": 38.5
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 34.5,
+        "sam": 41.75,
+        "wnam": 232.75,
+        "afr": 258.25,
+        "weur": 315.5,
+        "eeur": 404,
+        "me": 405.25,
+        "apac": 654.25,
+        "oc": 655
+      }
+    },
+    "DEL": {
+      "hosts": {
+        "NRT": {
+          "likelihood": 0.5652,
+          "latency": 116.76
+        },
+        "KIX": {
+          "likelihood": 0.2608,
+          "latency": 150.66
+        },
+        "SIN": {
+          "likelihood": 0.1739,
+          "latency": 67.5
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 123.47,
+        "wnam": 796.17,
+        "weur": 827.78,
+        "me": 872.04,
+        "afr": 872.47,
+        "eeur": 875.56,
+        "sam": 893.43,
+        "enam": 893.73,
+        "oc": 900.04
+      }
+    },
+    "SAT": {
+      "hosts": {
+        "DFW": {
+          "likelihood": 1,
+          "latency": 46.25
+        }
+      },
+      "nearestRegion": "wnam",
+      "regions": {
+        "wnam": 45.25,
+        "enam": 159.5,
+        "sam": 177.8,
+        "weur": 374.6,
+        "afr": 381.2,
+        "eeur": 398.75,
+        "me": 409,
+        "oc": 551.75,
+        "apac": 563
+      }
+    },
+    "MAN": {
+      "hosts": {
+        "LHR": {
+          "likelihood": 0.8,
+          "latency": 23.25
+        },
+        "AMS": {
+          "likelihood": 0.2,
+          "latency": 22.33
+        }
+      },
+      "nearestRegion": "weur",
+      "regions": {
+        "weur": 23.66,
+        "afr": 25.35,
+        "me": 118.11,
+        "eeur": 121.31,
+        "enam": 275.2,
+        "sam": 283.37,
+        "wnam": 400.53,
+        "apac": 611.47,
+        "oc": 784.82
+      }
+    },
+    "NVT": {
+      "hosts": {
+        "MIA": {
+          "likelihood": 0.75,
+          "latency": 95
+        },
+        "EWR": {
+          "likelihood": 0.25,
+          "latency": 77
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 90.75,
+        "enam": 97.75,
+        "weur": 518.25,
+        "afr": 525.25,
+        "eeur": 526.5,
+        "wnam": 533.25,
+        "me": 533.5,
+        "apac": 830,
+        "oc": 895.5
+      }
+    },
+    "SYD": {
+      "hosts": {
+        "SYD": {
+          "likelihood": 0.375,
+          "latency": 26.66
+        },
+        "MEL": {
+          "likelihood": 0.375,
+          "latency": 29.16
+        },
+        "BNE": {
+          "likelihood": 0.25,
+          "latency": 32.25
+        }
+      },
+      "nearestRegion": "oc",
+      "regions": {
+        "oc": 27.42,
+        "apac": 404.21,
+        "wnam": 496.6,
+        "enam": 587.06,
+        "sam": 587.06,
+        "afr": 789.13,
+        "weur": 792.81,
+        "eeur": 823.06,
+        "me": 839.42
+      }
+    },
+    "ALG": {
+      "hosts": {
+        "MAD": {
+          "likelihood": 0.5,
+          "latency": 52.5
+        },
+        "MRS": {
+          "likelihood": 0.25,
+          "latency": 41.5
+        },
+        "MXP": {
+          "likelihood": 0.25,
+          "latency": 57.5
+        }
+      },
+      "nearestRegion": "weur",
+      "regions": {
+        "weur": 116.5,
+        "me": 136.62,
+        "eeur": 147.25,
+        "afr": 161.87,
+        "sam": 425.87,
+        "enam": 442.87,
+        "wnam": 565.25,
+        "apac": 726,
+        "oc": 1260.62
+      }
+    },
+    "AMM": {
+      "hosts": {
+        "LHR": {
+          "likelihood": 0.875,
+          "latency": 53.64
+        },
+        "MRS": {
+          "likelihood": 0.125,
+          "latency": 62
+        }
+      },
+      "nearestRegion": "weur",
+      "regions": {
+        "weur": 51.4,
+        "afr": 52.8,
+        "eeur": 235.12,
+        "me": 253.26,
+        "enam": 417.12,
+        "sam": 427.6,
+        "wnam": 544.5,
+        "apac": 693.5,
+        "oc": 886.26
+      }
+    },
+    "KIX": {
+      "hosts": {
+        "KIX": {
+          "likelihood": 0.5625,
+          "latency": 18.33
+        },
+        "NRT": {
+          "likelihood": 0.4375,
+          "latency": 20.28
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 19.23,
+        "wnam": 349.68,
+        "sam": 474.82,
+        "enam": 490.56,
+        "weur": 625.76,
+        "me": 640.05,
+        "afr": 641.25,
+        "eeur": 646.17,
+        "oc": 866.12
+      }
+    },
+    "AMD": {
+      "hosts": {
+        "SIN": {
+          "likelihood": 1,
+          "latency": 42.66
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 42.62,
+        "afr": 487.77,
+        "me": 504.77,
+        "weur": 510.66,
+        "eeur": 517.37,
+        "oc": 636.44,
+        "wnam": 670.66,
+        "enam": 744.87,
+        "sam": 747.88
+      }
+    },
+    "FLN": {
+      "hosts": {
+        "EWR": {
+          "likelihood": 0.6666,
+          "latency": 86.5
+        },
+        "MIA": {
+          "likelihood": 0.3333,
+          "latency": 106
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 93,
+        "enam": 102,
+        "weur": 533,
+        "afr": 548.66,
+        "me": 554,
+        "wnam": 568.66,
+        "eeur": 569,
+        "apac": 917.66,
+        "oc": 943.66
+      }
+    },
+    "RAO": {
+      "hosts": {
+        "MIA": {
+          "likelihood": 0.6666,
+          "latency": 94.75
+        },
+        "EWR": {
+          "likelihood": 0.3333,
+          "latency": 68.5
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 85.85,
+        "sam": 87.28,
+        "wnam": 502.14,
+        "afr": 534.33,
+        "weur": 539.83,
+        "eeur": 597.71,
+        "apac": 845.16,
+        "oc": 908,
+        "me": 1042.85
+      }
+    },
+    "CNX": {
+      "hosts": {
+        "SIN": {
+          "likelihood": 1,
+          "latency": 31.5
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 29.33,
+        "me": 524.4,
+        "eeur": 545.5,
+        "wnam": 584,
+        "oc": 596.5,
+        "afr": 596.6,
+        "weur": 616.75,
+        "sam": 723.33,
+        "enam": 728
+      }
+    },
+    "OSL": {
+      "hosts": {
+        "ARN": {
+          "likelihood": 1,
+          "latency": 45.75
+        }
+      },
+      "nearestRegion": "eeur",
+      "regions": {
+        "eeur": 44.57,
+        "me": 46,
+        "weur": 164.87,
+        "afr": 171.75,
+        "enam": 361.37,
+        "sam": 377.62,
+        "wnam": 479.37,
+        "apac": 682.25,
+        "oc": 879.12
+      }
+    },
+    "JDO": {
+      "hosts": {
+        "MIA": {
+          "likelihood": 1,
+          "latency": 105.25
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 83,
+        "sam": 93,
+        "weur": 478.5,
+        "wnam": 496,
+        "eeur": 519.5,
+        "me": 553,
+        "afr": 574,
+        "oc": 830.75,
+        "apac": 897.5
+      }
+    },
+    "PAT": {
+      "hosts": {
+        "SIN": {
+          "likelihood": 1,
+          "latency": 54.33
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 43.75,
+        "afr": 491.25,
+        "weur": 503.75,
+        "eeur": 515.5,
+        "me": 522.25,
+        "oc": 601.25,
+        "wnam": 700.75,
+        "enam": 743.75,
+        "sam": 760.75
+      }
+    },
+    "CNN": {
+      "hosts": {
+        "SIN": {
+          "likelihood": 1,
+          "latency": 100.33
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 100.66,
+        "weur": 537,
+        "me": 569,
+        "afr": 578.33,
+        "eeur": 590.33,
+        "wnam": 705,
+        "oc": 725.33,
+        "enam": 834.33,
+        "sam": 844.66
+      }
+    },
+    "BTS": {
+      "hosts": {
+        "FRA": {
+          "likelihood": 0.6666,
+          "latency": 27
+        },
+        "PRG": {
+          "likelihood": 0.3333,
+          "latency": 25
+        }
+      },
+      "nearestRegion": "eeur",
+      "regions": {
+        "eeur": 26.75,
+        "me": 27,
+        "weur": 109,
+        "afr": 120,
+        "sam": 329.75,
+        "enam": 330,
+        "wnam": 439,
+        "apac": 615.5,
+        "oc": 808
+      }
+    },
+    "OTP": {
+      "hosts": {
+        "FRA": {
+          "likelihood": 0.5,
+          "latency": 40.25
+        },
+        "WAW": {
+          "likelihood": 0.5,
+          "latency": 51.5
+        }
+      },
+      "nearestRegion": "me",
+      "regions": {
+        "me": 39.62,
+        "eeur": 45,
+        "afr": 162.37,
+        "weur": 194.37,
+        "enam": 374.5,
+        "sam": 377.5,
+        "wnam": 505.75,
+        "apac": 578.75,
+        "oc": 863.25
+      }
+    },
+    "DUR": {
+      "hosts": {
+        "MAD": {
+          "likelihood": 1,
+          "latency": 105
+        }
+      },
+      "nearestRegion": "afr",
+      "regions": {
+        "afr": 108.6,
+        "weur": 110.6,
+        "me": 548,
+        "eeur": 553,
+        "sam": 718,
+        "enam": 726,
+        "wnam": 820.2,
+        "apac": 876.4,
+        "oc": 1210.2
+      }
+    },
+    "LUN": {
+      "hosts": {
+        "MAD": {
+          "likelihood": 0.5,
+          "latency": 125
+        },
+        "LHR": {
+          "likelihood": 0.25,
+          "latency": 115
+        },
+        "MRS": {
+          "likelihood": 0.25,
+          "latency": 118
+        }
+      },
+      "nearestRegion": "weur",
+      "regions": {
+        "weur": 118.5,
+        "afr": 125,
+        "eeur": 576.75,
+        "me": 600.5,
+        "enam": 763,
+        "sam": 780.5,
+        "wnam": 889.75,
+        "apac": 952.5,
+        "oc": 1215
+      }
+    },
+    "KUL": {
+      "hosts": {
+        "SIN": {
+          "likelihood": 1,
+          "latency": 14.17
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 13.87,
+        "weur": 443.46,
+        "afr": 451.25,
+        "eeur": 470.56,
+        "oc": 484.06,
+        "me": 492.86,
+        "wnam": 532.11,
+        "enam": 653.43,
+        "sam": 660.93
+      }
+    },
+    "AKL": {
+      "hosts": {
+        "AKL": {
+          "likelihood": 1,
+          "latency": 37
+        }
+      },
+      "nearestRegion": "oc",
+      "regions": {
+        "oc": 39,
+        "wnam": 550.5,
+        "sam": 636,
+        "enam": 650.5,
+        "weur": 788.75,
+        "eeur": 823.5,
+        "apac": 823.75,
+        "afr": 823.75,
+        "me": 849
+      }
+    },
+    "BUF": {
+      "hosts": {
+        "EWR": {
+          "likelihood": 1,
+          "latency": 32.5
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 39,
+        "sam": 40.66,
+        "wnam": 234,
+        "afr": 266.66,
+        "me": 321.5,
+        "weur": 322,
+        "eeur": 338.66,
+        "apac": 573.33,
+        "oc": 618.75
+      }
+    },
+    "CZL": {
+      "hosts": {
+        "MXP": {
+          "likelihood": 0.75,
+          "latency": 39.66
+        },
+        "MRS": {
+          "likelihood": 0.25,
+          "latency": 39
+        }
+      },
+      "nearestRegion": "weur",
+      "regions": {
+        "weur": 112,
+        "afr": 114.75,
+        "eeur": 153,
+        "me": 199.5,
+        "enam": 369.75,
+        "sam": 371.5,
+        "wnam": 516,
+        "apac": 660.5,
+        "oc": 853
+      }
+    },
+    "PBH": {
+      "hosts": {
+        "SIN": {
+          "likelihood": 1,
+          "latency": 59
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 58.5,
+        "oc": 617,
+        "weur": 654.25,
+        "afr": 655.5,
+        "me": 687.75,
+        "eeur": 734,
+        "wnam": 739.25,
+        "enam": 846.75,
+        "sam": 856.25
+      }
+    },
+    "AMS": {
+      "hosts": {
+        "AMS": {
+          "likelihood": 0.75,
+          "latency": 19.94
+        },
+        "LHR": {
+          "likelihood": 0.25,
+          "latency": 19.75
+        }
+      },
+      "nearestRegion": "afr",
+      "regions": {
+        "afr": 19.67,
+        "weur": 19.82,
+        "me": 93.28,
+        "eeur": 93.93,
+        "enam": 304.5,
+        "sam": 311.91,
+        "wnam": 397.53,
+        "apac": 565.5,
+        "oc": 855.86
+      }
+    },
+    "GBE": {
+      "hosts": {
+        "LIS": {
+          "likelihood": 1,
+          "latency": 152
+        }
+      },
+      "nearestRegion": "afr",
+      "regions": {
+        "afr": 144,
+        "weur": 149.5,
+        "me": 589.5,
+        "eeur": 599,
+        "sam": 725.66,
+        "enam": 737.66,
+        "wnam": 870.33,
+        "apac": 875.5,
+        "oc": 1220.5
+      }
+    },
+    "MSP": {
+      "hosts": {
+        "ORD": {
+          "likelihood": 1,
+          "latency": 38.4
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 39.2,
+        "sam": 39.75,
+        "wnam": 195,
+        "weur": 321,
+        "afr": 328.8,
+        "me": 366,
+        "eeur": 379.2,
+        "apac": 551.2,
+        "oc": 600.4
+      }
+    },
+    "ARN": {
+      "hosts": {
+        "ARN": {
+          "likelihood": 1,
+          "latency": 42.05
+        }
+      },
+      "nearestRegion": "eeur",
+      "regions": {
+        "eeur": 41.6,
+        "me": 43.22,
+        "afr": 145,
+        "weur": 148,
+        "sam": 351.27,
+        "enam": 353.76,
+        "wnam": 462.52,
+        "apac": 570.41,
+        "oc": 879
+      }
+    },
+    "CGB": {
+      "hosts": {
+        "MIA": {
+          "likelihood": 0.6666,
+          "latency": 91
+        },
+        "EWR": {
+          "likelihood": 0.3333,
+          "latency": 75
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 83,
+        "sam": 85.33,
+        "weur": 531.33,
+        "wnam": 531.33,
+        "afr": 533.66,
+        "eeur": 557,
+        "me": 563,
+        "apac": 867.66,
+        "oc": 951.66
+      }
+    },
+    "SSA": {
+      "hosts": {
+        "MAD": {
+          "likelihood": 0.75,
+          "latency": 74
+        },
+        "MIA": {
+          "likelihood": 0.25,
+          "latency": 125
+        }
+      },
+      "nearestRegion": "weur",
+      "regions": {
+        "weur": 318.5,
+        "afr": 334.25,
+        "sam": 360.25,
+        "enam": 489.25,
+        "eeur": 523.5,
+        "me": 552.25,
+        "wnam": 552.75,
+        "apac": 859.5,
+        "oc": 891
+      }
+    },
+    "HEL": {
+      "hosts": {
+        "ARN": {
+          "likelihood": 1,
+          "latency": 44.57
+        }
+      },
+      "nearestRegion": "me",
+      "regions": {
+        "me": 44.87,
+        "eeur": 46.16,
+        "weur": 146.37,
+        "afr": 172.62,
+        "enam": 359.37,
+        "sam": 374.25,
+        "wnam": 488.37,
+        "apac": 626.62,
+        "oc": 876.5
+      }
+    },
+    "DEN": {
+      "hosts": {
+        "DEN": {
+          "likelihood": 1,
+          "latency": 37.37
+        }
+      },
+      "nearestRegion": "wnam",
+      "regions": {
+        "wnam": 38.87,
+        "enam": 165.5,
+        "sam": 189.42,
+        "afr": 356.75,
+        "weur": 377.12,
+        "eeur": 405.12,
+        "me": 421.33,
+        "apac": 495.5,
+        "oc": 556.25
+      }
+    },
+    "MPM": {
+      "hosts": {
+        "LHR": {
+          "likelihood": 0.5,
+          "latency": 113.5
+        },
+        "AMS": {
+          "likelihood": 0.5,
+          "latency": 121
+        }
+      },
+      "nearestRegion": "weur",
+      "regions": {
+        "weur": 112,
+        "afr": 115.25,
+        "me": 554.25,
+        "eeur": 557.5,
+        "sam": 727,
+        "enam": 741.25,
+        "wnam": 844.75,
+        "apac": 1202.75,
+        "oc": 1241.5
+      }
+    },
+    "SAN": {
+      "hosts": {
+        "LAX": {
+          "likelihood": 1,
+          "latency": 23.25
+        }
+      },
+      "nearestRegion": "wnam",
+      "regions": {
+        "wnam": 25,
+        "enam": 202.25,
+        "sam": 228.75,
+        "afr": 393.75,
+        "weur": 426.5,
+        "apac": 438.5,
+        "eeur": 447.25,
+        "oc": 456,
+        "me": 475.75
+      }
+    },
+    "BGI": {
+      "hosts": {
+        "MIA": {
+          "likelihood": 1,
+          "latency": 54.66
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 54.33,
+        "enam": 58,
+        "wnam": 328.66,
+        "afr": 435.33,
+        "weur": 436,
+        "me": 472.66,
+        "eeur": 494.66,
+        "apac": 651.66,
+        "oc": 718.66
+      }
+    },
+    "AKX": {
+      "hosts": {
+        "ARN": {
+          "likelihood": 1,
+          "latency": 68
+        }
+      },
+      "nearestRegion": "me",
+      "regions": {
+        "me": 68.75,
+        "eeur": 72,
+        "weur": 269.75,
+        "afr": 318,
+        "enam": 499.25,
+        "sam": 526,
+        "wnam": 603.75,
+        "apac": 721.25,
+        "oc": 1005.75
+      }
+    },
+    "MEL": {
+      "hosts": {
+        "SYD": {
+          "likelihood": 0.6666,
+          "latency": 33.25
+        },
+        "MEL": {
+          "likelihood": 0.3333,
+          "latency": 28
+        }
+      },
+      "nearestRegion": "oc",
+      "regions": {
+        "oc": 30.08,
+        "wnam": 530.41,
+        "enam": 600.25,
+        "sam": 605,
+        "apac": 614.38,
+        "eeur": 841.07,
+        "afr": 845.69,
+        "me": 865.91,
+        "weur": 868.25
+      }
+    },
+    "GUM": {
+      "hosts": {
+        "LAX": {
+          "likelihood": 1,
+          "latency": 98.25
+        }
+      },
+      "nearestRegion": "wnam",
+      "regions": {
+        "wnam": 94.75,
+        "enam": 560.25,
+        "sam": 724.66,
+        "apac": 769,
+        "me": 816,
+        "eeur": 834.75,
+        "weur": 956,
+        "afr": 1008.66,
+        "oc": 1032.66
+      }
+    },
+    "REC": {
+      "hosts": {
+        "EWR": {
+          "likelihood": 0.5,
+          "latency": 109.5
+        },
+        "MIA": {
+          "likelihood": 0.5,
+          "latency": 119.75
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 114.85,
+        "sam": 116.85,
+        "weur": 455.37,
+        "afr": 466.25,
+        "me": 496.12,
+        "eeur": 513.62,
+        "wnam": 527.87,
+        "apac": 810.12,
+        "oc": 887.62
+      }
+    },
+    "LAS": {
+      "hosts": {
+        "LAX": {
+          "likelihood": 1,
+          "latency": 53
+        }
+      },
+      "nearestRegion": "wnam",
+      "regions": {
+        "wnam": 51.2,
+        "enam": 213.2,
+        "sam": 223,
+        "weur": 420,
+        "afr": 428.4,
+        "me": 466.5,
+        "eeur": 476,
+        "apac": 480,
+        "oc": 698
+      }
+    },
+    "ADL": {
+      "hosts": {
+        "SYD": {
+          "likelihood": 0.8,
+          "latency": 34
+        },
+        "MEL": {
+          "likelihood": 0.2,
+          "latency": 28
+        }
+      },
+      "nearestRegion": "oc",
+      "regions": {
+        "oc": 31.4,
+        "wnam": 517.4,
+        "sam": 619,
+        "enam": 630.4,
+        "apac": 656,
+        "afr": 842.2,
+        "weur": 849.4,
+        "me": 867.8,
+        "eeur": 871.4
+      }
+    },
+    "DUB": {
+      "hosts": {
+        "LHR": {
+          "likelihood": 0.6923,
+          "latency": 24.11
+        },
+        "AMS": {
+          "likelihood": 0.3076,
+          "latency": 25.25
+        }
+      },
+      "nearestRegion": "afr",
+      "regions": {
+        "afr": 24.69,
+        "weur": 25.46,
+        "me": 127.23,
+        "eeur": 127.53,
+        "sam": 291.23,
+        "enam": 292.3,
+        "wnam": 400.92,
+        "apac": 584.3,
+        "oc": 778.76
+      }
+    },
+    "ORD": {
+      "hosts": {
+        "ORD": {
+          "likelihood": 1,
+          "latency": 39.13
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 37.82,
+        "sam": 38.37,
+        "wnam": 184.51,
+        "weur": 302.9,
+        "afr": 313.69,
+        "eeur": 342.9,
+        "me": 349.33,
+        "apac": 516.12,
+        "oc": 588.48
+      }
+    },
+    "DFW": {
+      "hosts": {
+        "DFW": {
+          "likelihood": 1,
+          "latency": 45.8
+        }
+      },
+      "nearestRegion": "wnam",
+      "regions": {
+        "wnam": 46.53,
+        "sam": 161.79,
+        "enam": 164.53,
+        "afr": 355.32,
+        "weur": 356.45,
+        "eeur": 404.24,
+        "me": 408.56,
+        "apac": 522.51,
+        "oc": 556.62
+      }
+    },
+    "BSR": {
+      "hosts": {
+        "ZRH": {
+          "likelihood": 1,
+          "latency": 55.33
+        }
+      },
+      "nearestRegion": "me",
+      "regions": {
+        "me": 159,
+        "eeur": 182.33,
+        "weur": 341.33,
+        "afr": 407.66,
+        "sam": 506,
+        "enam": 548.33,
+        "wnam": 645,
+        "apac": 806.66,
+        "oc": 1000
+      }
+    },
+    "CMH": {
+      "hosts": {
+        "IAD": {
+          "likelihood": 0.625,
+          "latency": 30.6
+        },
+        "ORD": {
+          "likelihood": 0.375,
+          "latency": 39.66
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 32.87,
+        "enam": 35.37,
+        "wnam": 197.37,
+        "weur": 286.5,
+        "afr": 307.87,
+        "me": 322,
+        "eeur": 333.25,
+        "apac": 595.37,
+        "oc": 607.37
+      }
+    },
+    "BNA": {
+      "hosts": {
+        "ORD": {
+          "likelihood": 0.6,
+          "latency": 41
+        },
+        "ATL": {
+          "likelihood": 0.4,
+          "latency": 32
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 32,
+        "sam": 37.4,
+        "wnam": 204.6,
+        "afr": 300.25,
+        "weur": 333.6,
+        "me": 338.5,
+        "eeur": 350.5,
+        "apac": 524.75,
+        "oc": 570
+      }
+    },
+    "SIN": {
+      "hosts": {
+        "SIN": {
+          "likelihood": 1,
+          "latency": 11.1
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 11.2,
+        "oc": 425.41,
+        "afr": 429.8,
+        "weur": 442.59,
+        "me": 446.5,
+        "eeur": 449.29,
+        "wnam": 519.05,
+        "enam": 650.73,
+        "sam": 653.1
+      }
+    },
+    "CGK": {
+      "hosts": {
+        "SIN": {
+          "likelihood": 1,
+          "latency": 20.78
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 20.21,
+        "oc": 432.45,
+        "afr": 464.15,
+        "weur": 465.05,
+        "eeur": 492.78,
+        "me": 500.15,
+        "wnam": 567.9,
+        "sam": 678.5,
+        "enam": 683.33
+      }
+    },
+    "CLT": {
+      "hosts": {
+        "IAD": {
+          "likelihood": 0.75,
+          "latency": 33.66
+        },
+        "ATL": {
+          "likelihood": 0.25,
+          "latency": 30
+        }
+      },
+      "nearestRegion": "enam",
+      "regions": {
+        "enam": 34.66,
+        "sam": 34.75,
+        "wnam": 221.25,
+        "afr": 296,
+        "weur": 303.6,
+        "eeur": 320.5,
+        "me": 348,
+        "apac": 556,
+        "oc": 589
+      }
+    },
+    "RUN": {
+      "hosts": {
+        "AMS": {
+          "likelihood": 0.75,
+          "latency": 125.33
+        },
+        "MRS": {
+          "likelihood": 0.25,
+          "latency": 145
+        }
+      },
+      "nearestRegion": "afr",
+      "regions": {
+        "afr": 129.25,
+        "weur": 130.75,
+        "eeur": 625,
+        "me": 647.5,
+        "enam": 841.5,
+        "sam": 853,
+        "wnam": 970.75,
+        "apac": 1053.25,
+        "oc": 1329.2
+      }
+    },
+    "SMF": {
+      "hosts": {
+        "SJC": {
+          "likelihood": 1,
+          "latency": 30.75
+        }
+      },
+      "nearestRegion": "wnam",
+      "regions": {
+        "wnam": 30.75,
+        "sam": 203.33,
+        "enam": 237,
+        "apac": 357.5,
+        "afr": 413.5,
+        "weur": 450.5,
+        "oc": 453.25,
+        "me": 458.75,
+        "eeur": 469.75
+      }
+    },
+    "STI": {
+      "hosts": {
+        "MIA": {
+          "likelihood": 1,
+          "latency": 48.5
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 48.66,
+        "enam": 49,
+        "wnam": 269.75,
+        "weur": 406.75,
+        "afr": 420.75,
+        "eeur": 421.75,
+        "me": 455.75,
+        "apac": 671.5,
+        "oc": 674.75
+      }
+    },
+    "KGL": {
+      "hosts": {
+        "LHR": {
+          "likelihood": 1,
+          "latency": 124.25
+        }
+      },
+      "nearestRegion": "afr",
+      "regions": {
+        "afr": 122.5,
+        "weur": 126.75,
+        "me": 585,
+        "eeur": 614,
+        "sam": 773.75,
+        "enam": 796.25,
+        "wnam": 910.75,
+        "apac": 1072.75,
+        "oc": 1326.5
+      }
+    },
+    "DME": {
+      "hosts": {
+        "WAW": {
+          "likelihood": 0.8,
+          "latency": 52.91
+        },
+        "ARN": {
+          "likelihood": 0.2,
+          "latency": 51.66
+        }
+      },
+      "nearestRegion": "me",
+      "regions": {
+        "me": 52.92,
+        "eeur": 56.4,
+        "afr": 207.06,
+        "weur": 209.6,
+        "enam": 417.26,
+        "sam": 442,
+        "wnam": 526.86,
+        "apac": 713.06,
+        "oc": 889.13
+      }
+    },
+    "ATL": {
+      "hosts": {
+        "IAD": {
+          "likelihood": 0.6773,
+          "latency": 35.42
+        },
+        "ATL": {
+          "likelihood": 0.3225,
+          "latency": 31.5
+        }
+      },
+      "nearestRegion": "sam",
+      "regions": {
+        "sam": 32.77,
+        "enam": 34.58,
+        "wnam": 207.5,
+        "afr": 291.9,
+        "weur": 293.93,
+        "me": 331.54,
+        "eeur": 331.9,
+        "apac": 526,
+        "oc": 626.71
+      }
+    },
+    "TPE": {
+      "hosts": {
+        "SIN": {
+          "likelihood": 0.6666,
+          "latency": 46
+        },
+        "NRT": {
+          "likelihood": 0.3333,
+          "latency": 42
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 42.45,
+        "wnam": 470,
+        "oc": 508.18,
+        "enam": 586.08,
+        "afr": 611.66,
+        "weur": 613.72,
+        "sam": 631.6,
+        "me": 683.81,
+        "eeur": 716.63
+      }
+    },
+    "PPT": {
+      "hosts": {
+        "LAX": {
+          "likelihood": 1,
+          "latency": 94
+        }
+      },
+      "nearestRegion": "wnam",
+      "regions": {
+        "wnam": 94.5,
+        "oc": 624.33,
+        "enam": 667.66,
+        "sam": 693,
+        "apac": 787.66,
+        "eeur": 910.33,
+        "me": 943,
+        "afr": 981,
+        "weur": 1036
+      }
+    },
+    "URT": {
+      "hosts": {
+        "SIN": {
+          "likelihood": 1,
+          "latency": 20.5
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 19.75,
+        "me": 468.75,
+        "weur": 478.25,
+        "eeur": 507,
+        "afr": 568.75,
+        "wnam": 624,
+        "oc": 671.75,
+        "enam": 677,
+        "sam": 719.25
+      }
+    },
+    "FUK": {
+      "hosts": {
+        "KIX": {
+          "likelihood": 1,
+          "latency": 18.75
+        }
+      },
+      "nearestRegion": "apac",
+      "regions": {
+        "apac": 21.75,
+        "wnam": 376.25,
+        "enam": 506.25,
+        "sam": 510.5,
+        "oc": 593.25,
+        "weur": 639.5,
+        "afr": 647,
+        "eeur": 657.5,
+        "me": 697
+      }
+    },
+    "PHX": {
+      "hosts": {
+        "LAX": {
+          "likelihood": 1,
+          "latency": 30.87
+        }
+      },
+      "nearestRegion": "wnam",
+      "regions": {
+        "wnam": 31.62,
+        "sam": 199.5,
+        "enam": 205.25,
+        "afr": 399,
+        "weur": 415,
+        "eeur": 437.5,
+        "apac": 451.87,
+        "me": 452.25,
+        "oc": 554.12
+      }
+    }
+  }
+}
