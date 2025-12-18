@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2025-12-17T20:58:11.481Z"
+    "updated_at": "2025-12-18T00:20:22.107Z"
   },
   "components": [
     {
@@ -627,7 +627,8 @@
         "fhpm9s7sfg3m",
         "7xlx52krlzcx",
         "96bgq3x3tq93",
-        "b4gyh6pxzb69"
+        "b4gyh6pxzb69",
+        "6mhtfmb3k97r"
       ]
     },
     {
@@ -842,9 +843,9 @@
     {
       "id": "5wtvzd626rd8",
       "name": "Bangkok, Thailand - (BKK)",
-      "status": "under_maintenance",
+      "status": "operational",
       "created_at": "2016-04-21T05:37:43.134Z",
-      "updated_at": "2025-12-17T14:31:08.975Z",
+      "updated_at": "2025-12-17T21:41:54.261Z",
       "position": 5,
       "description": null,
       "showcase": false,
@@ -1031,7 +1032,7 @@
       "name": "Beirut, Lebanon - (BEY)",
       "status": "operational",
       "created_at": "2018-02-08T11:33:14.561Z",
-      "updated_at": "2025-12-16T23:15:11.855Z",
+      "updated_at": "2025-12-17T23:11:38.507Z",
       "position": 6,
       "description": null,
       "showcase": false,
@@ -1668,9 +1669,9 @@
     {
       "id": "y2lg0j88nxx4",
       "name": "Chandigarh, India - (IXC)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2022-04-26T19:45:44.034Z",
-      "updated_at": "2025-11-12T22:28:46.838Z",
+      "updated_at": "2025-12-17T23:23:45.217Z",
       "position": 10,
       "description": null,
       "showcase": false,
@@ -1848,9 +1849,9 @@
     {
       "id": "hk0blp1nxsk6",
       "name": "Harare, Zimbabwe - (HRE)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2021-09-27T09:45:27.900Z",
-      "updated_at": "2025-12-15T11:59:52.308Z",
+      "updated_at": "2025-12-18T00:05:31.395Z",
       "position": 12,
       "description": null,
       "showcase": false,
@@ -2073,9 +2074,9 @@
     {
       "id": "3796s01hm2hj",
       "name": "Chittagong, Bangladesh - (CGP)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2019-10-29T19:05:17.659Z",
-      "updated_at": "2025-12-17T18:42:35.304Z",
+      "updated_at": "2025-12-18T00:05:30.939Z",
       "position": 14,
       "description": null,
       "showcase": false,
@@ -2418,9 +2419,9 @@
     {
       "id": "sbk2cql7ktgz",
       "name": "Mombasa, Kenya - (MBA)",
-      "status": "under_maintenance",
+      "status": "partial_outage",
       "created_at": "2015-08-25T23:48:50.991Z",
-      "updated_at": "2025-12-04T23:20:00.362Z",
+      "updated_at": "2025-12-17T21:47:54.064Z",
       "position": 18,
       "description": null,
       "showcase": false,
@@ -3093,9 +3094,9 @@
     {
       "id": "bnjvsmmllkb9",
       "name": "Lima, Peru - (LIM)",
-      "status": "under_maintenance",
+      "status": "operational",
       "created_at": "2014-12-03T20:29:25.140Z",
-      "updated_at": "2025-12-17T20:24:13.443Z",
+      "updated_at": "2025-12-17T22:11:47.289Z",
       "position": 25,
       "description": null,
       "showcase": false,
@@ -4518,9 +4519,9 @@
     {
       "id": "7m2yh22kzgbw",
       "name": "Sofia, Bulgaria - (SOF)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2015-12-08T11:47:55.113Z",
-      "updated_at": "2025-12-10T23:07:25.788Z",
+      "updated_at": "2025-12-18T00:11:27.714Z",
       "position": 43,
       "description": null,
       "showcase": false,
@@ -6723,9 +6724,9 @@
     {
       "id": "s0xwzmmmmv3l",
       "name": "Cali, Colombia - (CLO)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2024-11-27T22:02:49.338Z",
-      "updated_at": "2025-12-13T07:40:26.130Z",
+      "updated_at": "2025-12-18T00:17:27.283Z",
       "position": 102,
       "description": null,
       "showcase": false,
@@ -7450,6 +7451,21 @@
       "description": null,
       "showcase": false,
       "start_date": "2025-12-01",
+      "group_id": "77867vxkttgw",
+      "page_id": "yh6f0r4529hb",
+      "group": false,
+      "only_show_if_degraded": false
+    },
+    {
+      "id": "6mhtfmb3k97r",
+      "name": "Agra, India - (AGR)",
+      "status": "partial_outage",
+      "created_at": "2025-12-17T23:28:41.490Z",
+      "updated_at": "2025-12-17T23:35:40.425Z",
+      "position": 679,
+      "description": null,
+      "showcase": false,
+      "start_date": "2025-12-17",
       "group_id": "77867vxkttgw",
       "page_id": "yh6f0r4529hb",
       "group": false,
