@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2025-12-19T19:37:43.573Z"
+    "updated_at": "2025-12-20T00:17:52.021Z"
   },
   "components": [
     {
@@ -843,9 +843,9 @@
     {
       "id": "5wtvzd626rd8",
       "name": "Bangkok, Thailand - (BKK)",
-      "status": "under_maintenance",
+      "status": "operational",
       "created_at": "2016-04-21T05:37:43.134Z",
-      "updated_at": "2025-12-18T05:57:58.698Z",
+      "updated_at": "2025-12-19T22:30:29.881Z",
       "position": 5,
       "description": null,
       "showcase": false,
@@ -1032,7 +1032,7 @@
       "name": "Beirut, Lebanon - (BEY)",
       "status": "operational",
       "created_at": "2018-02-08T11:33:14.561Z",
-      "updated_at": "2025-12-18T23:11:18.034Z",
+      "updated_at": "2025-12-19T23:12:10.971Z",
       "position": 6,
       "description": null,
       "showcase": false,
@@ -1120,7 +1120,7 @@
     {
       "id": "m3639x4txd08",
       "name": "Middle East",
-      "status": "under_maintenance",
+      "status": "partial_outage",
       "created_at": "2015-06-18T15:21:54.436Z",
       "updated_at": "2022-04-26T19:49:08.594Z",
       "position": 7,
@@ -1489,9 +1489,9 @@
     {
       "id": "h3smcpzt8hq6",
       "name": "Dubai, United Arab Emirates - (DXB)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2015-07-23T02:23:36.617Z",
-      "updated_at": "2025-12-15T01:12:58.485Z",
+      "updated_at": "2025-12-20T00:17:52.019Z",
       "position": 9,
       "description": null,
       "showcase": false,
@@ -2404,9 +2404,9 @@
     {
       "id": "d8yztxmdkcc0",
       "name": "Nasiriyah, Iraq - (XNH)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2022-05-11T09:27:35.150Z",
-      "updated_at": "2025-12-19T15:27:33.937Z",
+      "updated_at": "2025-12-19T21:57:10.618Z",
       "position": 17,
       "description": null,
       "showcase": false,
@@ -3094,9 +3094,9 @@
     {
       "id": "bnjvsmmllkb9",
       "name": "Lima, Peru - (LIM)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2014-12-03T20:29:25.140Z",
-      "updated_at": "2025-12-18T14:19:23.627Z",
+      "updated_at": "2025-12-19T23:47:56.079Z",
       "position": 25,
       "description": null,
       "showcase": false,
@@ -4384,9 +4384,9 @@
     {
       "id": "3hdcvfzv4qbc",
       "name": "São José do Rio Preto, Brazil - (SJP)",
-      "status": "under_maintenance",
+      "status": "operational",
       "created_at": "2021-09-21T17:42:47.447Z",
-      "updated_at": "2025-12-19T17:20:39.129Z",
+      "updated_at": "2025-12-19T23:36:15.466Z",
       "position": 41,
       "description": null,
       "showcase": false,
@@ -6936,7 +6936,7 @@
       "name": "Concepción, Chile - (CCP)",
       "status": "operational",
       "created_at": "2025-09-05T22:38:49.056Z",
-      "updated_at": "2025-12-16T10:30:56.988Z",
+      "updated_at": "2025-12-19T23:18:08.849Z",
       "position": 187,
       "description": null,
       "showcase": false,
@@ -7189,9 +7189,9 @@
     {
       "id": "fhgs8nzfr5rv",
       "name": "Thimphu, Bhutan - (PBH)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2024-06-25T16:04:14.804Z",
-      "updated_at": "2025-12-19T18:44:06.682Z",
+      "updated_at": "2025-12-19T22:00:43.156Z",
       "position": 352,
       "description": null,
       "showcase": false,
