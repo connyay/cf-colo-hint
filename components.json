@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2025-12-20T11:39:51.813Z"
+    "updated_at": "2025-12-20T15:05:04.375Z"
   },
   "components": [
     {
@@ -25,7 +25,7 @@
     {
       "id": "1km35smx8p41",
       "name": "Cloudflare Sites and Services",
-      "status": "degraded_performance",
+      "status": "operational",
       "created_at": "2014-10-27T21:59:30.264Z",
       "updated_at": "2020-11-11T20:12:30.167Z",
       "position": 1,
@@ -4819,9 +4819,9 @@
     {
       "id": "ss09y7v3wzwd",
       "name": "Manila, Philippines - (MNL)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2016-04-29T12:14:56.581Z",
-      "updated_at": "2025-12-19T17:08:48.474Z",
+      "updated_at": "2025-12-20T15:05:04.371Z",
       "position": 48,
       "description": null,
       "showcase": false,
@@ -5884,9 +5884,9 @@
     {
       "id": "4n0gb0kh02gf",
       "name": "Network",
-      "status": "degraded_performance",
+      "status": "operational",
       "created_at": "2023-01-13T13:39:19.804Z",
-      "updated_at": "2025-12-19T15:06:24.171Z",
+      "updated_at": "2025-12-20T14:55:23.983Z",
       "position": 65,
       "description": null,
       "showcase": false,
