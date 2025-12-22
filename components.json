@@ -2,9 +2,9 @@
   "page": {
     "id": "yh6f0r4529hb",
     "name": "Cloudflare",
-    "url": "https://www.cloudflarestatus.com",
+    "url": "http://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2025-12-22T18:00:21.303Z"
+    "updated_at": "2025-12-22T21:06:28.022Z"
   },
   "components": [
     {
@@ -2061,7 +2061,7 @@
       "name": "Kigali, Rwanda - (KGL)",
       "status": "operational",
       "created_at": "2019-06-17T03:27:21.977Z",
-      "updated_at": "2025-12-12T17:33:24.718Z",
+      "updated_at": "2025-12-22T20:06:43.457Z",
       "position": 14,
       "description": null,
       "showcase": false,
@@ -2134,9 +2134,9 @@
     {
       "id": "p6skg25yj69j",
       "name": "Colombo, Sri Lanka - (CMB)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2017-05-02T05:52:26.698Z",
-      "updated_at": "2025-12-19T03:45:31.372Z",
+      "updated_at": "2025-12-22T19:12:57.017Z",
       "position": 15,
       "description": null,
       "showcase": false,
@@ -3169,9 +3169,9 @@
     {
       "id": "xbcr6hhsj55p",
       "name": "Hyderabad, India - (HYD)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2019-01-11T08:19:48.090Z",
-      "updated_at": "2025-12-19T15:15:39.305Z",
+      "updated_at": "2025-12-22T19:12:56.661Z",
       "position": 26,
       "description": null,
       "showcase": false,
@@ -3979,9 +3979,9 @@
     {
       "id": "gw1cztbpft9b",
       "name": "Kathmandu, Nepal - (KTM)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2018-02-21T11:46:55.428Z",
-      "updated_at": "2025-12-22T02:46:30.075Z",
+      "updated_at": "2025-12-22T18:55:07.028Z",
       "position": 36,
       "description": null,
       "showcase": false,
@@ -5869,9 +5869,9 @@
     {
       "id": "rmjk2n758yzc",
       "name": "Tokyo, Japan - (NRT)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2014-10-27T21:42:49.579Z",
-      "updated_at": "2025-12-11T18:37:29.655Z",
+      "updated_at": "2025-12-22T18:37:11.992Z",
       "position": 65,
       "description": null,
       "showcase": false,
@@ -6499,9 +6499,9 @@
     {
       "id": "bn06brrnz2n2",
       "name": "Kannur, India - (CNN)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2023-06-08T15:40:49.155Z",
-      "updated_at": "2025-11-22T20:44:00.972Z",
+      "updated_at": "2025-12-22T19:12:56.374Z",
       "position": 90,
       "description": null,
       "showcase": false,
@@ -7279,9 +7279,9 @@
     {
       "id": "3y9vc3ys33b0",
       "name": "Aktobe, Kazakhstan - (AKX)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2024-10-24T17:14:16.501Z",
-      "updated_at": "2025-12-09T21:14:08.890Z",
+      "updated_at": "2025-12-22T21:06:28.018Z",
       "position": 371,
       "description": null,
       "showcase": false,
