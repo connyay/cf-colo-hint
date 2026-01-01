@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-01-01T05:20:49.759Z"
+    "updated_at": "2026-01-01T12:13:14.524Z"
   },
   "components": [
     {
@@ -3277,9 +3277,9 @@
     {
       "id": "46b99ptn6wdt",
       "name": "Islamabad, Pakistan - (ISB)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2019-01-30T07:36:19.547Z",
-      "updated_at": "2025-12-15T08:56:18.269Z",
+      "updated_at": "2026-01-01T10:23:58.054Z",
       "position": 27,
       "description": null,
       "showcase": false,
@@ -5304,7 +5304,7 @@
       "name": "Phnom Penh, Cambodia - (PNH)",
       "status": "under_maintenance",
       "created_at": "2018-02-09T20:38:28.093Z",
-      "updated_at": "2025-12-30T22:37:03.180Z",
+      "updated_at": "2026-01-01T11:11:33.052Z",
       "position": 55,
       "description": null,
       "showcase": false,
@@ -7447,9 +7447,9 @@
     {
       "id": "7xlx52krlzcx",
       "name": "Malang, Indonesia - (MLG)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2025-11-10T23:16:38.599Z",
-      "updated_at": "2025-12-31T20:50:09.642Z",
+      "updated_at": "2026-01-01T12:13:14.520Z",
       "position": 676,
       "description": null,
       "showcase": false,
