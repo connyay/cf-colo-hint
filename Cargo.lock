@@ -4,4 +4,4 @@ version = 4
 
 [[package]]
 name = "cf-colo-hint"
-version = "0.1.153"
+version = "0.1.154"
