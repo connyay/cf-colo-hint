@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-01-04T17:51:08.954Z"
+    "updated_at": "2026-01-04T20:52:38.078Z"
   },
   "components": [
     {
@@ -1929,7 +1929,7 @@
       "name": "Kuwait City, Kuwait - (KWI)",
       "status": "operational",
       "created_at": "2015-07-06T11:24:13.241Z",
-      "updated_at": "2026-01-03T19:11:19.178Z",
+      "updated_at": "2026-01-04T20:10:50.505Z",
       "position": 13,
       "description": null,
       "showcase": false,
@@ -4057,9 +4057,9 @@
     {
       "id": "0n209sgnr1dp",
       "name": "Queretaro, MX, Mexico - (QRO)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2019-04-04T01:53:41.017Z",
-      "updated_at": "2025-12-12T07:31:33.959Z",
+      "updated_at": "2026-01-04T20:52:38.075Z",
       "position": 37,
       "description": null,
       "showcase": false,
@@ -4254,7 +4254,7 @@
       "name": "Kuala Lumpur, Malaysia - (KUL)",
       "status": "operational",
       "created_at": "2015-08-31T01:11:27.364Z",
-      "updated_at": "2025-12-30T18:38:09.253Z",
+      "updated_at": "2026-01-04T19:41:07.322Z",
       "position": 40,
       "description": null,
       "showcase": false,
@@ -7222,9 +7222,9 @@
     {
       "id": "fhgs8nzfr5rv",
       "name": "Thimphu, Bhutan - (PBH)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2024-06-25T16:04:14.804Z",
-      "updated_at": "2026-01-04T10:40:03.459Z",
+      "updated_at": "2026-01-04T19:23:11.505Z",
       "position": 352,
       "description": null,
       "showcase": false,
