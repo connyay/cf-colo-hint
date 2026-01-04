@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-01-03T20:20:57.335Z"
+    "updated_at": "2026-01-04T00:32:49.246Z"
   },
   "components": [
     {
@@ -1035,7 +1035,7 @@
       "name": "Beirut, Lebanon - (BEY)",
       "status": "operational",
       "created_at": "2018-02-08T11:33:14.561Z",
-      "updated_at": "2026-01-02T23:15:35.942Z",
+      "updated_at": "2026-01-04T00:08:58.466Z",
       "position": 6,
       "description": null,
       "showcase": false,
@@ -1447,7 +1447,7 @@
     {
       "id": "q6qm6fvkst4h",
       "name": "Oceania",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2014-10-28T00:12:04.846Z",
       "updated_at": "2022-04-26T19:49:08.623Z",
       "position": 9,
@@ -1479,7 +1479,7 @@
       "name": "Buenos Aires, Argentina - (EZE)",
       "status": "operational",
       "created_at": "2015-04-01T11:05:40.089Z",
-      "updated_at": "2026-01-02T21:46:10.833Z",
+      "updated_at": "2026-01-04T00:32:49.241Z",
       "position": 9,
       "description": null,
       "showcase": false,
@@ -2107,9 +2107,9 @@
     {
       "id": "vlkr35v1lnm8",
       "name": "Hobart, Australia - (HBA)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2024-05-24T16:43:21.183Z",
-      "updated_at": "2025-12-11T16:37:38.545Z",
+      "updated_at": "2026-01-04T00:07:10.133Z",
       "position": 14,
       "description": null,
       "showcase": false,
@@ -2362,9 +2362,9 @@
     {
       "id": "3mfmstzmyp8r",
       "name": "Maputo, Mozambique - (MPM)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2019-06-27T06:54:32.139Z",
-      "updated_at": "2026-01-03T17:44:13.310Z",
+      "updated_at": "2026-01-03T22:10:12.531Z",
       "position": 17,
       "description": null,
       "showcase": false,
@@ -5304,7 +5304,7 @@
       "name": "Phnom Penh, Cambodia - (PNH)",
       "status": "under_maintenance",
       "created_at": "2018-02-09T20:38:28.093Z",
-      "updated_at": "2026-01-03T19:17:31.304Z",
+      "updated_at": "2026-01-03T22:34:05.967Z",
       "position": 55,
       "description": null,
       "showcase": false,
