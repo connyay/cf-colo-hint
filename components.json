@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-01-05T15:06:45.201Z"
+    "updated_at": "2026-01-05T18:06:28.022Z"
   },
   "components": [
     {
@@ -727,9 +727,9 @@
     {
       "id": "d4nfj71p66fy",
       "name": "Belém, Brazil - (BEL)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2021-08-19T14:52:39.395Z",
-      "updated_at": "2026-01-05T15:06:45.197Z",
+      "updated_at": "2026-01-05T16:29:44.553Z",
       "position": 4,
       "description": null,
       "showcase": false,
@@ -3009,7 +3009,7 @@
       "name": "Ho Chi Minh City, Vietnam - (SGN)",
       "status": "operational",
       "created_at": "2018-12-06T09:28:02.817Z",
-      "updated_at": "2025-12-29T18:13:51.199Z",
+      "updated_at": "2026-01-05T17:11:18.592Z",
       "position": 24,
       "description": null,
       "showcase": false,
@@ -3909,7 +3909,7 @@
       "name": "Karachi, Pakistan - (KHI)",
       "status": "under_maintenance",
       "created_at": "2018-12-04T16:17:59.275Z",
-      "updated_at": "2025-12-31T15:33:59.037Z",
+      "updated_at": "2026-01-05T16:59:24.034Z",
       "position": 35,
       "description": null,
       "showcase": false,
@@ -5304,7 +5304,7 @@
       "name": "Phnom Penh, Cambodia - (PNH)",
       "status": "under_maintenance",
       "created_at": "2018-02-09T20:38:28.093Z",
-      "updated_at": "2026-01-04T21:58:07.411Z",
+      "updated_at": "2026-01-05T16:17:54.016Z",
       "position": 55,
       "description": null,
       "showcase": false,
@@ -5827,9 +5827,9 @@
     {
       "id": "hl4j81pmzwby",
       "name": "Salvador, Brazil - (SSA)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2024-08-13T15:11:08.233Z",
-      "updated_at": "2026-01-04T16:36:21.792Z",
+      "updated_at": "2026-01-05T16:35:37.669Z",
       "position": 63,
       "description": null,
       "showcase": false,
