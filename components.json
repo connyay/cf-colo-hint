@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-01-04T20:52:38.078Z"
+    "updated_at": "2026-01-05T00:36:29.530Z"
   },
   "components": [
     {
@@ -684,7 +684,7 @@
       "name": "Bangalore, India - (BLR)",
       "status": "under_maintenance",
       "created_at": "2019-10-03T23:15:06.784Z",
-      "updated_at": "2025-12-22T12:21:24.879Z",
+      "updated_at": "2026-01-04T22:39:39.406Z",
       "position": 4,
       "description": null,
       "showcase": false,
@@ -1597,9 +1597,9 @@
     {
       "id": "h6vp59167bv4",
       "name": "Durban, South Africa - (DUR)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2018-03-20T09:14:09.056Z",
-      "updated_at": "2026-01-02T18:00:26.383Z",
+      "updated_at": "2026-01-05T00:08:43.884Z",
       "position": 10,
       "description": null,
       "showcase": false,
@@ -2362,9 +2362,9 @@
     {
       "id": "3mfmstzmyp8r",
       "name": "Maputo, Mozambique - (MPM)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2019-06-27T06:54:32.139Z",
-      "updated_at": "2026-01-04T17:51:08.950Z",
+      "updated_at": "2026-01-04T21:58:06.249Z",
       "position": 17,
       "description": null,
       "showcase": false,
@@ -4057,9 +4057,9 @@
     {
       "id": "0n209sgnr1dp",
       "name": "Queretaro, MX, Mexico - (QRO)",
-      "status": "under_maintenance",
+      "status": "operational",
       "created_at": "2019-04-04T01:53:41.017Z",
-      "updated_at": "2026-01-04T20:52:38.075Z",
+      "updated_at": "2026-01-04T21:58:04.490Z",
       "position": 37,
       "description": null,
       "showcase": false,
@@ -5304,7 +5304,7 @@
       "name": "Phnom Penh, Cambodia - (PNH)",
       "status": "under_maintenance",
       "created_at": "2018-02-09T20:38:28.093Z",
-      "updated_at": "2026-01-04T17:35:53.261Z",
+      "updated_at": "2026-01-04T21:58:07.411Z",
       "position": 55,
       "description": null,
       "showcase": false,
@@ -6967,9 +6967,9 @@
     {
       "id": "dkc0m9hg3dp3",
       "name": "Concepción, Chile - (CCP)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2025-09-05T22:38:49.056Z",
-      "updated_at": "2026-01-02T14:38:21.723Z",
+      "updated_at": "2026-01-05T00:26:44.529Z",
       "position": 187,
       "description": null,
       "showcase": false,
