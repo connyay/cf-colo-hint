@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-01-06T12:00:21.427Z"
+    "updated_at": "2026-01-06T15:06:29.364Z"
   },
   "components": [
     {
@@ -893,7 +893,7 @@
       "name": "Belo Horizonte, Brazil - (CNF)",
       "status": "operational",
       "created_at": "2021-07-13T13:51:00.191Z",
-      "updated_at": "2025-12-23T09:43:07.922Z",
+      "updated_at": "2026-01-06T15:06:12.651Z",
       "position": 5,
       "description": null,
       "showcase": false,
@@ -3699,7 +3699,7 @@
       "name": "Saint-Denis, Réunion - (RUN)",
       "status": "operational",
       "created_at": "2024-09-03T09:59:40.272Z",
-      "updated_at": "2025-12-29T22:11:24.660Z",
+      "updated_at": "2026-01-06T13:13:19.235Z",
       "position": 32,
       "description": null,
       "showcase": false,
@@ -3787,9 +3787,9 @@
     {
       "id": "zqlfzq5bzwdq",
       "name": "Dar es Salaam, Tanzania - (DAR)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2024-11-09T08:40:09.983Z",
-      "updated_at": "2026-01-02T05:56:09.151Z",
+      "updated_at": "2026-01-06T14:36:35.487Z",
       "position": 33,
       "description": null,
       "showcase": false,
@@ -3907,9 +3907,9 @@
     {
       "id": "f95c4c2zcg0t",
       "name": "Karachi, Pakistan - (KHI)",
-      "status": "under_maintenance",
+      "status": "operational",
       "created_at": "2018-12-04T16:17:59.275Z",
-      "updated_at": "2026-01-05T16:59:24.034Z",
+      "updated_at": "2026-01-06T13:49:04.631Z",
       "position": 35,
       "description": null,
       "showcase": false,
@@ -4897,9 +4897,9 @@
     {
       "id": "t3d07wlg67nl",
       "name": "Mumbai, India - (BOM)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2015-10-27T20:12:43.833Z",
-      "updated_at": "2026-01-04T11:39:21.820Z",
+      "updated_at": "2026-01-06T14:00:55.076Z",
       "position": 49,
       "description": null,
       "showcase": false,
