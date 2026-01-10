@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-01-10T17:12:20.149Z"
+    "updated_at": "2026-01-10T20:34:30.711Z"
   },
   "components": [
     {
@@ -729,7 +729,7 @@
       "name": "Belém, Brazil - (BEL)",
       "status": "operational",
       "created_at": "2021-08-19T14:52:39.395Z",
-      "updated_at": "2026-01-10T16:13:42.754Z",
+      "updated_at": "2026-01-10T20:34:30.706Z",
       "position": 4,
       "description": null,
       "showcase": false,
@@ -1809,7 +1809,7 @@
       "name": "Gaborone, Botswana - (GBE)",
       "status": "operational",
       "created_at": "2022-06-01T10:45:54.571Z",
-      "updated_at": "2026-01-10T12:57:19.241Z",
+      "updated_at": "2026-01-10T19:23:10.853Z",
       "position": 11,
       "description": null,
       "showcase": false,
@@ -2124,7 +2124,7 @@
       "name": "Muscat, Oman - (MCT)",
       "status": "operational",
       "created_at": "2015-08-04T00:56:44.345Z",
-      "updated_at": "2026-01-09T00:19:01.471Z",
+      "updated_at": "2026-01-10T20:10:44.097Z",
       "position": 15,
       "description": null,
       "showcase": false,
@@ -3442,9 +3442,9 @@
     {
       "id": "pd8tz1050d4g",
       "name": "Panama City, Panama - (PTY)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2016-12-20T03:15:58.393Z",
-      "updated_at": "2026-01-10T05:14:11.310Z",
+      "updated_at": "2026-01-10T19:40:54.773Z",
       "position": 29,
       "description": null,
       "showcase": false,
@@ -3999,7 +3999,7 @@
       "name": "Kathmandu, Nepal - (KTM)",
       "status": "operational",
       "created_at": "2018-02-21T11:46:55.428Z",
-      "updated_at": "2026-01-08T21:49:47.400Z",
+      "updated_at": "2026-01-10T19:58:40.732Z",
       "position": 36,
       "description": null,
       "showcase": false,
@@ -4822,9 +4822,9 @@
     {
       "id": "ss09y7v3wzwd",
       "name": "Manila, Philippines - (MNL)",
-      "status": "under_maintenance",
+      "status": "operational",
       "created_at": "2016-04-29T12:14:56.581Z",
-      "updated_at": "2026-01-10T13:27:14.518Z",
+      "updated_at": "2026-01-10T18:11:32.944Z",
       "position": 48,
       "description": null,
       "showcase": false,
