@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-01-11T03:24:10.316Z"
+    "updated_at": "2026-01-11T05:52:26.908Z"
   },
   "components": [
     {
@@ -3339,7 +3339,7 @@
       "name": "Jakarta, Indonesia - (CGK)",
       "status": "operational",
       "created_at": "2019-08-21T06:55:28.100Z",
-      "updated_at": "2026-01-10T15:26:05.272Z",
+      "updated_at": "2026-01-11T05:52:26.904Z",
       "position": 28,
       "description": null,
       "showcase": false,
@@ -3969,7 +3969,7 @@
       "name": "Rio de Janeiro, Brazil - (GIG)",
       "status": "operational",
       "created_at": "2017-06-22T22:19:02.210Z",
-      "updated_at": "2026-01-11T00:44:20.932Z",
+      "updated_at": "2026-01-11T04:41:14.219Z",
       "position": 36,
       "description": null,
       "showcase": false,
@@ -4824,7 +4824,7 @@
       "name": "Manila, Philippines - (MNL)",
       "status": "operational",
       "created_at": "2016-04-29T12:14:56.581Z",
-      "updated_at": "2026-01-11T03:12:28.299Z",
+      "updated_at": "2026-01-11T05:11:01.790Z",
       "position": 48,
       "description": null,
       "showcase": false,
@@ -5587,9 +5587,9 @@
     {
       "id": "g3xfb8yfhk9l",
       "name": "Barranquilla, Colombia - (BAQ)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2024-04-26T17:08:39.583Z",
-      "updated_at": "2026-01-11T03:00:32.194Z",
+      "updated_at": "2026-01-11T05:04:59.514Z",
       "position": 59,
       "description": null,
       "showcase": false,
