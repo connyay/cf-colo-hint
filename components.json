@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-01-16T05:44:23.922Z"
+    "updated_at": "2026-01-16T08:53:37.773Z"
   },
   "components": [
     {
@@ -1552,9 +1552,9 @@
     {
       "id": "b9yrxv93hhrc",
       "name": "Calgary, AB, Canada - (YYC)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2018-03-15T19:43:31.836Z",
-      "updated_at": "2026-01-15T20:37:50.470Z",
+      "updated_at": "2026-01-16T08:36:49.293Z",
       "position": 9,
       "description": null,
       "showcase": false,
@@ -3727,9 +3727,9 @@
     {
       "id": "1j6fbpfd4xrn",
       "name": "Montréal, QC, Canada - (YUL)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2015-12-08T11:48:10.247Z",
-      "updated_at": "2026-01-15T17:27:48.732Z",
+      "updated_at": "2026-01-16T08:48:40.806Z",
       "position": 32,
       "description": null,
       "showcase": false,
@@ -3997,9 +3997,9 @@
     {
       "id": "f95c4c2zcg0t",
       "name": "Karachi, Pakistan - (KHI)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2018-12-04T16:17:59.275Z",
-      "updated_at": "2026-01-15T22:42:54.953Z",
+      "updated_at": "2026-01-16T08:18:59.934Z",
       "position": 35,
       "description": null,
       "showcase": false,
@@ -4914,7 +4914,7 @@
       "name": "Manila, Philippines - (MNL)",
       "status": "under_maintenance",
       "created_at": "2016-04-29T12:14:56.581Z",
-      "updated_at": "2026-01-14T15:36:32.240Z",
+      "updated_at": "2026-01-16T07:55:09.213Z",
       "position": 48,
       "description": null,
       "showcase": false,
