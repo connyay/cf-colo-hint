@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-01-21T02:51:21.986Z"
+    "updated_at": "2026-01-21T06:08:23.803Z"
   },
   "components": [
     {
@@ -727,9 +727,9 @@
     {
       "id": "z1w301p8vhfq",
       "name": "Antananarivo, Madagascar - (TNR)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2019-11-13T08:36:12.092Z",
-      "updated_at": "2026-01-16T18:12:35.462Z",
+      "updated_at": "2026-01-21T05:01:32.370Z",
       "position": 4,
       "description": null,
       "showcase": false,
@@ -2497,9 +2497,9 @@
     {
       "id": "dwmgwrxg7cx3",
       "name": "Hamburg, Germany - (HAM)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2015-12-14T11:28:08.468Z",
-      "updated_at": "2026-01-21T02:35:22.599Z",
+      "updated_at": "2026-01-21T06:06:33.093Z",
       "position": 18,
       "description": null,
       "showcase": false,
@@ -3412,9 +3412,9 @@
     {
       "id": "7z1q346n4s38",
       "name": "Manchester, United Kingdom - (MAN)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2015-10-05T03:57:10.538Z",
-      "updated_at": "2026-01-21T01:10:44.777Z",
+      "updated_at": "2026-01-21T05:13:21.381Z",
       "position": 28,
       "description": null,
       "showcase": false,
@@ -4057,9 +4057,9 @@
     {
       "id": "7rvrsd9g0f1v",
       "name": "Rio de Janeiro, Brazil - (GIG)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2017-06-22T22:19:02.210Z",
-      "updated_at": "2026-01-19T19:53:45.187Z",
+      "updated_at": "2026-01-21T05:13:23.095Z",
       "position": 36,
       "description": null,
       "showcase": false,
@@ -4822,9 +4822,9 @@
     {
       "id": "jzkf1cwss7kt",
       "name": "Tegucigalpa, Honduras - (TGU)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2020-03-30T19:59:53.603Z",
-      "updated_at": "2026-01-08T10:12:08.514Z",
+      "updated_at": "2026-01-21T06:08:23.799Z",
       "position": 46,
       "description": null,
       "showcase": false,
@@ -5242,9 +5242,9 @@
     {
       "id": "j8jmz828z0ht",
       "name": "Chapeco, Brazil - (XAP)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2023-08-23T09:20:11.558Z",
-      "updated_at": "2026-01-12T05:22:55.829Z",
+      "updated_at": "2026-01-21T05:13:22.445Z",
       "position": 52,
       "description": null,
       "showcase": false,
@@ -5424,7 +5424,7 @@
       "name": "Phnom Penh, Cambodia - (PNH)",
       "status": "under_maintenance",
       "created_at": "2018-02-09T20:38:28.093Z",
-      "updated_at": "2026-01-21T01:46:11.498Z",
+      "updated_at": "2026-01-21T05:42:54.577Z",
       "position": 55,
       "description": null,
       "showcase": false,
