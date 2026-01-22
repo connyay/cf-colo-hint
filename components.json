@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-01-21T21:02:15.681Z"
+    "updated_at": "2026-01-22T00:35:22.937Z"
   },
   "components": [
     {
@@ -1065,7 +1065,7 @@
       "name": "Beirut, Lebanon - (BEY)",
       "status": "operational",
       "created_at": "2018-02-08T11:33:14.561Z",
-      "updated_at": "2026-01-19T00:13:06.690Z",
+      "updated_at": "2026-01-21T22:12:52.442Z",
       "position": 6,
       "description": null,
       "showcase": false,
@@ -1839,7 +1839,7 @@
       "name": "Gaborone, Botswana - (GBE)",
       "status": "operational",
       "created_at": "2022-06-01T10:45:54.571Z",
-      "updated_at": "2026-01-21T18:45:03.316Z",
+      "updated_at": "2026-01-21T23:47:46.351Z",
       "position": 11,
       "description": null,
       "showcase": false,
@@ -3367,9 +3367,9 @@
     {
       "id": "46b99ptn6wdt",
       "name": "Islamabad, Pakistan - (ISB)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2019-01-30T07:36:19.547Z",
-      "updated_at": "2026-01-21T18:33:11.138Z",
+      "updated_at": "2026-01-21T23:00:24.380Z",
       "position": 27,
       "description": null,
       "showcase": false,
@@ -3442,9 +3442,9 @@
     {
       "id": "gdywyg76bgy3",
       "name": "Jakarta, Indonesia - (CGK)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2019-08-21T06:55:28.100Z",
-      "updated_at": "2026-01-21T18:56:55.412Z",
+      "updated_at": "2026-01-22T00:29:17.767Z",
       "position": 28,
       "description": null,
       "showcase": false,
@@ -4989,7 +4989,7 @@
       "name": "Mumbai, India - (BOM)",
       "status": "under_maintenance",
       "created_at": "2015-10-27T20:12:43.833Z",
-      "updated_at": "2026-01-21T20:43:48.326Z",
+      "updated_at": "2026-01-22T00:35:22.933Z",
       "position": 49,
       "description": null,
       "showcase": false,
@@ -5004,7 +5004,7 @@
       "name": "Tbilisi, Georgia - (TBS)",
       "status": "operational",
       "created_at": "2020-10-30T04:23:39.756Z",
-      "updated_at": "2026-01-19T23:21:32.997Z",
+      "updated_at": "2026-01-22T00:11:28.859Z",
       "position": 49,
       "description": null,
       "showcase": false,
