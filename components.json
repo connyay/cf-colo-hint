@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-01-22T21:03:17.545Z"
+    "updated_at": "2026-01-23T00:29:10.835Z"
   },
   "components": [
     {
@@ -25,7 +25,7 @@
     {
       "id": "1km35smx8p41",
       "name": "Cloudflare Sites and Services",
-      "status": "degraded_performance",
+      "status": "operational",
       "created_at": "2014-10-27T21:59:30.264Z",
       "updated_at": "2020-11-11T20:12:30.167Z",
       "position": 1,
@@ -1109,7 +1109,7 @@
       "name": "Hagatna, Guam - (GUM)",
       "status": "operational",
       "created_at": "2022-05-05T08:28:03.157Z",
-      "updated_at": "2026-01-20T11:13:38.089Z",
+      "updated_at": "2026-01-22T22:12:01.424Z",
       "position": 6,
       "description": null,
       "showcase": false,
@@ -2241,9 +2241,9 @@
     {
       "id": "n5017xzrnrsc",
       "name": "Curitiba, Brazil - (CWB)",
-      "status": "under_maintenance",
+      "status": "operational",
       "created_at": "2019-04-01T08:05:14.526Z",
-      "updated_at": "2026-01-22T19:25:15.759Z",
+      "updated_at": "2026-01-22T22:35:48.126Z",
       "position": 15,
       "description": null,
       "showcase": false,
@@ -3876,9 +3876,9 @@
     {
       "id": "zqlfzq5bzwdq",
       "name": "Dar es Salaam, Tanzania - (DAR)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2024-11-09T08:40:09.983Z",
-      "updated_at": "2026-01-22T12:46:47.366Z",
+      "updated_at": "2026-01-23T00:05:19.780Z",
       "position": 33,
       "description": null,
       "showcase": false,
@@ -4073,7 +4073,7 @@
       "name": "Kathmandu, Nepal - (KTM)",
       "status": "under_maintenance",
       "created_at": "2018-02-21T11:46:55.428Z",
-      "updated_at": "2026-01-22T06:01:46.271Z",
+      "updated_at": "2026-01-23T00:29:10.833Z",
       "position": 36,
       "description": null,
       "showcase": false,
@@ -5106,9 +5106,9 @@
     {
       "id": "tlx13trgxf74",
       "name": "Nagpur, India - (NAG)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2019-08-08T16:32:09.572Z",
-      "updated_at": "2026-01-03T09:28:13.492Z",
+      "updated_at": "2026-01-22T21:24:26.189Z",
       "position": 50,
       "description": null,
       "showcase": false,
@@ -6006,9 +6006,9 @@
     {
       "id": "4n0gb0kh02gf",
       "name": "Network",
-      "status": "degraded_performance",
+      "status": "operational",
       "created_at": "2023-01-13T13:39:19.804Z",
-      "updated_at": "2026-01-22T21:02:14.448Z",
+      "updated_at": "2026-01-22T21:52:40.372Z",
       "position": 67,
       "description": null,
       "showcase": false,
@@ -6021,9 +6021,9 @@
     {
       "id": "5xvn0m7tthlf",
       "name": "Notifications",
-      "status": "degraded_performance",
+      "status": "operational",
       "created_at": "2022-09-13T12:50:58.081Z",
-      "updated_at": "2026-01-22T17:26:58.568Z",
+      "updated_at": "2026-01-22T22:32:54.674Z",
       "position": 68,
       "description": null,
       "showcase": false,
