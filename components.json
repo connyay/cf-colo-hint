@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-01-23T03:00:28.507Z"
+    "updated_at": "2026-01-23T06:10:53.206Z"
   },
   "components": [
     {
@@ -3803,7 +3803,7 @@
       "name": "Quito, Ecuador - (UIO)",
       "status": "operational",
       "created_at": "2017-03-13T21:23:02.885Z",
-      "updated_at": "2026-01-13T09:27:59.182Z",
+      "updated_at": "2026-01-23T04:32:47.067Z",
       "position": 33,
       "description": null,
       "showcase": false,
@@ -4191,9 +4191,9 @@
     {
       "id": "lwmhcftlr9vx",
       "name": "San José, Costa Rica - (SJO)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2020-10-23T21:53:19.030Z",
-      "updated_at": "2026-01-21T06:48:12.224Z",
+      "updated_at": "2026-01-23T04:02:59.182Z",
       "position": 38,
       "description": null,
       "showcase": false,
@@ -4476,9 +4476,9 @@
     {
       "id": "3hdcvfzv4qbc",
       "name": "São José do Rio Preto, Brazil - (SJP)",
-      "status": "under_maintenance",
+      "status": "partial_outage",
       "created_at": "2021-09-21T17:42:47.447Z",
-      "updated_at": "2026-01-22T19:01:31.967Z",
+      "updated_at": "2026-01-23T05:14:28.633Z",
       "position": 41,
       "description": null,
       "showcase": false,
@@ -4566,9 +4566,9 @@
     {
       "id": "my0mk23lnk01",
       "name": "São José dos Campos, Brazil - (SJK)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2023-03-23T01:20:10.288Z",
-      "updated_at": "2026-01-20T06:17:04.042Z",
+      "updated_at": "2026-01-23T06:00:29.931Z",
       "position": 42,
       "description": null,
       "showcase": false,
@@ -5886,9 +5886,9 @@
     {
       "id": "hl4j81pmzwby",
       "name": "Salvador, Brazil - (SSA)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2024-08-13T15:11:08.233Z",
-      "updated_at": "2026-01-22T18:13:46.525Z",
+      "updated_at": "2026-01-23T05:14:28.971Z",
       "position": 63,
       "description": null,
       "showcase": false,
@@ -6696,9 +6696,9 @@
     {
       "id": "fbrfz0lxsdk1",
       "name": "Uberlandia, Brazil - (UDI)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2024-11-09T09:01:26.674Z",
-      "updated_at": "2025-01-24T10:36:56.126Z",
+      "updated_at": "2026-01-23T05:14:28.285Z",
       "position": 101,
       "description": null,
       "showcase": false,
