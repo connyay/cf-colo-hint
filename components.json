@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-01-26T18:01:21.151Z"
+    "updated_at": "2026-01-26T21:04:43.205Z"
   },
   "components": [
     {
@@ -907,7 +907,7 @@
       "name": "Belo Horizonte, Brazil - (CNF)",
       "status": "operational",
       "created_at": "2021-07-13T13:51:00.191Z",
-      "updated_at": "2026-01-21T13:30:57.997Z",
+      "updated_at": "2026-01-26T18:57:00.114Z",
       "position": 5,
       "description": null,
       "showcase": false,
@@ -1761,9 +1761,9 @@
     {
       "id": "6h2876nh78k9",
       "name": "Chișinău, Moldova - (KIV)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2018-04-02T08:55:56.587Z",
-      "updated_at": "2026-01-19T06:20:43.576Z",
+      "updated_at": "2026-01-26T21:04:43.200Z",
       "position": 11,
       "description": null,
       "showcase": false,
@@ -2241,9 +2241,9 @@
     {
       "id": "n5017xzrnrsc",
       "name": "Curitiba, Brazil - (CWB)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2019-04-01T08:05:14.526Z",
-      "updated_at": "2026-01-26T16:10:16.253Z",
+      "updated_at": "2026-01-26T20:48:09.284Z",
       "position": 15,
       "description": null,
       "showcase": false,
@@ -2721,9 +2721,9 @@
     {
       "id": "srz7zhpwynys",
       "name": "Guatemala City, Guatemala - (GUA)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2019-08-15T07:22:07.430Z",
-      "updated_at": "2026-01-26T11:54:59.387Z",
+      "updated_at": "2026-01-26T19:08:54.076Z",
       "position": 20,
       "description": null,
       "showcase": false,
@@ -3141,9 +3141,9 @@
     {
       "id": "wf2gdmxg7cv3",
       "name": "Hong Kong - (HKG)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2014-10-27T21:46:42.606Z",
-      "updated_at": "2026-01-14T08:21:37.811Z",
+      "updated_at": "2026-01-26T18:57:00.928Z",
       "position": 25,
       "description": null,
       "showcase": false,
@@ -5423,7 +5423,7 @@
       "name": "Phnom Penh, Cambodia - (PNH)",
       "status": "under_maintenance",
       "created_at": "2018-02-09T20:38:28.093Z",
-      "updated_at": "2026-01-25T21:05:34.486Z",
+      "updated_at": "2026-01-26T19:56:25.708Z",
       "position": 55,
       "description": null,
       "showcase": false,
