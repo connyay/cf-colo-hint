@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-01-27T20:00:21.280Z"
+    "updated_at": "2026-01-28T00:30:21.593Z"
   },
   "components": [
     {
@@ -344,9 +344,9 @@
     {
       "id": "w4k8yvhfb3vp",
       "name": "Access",
-      "status": "operational",
+      "status": "degraded_performance",
       "created_at": "2018-02-09T21:46:39.049Z",
-      "updated_at": "2026-01-27T19:35:59.743Z",
+      "updated_at": "2026-01-27T22:28:53.734Z",
       "position": 2,
       "description": "Cloudflare Access determines who can reach your application by applying the Access policies you configure",
       "showcase": false,
@@ -1493,7 +1493,7 @@
       "name": "Buenos Aires, Argentina - (EZE)",
       "status": "operational",
       "created_at": "2015-04-01T11:05:40.089Z",
-      "updated_at": "2026-01-20T05:29:28.294Z",
+      "updated_at": "2026-01-28T00:24:52.716Z",
       "position": 9,
       "description": null,
       "showcase": false,
@@ -1973,7 +1973,7 @@
       "name": "Kuwait City, Kuwait - (KWI)",
       "status": "operational",
       "created_at": "2015-07-06T11:24:13.241Z",
-      "updated_at": "2026-01-20T01:20:08.916Z",
+      "updated_at": "2026-01-28T00:24:51.865Z",
       "position": 13,
       "description": null,
       "showcase": false,
@@ -2031,9 +2031,9 @@
     {
       "id": "1xnjfx08wn5v",
       "name": "Córdoba, Argentina - (COR)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2022-05-31T15:34:24.032Z",
-      "updated_at": "2026-01-14T06:34:39.268Z",
+      "updated_at": "2026-01-27T23:32:19.575Z",
       "position": 13,
       "description": null,
       "showcase": false,
@@ -2241,9 +2241,9 @@
     {
       "id": "n5017xzrnrsc",
       "name": "Curitiba, Brazil - (CWB)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2019-04-01T08:05:14.526Z",
-      "updated_at": "2026-01-26T21:15:44.432Z",
+      "updated_at": "2026-01-28T00:18:48.529Z",
       "position": 15,
       "description": null,
       "showcase": false,
@@ -6096,9 +6096,9 @@
     {
       "id": "vgxj684rcw7t",
       "name": "Pages",
-      "status": "operational",
+      "status": "degraded_performance",
       "created_at": "2021-04-16T21:04:08.018Z",
-      "updated_at": "2026-01-27T19:35:59.766Z",
+      "updated_at": "2026-01-27T22:28:53.756Z",
       "position": 71,
       "description": null,
       "showcase": false,
@@ -6771,9 +6771,9 @@
     {
       "id": "57srcl8zcn7c",
       "name": "Workers",
-      "status": "operational",
+      "status": "degraded_performance",
       "created_at": "2019-01-24T16:49:08.728Z",
-      "updated_at": "2026-01-27T19:35:59.789Z",
+      "updated_at": "2026-01-27T22:28:53.777Z",
       "position": 104,
       "description": "Cloudflare Workers provides a serverless execution environment that allows you to create new applications or augment existing ones without configuring or maintaining infrastructure",
       "showcase": false,
@@ -6831,9 +6831,9 @@
     {
       "id": "tmh50tx2nprs",
       "name": "Workers KV",
-      "status": "operational",
+      "status": "degraded_performance",
       "created_at": "2019-01-24T16:49:32.394Z",
-      "updated_at": "2026-01-27T19:35:59.811Z",
+      "updated_at": "2026-01-27T22:28:53.799Z",
       "position": 108,
       "description": "Workers KV is a data storage that allows you to store and retrieve data globally to build dynamic and performant APIs and websites that support high read volumes with low latency",
       "showcase": false,
