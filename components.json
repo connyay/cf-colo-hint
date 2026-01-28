@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-01-28T03:17:17.406Z"
+    "updated_at": "2026-01-28T05:30:55.772Z"
   },
   "components": [
     {
@@ -2241,9 +2241,9 @@
     {
       "id": "n5017xzrnrsc",
       "name": "Curitiba, Brazil - (CWB)",
-      "status": "under_maintenance",
+      "status": "operational",
       "created_at": "2019-04-01T08:05:14.526Z",
-      "updated_at": "2026-01-28T00:18:48.529Z",
+      "updated_at": "2026-01-28T04:22:39.707Z",
       "position": 15,
       "description": null,
       "showcase": false,
@@ -2318,7 +2318,7 @@
       "name": "Dhaka, Bangladesh - (DAC)",
       "status": "under_maintenance",
       "created_at": "2019-12-17T22:56:25.827Z",
-      "updated_at": "2026-01-27T15:00:58.229Z",
+      "updated_at": "2026-01-28T05:22:06.147Z",
       "position": 16,
       "description": null,
       "showcase": false,
@@ -3051,9 +3051,9 @@
     {
       "id": "shcqh0p22750",
       "name": "London, United Kingdom - (LHR)",
-      "status": "operational",
+      "status": "degraded_performance",
       "created_at": "2014-10-27T20:36:04.069Z",
-      "updated_at": "2026-01-14T23:53:53.469Z",
+      "updated_at": "2026-01-28T04:25:39.465Z",
       "position": 24,
       "description": null,
       "showcase": false,
@@ -3321,9 +3321,9 @@
     {
       "id": "38w4zp21dlkc",
       "name": "Los Angeles, CA, United States - (LAX)",
-      "status": "operational",
+      "status": "degraded_performance",
       "created_at": "2014-10-27T19:24:27.591Z",
-      "updated_at": "2026-01-14T23:51:18.569Z",
+      "updated_at": "2026-01-28T04:25:39.487Z",
       "position": 27,
       "description": null,
       "showcase": false,
@@ -4598,7 +4598,7 @@
       "name": "São Paulo, Brazil - (GRU)",
       "status": "under_maintenance",
       "created_at": "2014-10-27T21:45:14.885Z",
-      "updated_at": "2026-01-27T00:49:30.538Z",
+      "updated_at": "2026-01-28T04:52:22.932Z",
       "position": 43,
       "description": null,
       "showcase": false,
