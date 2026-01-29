@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-01-29T03:46:20.658Z"
+    "updated_at": "2026-01-29T06:19:08.241Z"
   },
   "components": [
     {
@@ -3651,9 +3651,9 @@
     {
       "id": "skqbwdvp70c6",
       "name": "Kampala, Uganda - (EBB)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2024-07-17T09:56:48.732Z",
-      "updated_at": "2026-01-27T16:47:12.480Z",
+      "updated_at": "2026-01-29T06:19:08.236Z",
       "position": 30,
       "description": null,
       "showcase": false,
@@ -5226,9 +5226,9 @@
     {
       "id": "wr8jt2slt0cp",
       "name": "New Delhi, India - (DEL)",
-      "status": "under_maintenance",
+      "status": "operational",
       "created_at": "2015-10-27T20:12:23.920Z",
-      "updated_at": "2026-01-28T21:24:54.785Z",
+      "updated_at": "2026-01-29T05:50:55.078Z",
       "position": 52,
       "description": null,
       "showcase": false,
