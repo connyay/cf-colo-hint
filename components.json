@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-01-29T09:01:12.883Z"
+    "updated_at": "2026-01-29T12:17:32.613Z"
   },
   "components": [
     {
@@ -937,7 +937,7 @@
       "name": "Christchurch, New Zealand - (CHC)",
       "status": "operational",
       "created_at": "2022-08-04T16:10:23.354Z",
-      "updated_at": "2026-01-28T13:07:04.410Z",
+      "updated_at": "2026-01-29T10:42:12.714Z",
       "position": 5,
       "description": null,
       "showcase": false,
@@ -2001,9 +2001,9 @@
     {
       "id": "rq16k3q6yz17",
       "name": "Columbus, OH, United States - (CMH)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2019-01-23T08:27:40.920Z",
-      "updated_at": "2026-01-29T08:55:12.462Z",
+      "updated_at": "2026-01-29T10:48:08.724Z",
       "position": 13,
       "description": null,
       "showcase": false,
@@ -3546,9 +3546,9 @@
     {
       "id": "yph7lndw0dvj",
       "name": "Cloudforce One Reports",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2024-01-19T10:26:32.050Z",
-      "updated_at": "2025-12-31T16:16:30.269Z",
+      "updated_at": "2026-01-29T12:00:21.969Z",
       "position": 29,
       "description": "Details of Cloudflare One can be found in this blogpost: https://blog.cloudflare.com/introducing-cloudforce-one-threat-operations-and-threat-research",
       "showcase": false,
@@ -5316,9 +5316,9 @@
     {
       "id": "wkc7ly9m8s5s",
       "name": "Sioux Falls, SD, United States - (FSD)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2022-12-23T17:59:46.601Z",
-      "updated_at": "2026-01-14T23:51:18.827Z",
+      "updated_at": "2026-01-29T12:17:32.608Z",
       "position": 53,
       "description": null,
       "showcase": false,
@@ -5706,9 +5706,9 @@
     {
       "id": "43cltfsv0h7h",
       "name": "Winnipeg, MB, Canada - (YWG)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2018-07-10T10:18:32.871Z",
-      "updated_at": "2026-01-29T06:42:57.451Z",
+      "updated_at": "2026-01-29T10:36:22.439Z",
       "position": 59,
       "description": null,
       "showcase": false,
@@ -6756,9 +6756,9 @@
     {
       "id": "7g58rb9tl036",
       "name": "San Pedro Sula, Honduras - (SAP)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2025-04-30T23:46:32.236Z",
-      "updated_at": "2026-01-27T10:44:52.371Z",
+      "updated_at": "2026-01-29T11:53:52.638Z",
       "position": 103,
       "description": null,
       "showcase": false,
