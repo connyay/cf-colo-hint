@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-01-30T06:17:18.090Z"
+    "updated_at": "2026-01-30T09:16:32.382Z"
   },
   "components": [
     {
@@ -2273,7 +2273,7 @@
       "name": "Luanda, Angola - (LAD)",
       "status": "under_maintenance",
       "created_at": "2016-09-19T04:46:37.401Z",
-      "updated_at": "2026-01-29T12:47:11.853Z",
+      "updated_at": "2026-01-30T09:08:36.547Z",
       "position": 16,
       "description": null,
       "showcase": false,
@@ -3156,9 +3156,9 @@
     {
       "id": "bnjvsmmllkb9",
       "name": "Lima, Peru - (LIM)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2014-12-03T20:29:25.140Z",
-      "updated_at": "2026-01-30T06:17:18.085Z",
+      "updated_at": "2026-01-30T06:23:16.699Z",
       "position": 25,
       "description": null,
       "showcase": false,
@@ -3263,7 +3263,7 @@
       "name": "Manaus, Brazil - (MAO)",
       "status": "operational",
       "created_at": "2021-11-24T12:42:37.210Z",
-      "updated_at": "2026-01-29T07:32:03.309Z",
+      "updated_at": "2026-01-30T08:15:29.264Z",
       "position": 26,
       "description": null,
       "showcase": false,
@@ -4206,9 +4206,9 @@
     {
       "id": "mlld56zj6hdt",
       "name": "Ottawa, Canada - (YOW)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2022-04-14T12:27:07.329Z",
-      "updated_at": "2026-01-22T14:51:33.207Z",
+      "updated_at": "2026-01-30T08:49:08.059Z",
       "position": 38,
       "description": null,
       "showcase": false,
@@ -4328,7 +4328,7 @@
       "name": "Lusaka, Zambia - (LUN)",
       "status": "operational",
       "created_at": "2025-03-06T16:18:43.749Z",
-      "updated_at": "2026-01-29T19:09:13.797Z",
+      "updated_at": "2026-01-30T08:15:28.694Z",
       "position": 39,
       "description": null,
       "showcase": false,
@@ -5421,9 +5421,9 @@
     {
       "id": "8xc65dbhbrd5",
       "name": "Phnom Penh, Cambodia - (PNH)",
-      "status": "under_maintenance",
+      "status": "partial_outage",
       "created_at": "2018-02-09T20:38:28.093Z",
-      "updated_at": "2026-01-29T18:22:03.826Z",
+      "updated_at": "2026-01-30T09:16:32.377Z",
       "position": 55,
       "description": null,
       "showcase": false,
@@ -5706,9 +5706,9 @@
     {
       "id": "43cltfsv0h7h",
       "name": "Winnipeg, MB, Canada - (YWG)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2018-07-10T10:18:32.871Z",
-      "updated_at": "2026-01-29T10:36:22.439Z",
+      "updated_at": "2026-01-30T08:33:15.607Z",
       "position": 59,
       "description": null,
       "showcase": false,
