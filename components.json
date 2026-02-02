@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-02-02T06:20:22.273Z"
+    "updated_at": "2026-02-02T08:00:21.532Z"
   },
   "components": [
     {
@@ -1107,9 +1107,9 @@
     {
       "id": "5r6d2zthcqm4",
       "name": "Hagatna, Guam - (GUM)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2022-05-05T08:28:03.157Z",
-      "updated_at": "2026-01-27T08:27:47.822Z",
+      "updated_at": "2026-02-02T06:56:54.918Z",
       "position": 6,
       "description": null,
       "showcase": false,
@@ -4056,9 +4056,9 @@
     {
       "id": "7rvrsd9g0f1v",
       "name": "Rio de Janeiro, Brazil - (GIG)",
-      "status": "under_maintenance",
+      "status": "operational",
       "created_at": "2017-06-22T22:19:02.210Z",
-      "updated_at": "2026-02-02T05:03:50.030Z",
+      "updated_at": "2026-02-02T07:44:20.774Z",
       "position": 36,
       "description": null,
       "showcase": false,
@@ -4598,7 +4598,7 @@
       "name": "São Paulo, Brazil - (GRU)",
       "status": "under_maintenance",
       "created_at": "2014-10-27T21:45:14.885Z",
-      "updated_at": "2026-01-28T06:27:33.463Z",
+      "updated_at": "2026-02-02T07:20:33.843Z",
       "position": 43,
       "description": null,
       "showcase": false,
