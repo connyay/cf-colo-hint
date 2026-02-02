@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-02-01T21:05:52.433Z"
+    "updated_at": "2026-02-02T00:30:36.422Z"
   },
   "components": [
     {
@@ -1416,9 +1416,9 @@
     {
       "id": "cscgtg7yfz1b",
       "name": "Dar Es Salaam, Tanzania - (DAR)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2019-06-10T05:19:20.533Z",
-      "updated_at": "2026-01-13T12:59:15.552Z",
+      "updated_at": "2026-02-02T00:24:35.688Z",
       "position": 8,
       "description": null,
       "showcase": false,
