@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-02-04T03:43:57.867Z"
+    "updated_at": "2026-02-04T06:20:22.001Z"
   },
   "components": [
     {
@@ -1491,9 +1491,9 @@
     {
       "id": "26gznn8sts5z",
       "name": "Buenos Aires, Argentina - (EZE)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2015-04-01T11:05:40.089Z",
-      "updated_at": "2026-02-03T21:51:27.860Z",
+      "updated_at": "2026-02-04T05:07:36.020Z",
       "position": 9,
       "description": null,
       "showcase": false,
@@ -1973,7 +1973,7 @@
       "name": "Kuwait City, Kuwait - (KWI)",
       "status": "operational",
       "created_at": "2015-07-06T11:24:13.241Z",
-      "updated_at": "2026-02-03T22:15:20.241Z",
+      "updated_at": "2026-02-04T06:13:20.969Z",
       "position": 13,
       "description": null,
       "showcase": false,
@@ -2798,7 +2798,7 @@
       "name": "Tel Aviv, Israel - (TLV)",
       "status": "operational",
       "created_at": "2018-03-13T14:28:48.746Z",
-      "updated_at": "2026-01-19T02:11:53.465Z",
+      "updated_at": "2026-02-04T05:55:19.681Z",
       "position": 21,
       "description": null,
       "showcase": false,
@@ -3441,9 +3441,9 @@
     {
       "id": "gdywyg76bgy3",
       "name": "Jakarta, Indonesia - (CGK)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2019-08-21T06:55:28.100Z",
-      "updated_at": "2026-01-29T22:23:48.462Z",
+      "updated_at": "2026-02-04T04:55:39.976Z",
       "position": 28,
       "description": null,
       "showcase": false,
@@ -3936,9 +3936,9 @@
     {
       "id": "gqhgn4jwr94s",
       "name": "Recife, Brazil - (REC)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2023-01-23T16:01:02.693Z",
-      "updated_at": "2026-01-16T05:08:52.370Z",
+      "updated_at": "2026-02-04T03:56:12.654Z",
       "position": 34,
       "description": null,
       "showcase": false,
@@ -5423,7 +5423,7 @@
       "name": "Phnom Penh, Cambodia - (PNH)",
       "status": "under_maintenance",
       "created_at": "2018-02-09T20:38:28.093Z",
-      "updated_at": "2026-02-04T01:20:24.382Z",
+      "updated_at": "2026-02-04T04:02:01.405Z",
       "position": 55,
       "description": null,
       "showcase": false,
