@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-02-04T18:20:29.244Z"
+    "updated_at": "2026-02-04T21:14:22.211Z"
   },
   "components": [
     {
@@ -479,9 +479,9 @@
     {
       "id": "gxjcfyf5pht1",
       "name": "Baghdad, Iraq - (BGW)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2018-03-12T14:18:23.436Z",
-      "updated_at": "2026-02-04T15:16:14.578Z",
+      "updated_at": "2026-02-04T18:32:37.343Z",
       "position": 3,
       "description": null,
       "showcase": false,
@@ -1373,7 +1373,7 @@
       "name": "Doha, Qatar - (DOH)",
       "status": "operational",
       "created_at": "2015-06-18T15:21:54.451Z",
-      "updated_at": "2026-02-04T15:58:07.974Z",
+      "updated_at": "2026-02-04T18:56:43.560Z",
       "position": 8,
       "description": null,
       "showcase": false,
@@ -1866,9 +1866,9 @@
     {
       "id": "d9znrq17k6ny",
       "name": "Chennai, India - (MAA)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2015-11-12T05:20:52.737Z",
-      "updated_at": "2026-01-23T02:39:45.968Z",
+      "updated_at": "2026-02-04T20:14:20.654Z",
       "position": 12,
       "description": null,
       "showcase": false,
@@ -1973,7 +1973,7 @@
       "name": "Kuwait City, Kuwait - (KWI)",
       "status": "under_maintenance",
       "created_at": "2015-07-06T11:24:13.241Z",
-      "updated_at": "2026-02-04T18:14:40.703Z",
+      "updated_at": "2026-02-04T21:14:22.207Z",
       "position": 13,
       "description": null,
       "showcase": false,
@@ -3891,9 +3891,9 @@
     {
       "id": "grpnztl4pd46",
       "name": "Newark, NJ, United States - (EWR)",
-      "status": "degraded_performance",
+      "status": "operational",
       "created_at": "2014-10-27T20:30:34.850Z",
-      "updated_at": "2026-02-04T17:29:56.851Z",
+      "updated_at": "2026-02-04T19:47:06.618Z",
       "position": 34,
       "description": null,
       "showcase": false,
@@ -4536,9 +4536,9 @@
     {
       "id": "7j656z7tqk7f",
       "name": "DNS Updates",
-      "status": "degraded_performance",
+      "status": "operational",
       "created_at": "2019-01-24T16:50:20.772Z",
-      "updated_at": "2026-02-04T18:16:36.152Z",
+      "updated_at": "2026-02-04T18:40:08.250Z",
       "position": 42,
       "description": "DNS update service pushing customer DNS changes out to all data centers",
       "showcase": false,
@@ -4986,9 +4986,9 @@
     {
       "id": "t3d07wlg67nl",
       "name": "Mumbai, India - (BOM)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2015-10-27T20:12:43.833Z",
-      "updated_at": "2026-02-03T01:07:17.230Z",
+      "updated_at": "2026-02-04T19:14:31.242Z",
       "position": 49,
       "description": null,
       "showcase": false,
