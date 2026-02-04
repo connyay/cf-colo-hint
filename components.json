@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-02-04T00:32:37.480Z"
+    "updated_at": "2026-02-04T03:43:57.867Z"
   },
   "components": [
     {
@@ -1448,7 +1448,7 @@
       "name": "Brasilia, Brazil - (BSB)",
       "status": "under_maintenance",
       "created_at": "2021-05-24T14:45:56.017Z",
-      "updated_at": "2026-01-30T17:48:29.457Z",
+      "updated_at": "2026-02-04T01:20:24.074Z",
       "position": 8,
       "description": null,
       "showcase": false,
@@ -2948,7 +2948,7 @@
       "name": "Hanoi, Vietnam - (HAN)",
       "status": "under_maintenance",
       "created_at": "2018-12-18T06:51:18.979Z",
-      "updated_at": "2026-02-04T00:32:37.475Z",
+      "updated_at": "2026-02-04T03:43:57.863Z",
       "position": 22,
       "description": null,
       "showcase": false,
@@ -4506,9 +4506,9 @@
     {
       "id": "9b9tyrd9x3xr",
       "name": "Portland, OR, United States - (PDX)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2017-08-31T11:47:10.621Z",
-      "updated_at": "2026-02-03T21:03:37.575Z",
+      "updated_at": "2026-02-04T00:56:40.487Z",
       "position": 42,
       "description": null,
       "showcase": false,
@@ -5423,7 +5423,7 @@
       "name": "Phnom Penh, Cambodia - (PNH)",
       "status": "under_maintenance",
       "created_at": "2018-02-09T20:38:28.093Z",
-      "updated_at": "2026-02-03T17:40:26.544Z",
+      "updated_at": "2026-02-04T01:20:24.382Z",
       "position": 55,
       "description": null,
       "showcase": false,
@@ -5828,7 +5828,7 @@
       "name": "Aracatuba, Brazil - (ARU)",
       "status": "partial_outage",
       "created_at": "2024-06-07T17:59:08.909Z",
-      "updated_at": "2026-01-06T09:57:50.293Z",
+      "updated_at": "2026-02-04T01:38:33.952Z",
       "position": 61,
       "description": null,
       "showcase": false,
