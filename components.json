@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-02-07T15:05:23.176Z"
+    "updated_at": "2026-02-07T18:10:53.978Z"
   },
   "components": [
     {
@@ -479,9 +479,9 @@
     {
       "id": "gxjcfyf5pht1",
       "name": "Baghdad, Iraq - (BGW)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2018-03-12T14:18:23.436Z",
-      "updated_at": "2026-02-06T15:24:05.720Z",
+      "updated_at": "2026-02-07T17:29:08.553Z",
       "position": 3,
       "description": null,
       "showcase": false,
@@ -1062,9 +1062,9 @@
     {
       "id": "xpjxwz2x742k",
       "name": "Beirut, Lebanon - (BEY)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2018-02-08T11:33:14.561Z",
-      "updated_at": "2026-02-07T15:02:21.203Z",
+      "updated_at": "2026-02-07T15:17:39.107Z",
       "position": 6,
       "description": null,
       "showcase": false,
@@ -1152,7 +1152,7 @@
     {
       "id": "m3639x4txd08",
       "name": "Middle East",
-      "status": "partial_outage",
+      "status": "under_maintenance",
       "created_at": "2015-06-18T15:21:54.436Z",
       "updated_at": "2022-04-26T19:49:08.594Z",
       "position": 7,
@@ -1971,9 +1971,9 @@
     {
       "id": "mvb027gs2881",
       "name": "Kuwait City, Kuwait - (KWI)",
-      "status": "under_maintenance",
+      "status": "operational",
       "created_at": "2015-07-06T11:24:13.241Z",
-      "updated_at": "2026-02-07T14:23:35.193Z",
+      "updated_at": "2026-02-07T18:10:53.068Z",
       "position": 13,
       "description": null,
       "showcase": false,
@@ -3788,7 +3788,7 @@
       "name": "Saint-Denis, Réunion - (RUN)",
       "status": "operational",
       "created_at": "2024-09-03T09:59:40.272Z",
-      "updated_at": "2026-02-06T17:10:53.849Z",
+      "updated_at": "2026-02-07T18:10:53.975Z",
       "position": 32,
       "description": null,
       "showcase": false,
@@ -5423,7 +5423,7 @@
       "name": "Phnom Penh, Cambodia - (PNH)",
       "status": "under_maintenance",
       "created_at": "2018-02-09T20:38:28.093Z",
-      "updated_at": "2026-02-07T06:59:14.078Z",
+      "updated_at": "2026-02-07T17:46:59.096Z",
       "position": 55,
       "description": null,
       "showcase": false,
@@ -6411,9 +6411,9 @@
     {
       "id": "hq55hw1x6yb2",
       "name": "Cuiaba, Brazil - (CGB)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2024-11-09T08:52:45.515Z",
-      "updated_at": "2026-02-07T15:05:23.173Z",
+      "updated_at": "2026-02-07T17:15:18.885Z",
       "position": 86,
       "description": null,
       "showcase": false,
