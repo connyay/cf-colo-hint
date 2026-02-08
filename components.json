@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-02-08T15:05:01.818Z"
+    "updated_at": "2026-02-08T20:55:35.042Z"
   },
   "components": [
     {
@@ -839,7 +839,8 @@
         "0gh2jr9mdr7v",
         "t6dtrww21571",
         "hwd89skfvc58",
-        "7f4lcm62x6x2"
+        "7f4lcm62x6x2",
+        "0k3fygt2bgzr"
       ]
     },
     {
@@ -1836,9 +1837,9 @@
     {
       "id": "47440brmvtq2",
       "name": "Gaborone, Botswana - (GBE)",
-      "status": "partial_outage",
+      "status": "under_maintenance",
       "created_at": "2022-06-01T10:45:54.571Z",
-      "updated_at": "2026-02-08T10:40:03.097Z",
+      "updated_at": "2026-02-08T17:45:06.045Z",
       "position": 11,
       "description": null,
       "showcase": false,
@@ -1973,7 +1974,7 @@
       "name": "Kuwait City, Kuwait - (KWI)",
       "status": "under_maintenance",
       "created_at": "2015-07-06T11:24:13.241Z",
-      "updated_at": "2026-02-08T15:05:01.816Z",
+      "updated_at": "2026-02-08T20:31:52.950Z",
       "position": 13,
       "description": null,
       "showcase": false,
@@ -3696,9 +3697,9 @@
     {
       "id": "6h060y0sxvv6",
       "name": "Minsk, Belarus - (MSQ)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2021-12-01T13:54:46.179Z",
-      "updated_at": "2026-02-08T12:22:06.729Z",
+      "updated_at": "2026-02-08T16:40:36.995Z",
       "position": 31,
       "description": null,
       "showcase": false,
@@ -3878,7 +3879,7 @@
       "name": "Dar es Salaam, Tanzania - (DAR)",
       "status": "operational",
       "created_at": "2024-11-09T08:40:09.983Z",
-      "updated_at": "2026-02-05T00:56:25.131Z",
+      "updated_at": "2026-02-08T20:55:35.037Z",
       "position": 33,
       "description": null,
       "showcase": false,
@@ -5423,7 +5424,7 @@
       "name": "Phnom Penh, Cambodia - (PNH)",
       "status": "under_maintenance",
       "created_at": "2018-02-09T20:38:28.093Z",
-      "updated_at": "2026-02-08T12:56:03.692Z",
+      "updated_at": "2026-02-08T17:27:25.612Z",
       "position": 55,
       "description": null,
       "showcase": false,
@@ -6269,6 +6270,21 @@
       "showcase": false,
       "start_date": "2024-11-09",
       "group_id": "91blz4ztt7dm",
+      "page_id": "yh6f0r4529hb",
+      "group": false,
+      "only_show_if_degraded": false
+    },
+    {
+      "id": "0k3fygt2bgzr",
+      "name": "Valletta, Malta - (MLA)",
+      "status": "operational",
+      "created_at": "2026-02-08T18:02:58.252Z",
+      "updated_at": "2026-02-08T18:02:58.252Z",
+      "position": 79,
+      "description": null,
+      "showcase": false,
+      "start_date": "2026-02-08",
+      "group_id": "zqxhg7y54vy8",
       "page_id": "yh6f0r4529hb",
       "group": false,
       "only_show_if_degraded": false
@@ -7341,9 +7357,9 @@
     {
       "id": "4jh0k3clz5b6",
       "name": "Male, Maldives - (MLE)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2024-11-09T09:01:00.175Z",
-      "updated_at": "2026-02-08T11:26:46.758Z",
+      "updated_at": "2026-02-08T20:08:06.069Z",
       "position": 460,
       "description": null,
       "showcase": false,
