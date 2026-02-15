@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-02-14T20:53:18.300Z"
+    "updated_at": "2026-02-15T00:26:53.025Z"
   },
   "components": [
     {
@@ -1494,7 +1494,7 @@
       "name": "Buenos Aires, Argentina - (EZE)",
       "status": "operational",
       "created_at": "2015-04-01T11:05:40.089Z",
-      "updated_at": "2026-02-14T03:39:49.388Z",
+      "updated_at": "2026-02-14T21:58:34.858Z",
       "position": 9,
       "description": null,
       "showcase": false,
@@ -1867,9 +1867,9 @@
     {
       "id": "d9znrq17k6ny",
       "name": "Chennai, India - (MAA)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2015-11-12T05:20:52.737Z",
-      "updated_at": "2026-02-11T21:38:45.483Z",
+      "updated_at": "2026-02-15T00:26:53.022Z",
       "position": 12,
       "description": null,
       "showcase": false,
@@ -3772,9 +3772,9 @@
     {
       "id": "qsps56n4xtjt",
       "name": "Saint-Denis, Réunion - (RUN)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2024-09-03T09:59:40.272Z",
-      "updated_at": "2026-02-14T19:04:29.086Z",
+      "updated_at": "2026-02-14T21:11:18.223Z",
       "position": 32,
       "description": null,
       "showcase": false,
@@ -3879,7 +3879,7 @@
       "name": "Dar es Salaam, Tanzania - (DAR)",
       "status": "under_maintenance",
       "created_at": "2024-11-09T08:40:09.983Z",
-      "updated_at": "2026-02-14T05:09:26.512Z",
+      "updated_at": "2026-02-14T22:51:48.250Z",
       "position": 33,
       "description": null,
       "showcase": false,
@@ -7207,9 +7207,9 @@
     {
       "id": "ffrmxl6mgywd",
       "name": "Da Nang, Vietnam - (DAD)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2024-04-26T21:34:08.466Z",
-      "updated_at": "2026-02-14T14:34:14.406Z",
+      "updated_at": "2026-02-14T22:10:21.320Z",
       "position": 349,
       "description": null,
       "showcase": false,
