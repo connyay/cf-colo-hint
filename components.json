@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-02-15T03:46:32.237Z"
+    "updated_at": "2026-02-15T06:22:09.000Z"
   },
   "components": [
     {
@@ -1492,9 +1492,9 @@
     {
       "id": "26gznn8sts5z",
       "name": "Buenos Aires, Argentina - (EZE)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2015-04-01T11:05:40.089Z",
-      "updated_at": "2026-02-15T03:46:32.233Z",
+      "updated_at": "2026-02-15T04:12:28.614Z",
       "position": 9,
       "description": null,
       "showcase": false,
@@ -3879,7 +3879,7 @@
       "name": "Dar es Salaam, Tanzania - (DAR)",
       "status": "under_maintenance",
       "created_at": "2024-11-09T08:40:09.983Z",
-      "updated_at": "2026-02-14T22:51:48.250Z",
+      "updated_at": "2026-02-15T06:16:48.157Z",
       "position": 33,
       "description": null,
       "showcase": false,
