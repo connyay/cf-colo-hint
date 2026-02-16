@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-02-16T06:20:21.887Z"
+    "updated_at": "2026-02-16T09:18:39.868Z"
   },
   "components": [
     {
@@ -1253,7 +1253,7 @@
       "name": "Dammam, Saudi Arabia - (DMM)",
       "status": "operational",
       "created_at": "2021-07-30T11:39:33.707Z",
-      "updated_at": "2026-02-13T03:20:06.702Z",
+      "updated_at": "2026-02-16T09:12:40.908Z",
       "position": 7,
       "description": null,
       "showcase": false,
@@ -2274,7 +2274,7 @@
       "name": "Luanda, Angola - (LAD)",
       "status": "under_maintenance",
       "created_at": "2016-09-19T04:46:37.401Z",
-      "updated_at": "2026-02-16T00:17:03.907Z",
+      "updated_at": "2026-02-16T09:18:39.864Z",
       "position": 16,
       "description": null,
       "showcase": false,
@@ -2604,7 +2604,7 @@
       "name": "Riyadh, Saudi Arabia - (RUH)",
       "status": "operational",
       "created_at": "2018-03-07T02:32:33.544Z",
-      "updated_at": "2026-02-13T00:26:28.829Z",
+      "updated_at": "2026-02-16T09:18:36.596Z",
       "position": 19,
       "description": null,
       "showcase": false,
@@ -3444,7 +3444,7 @@
       "name": "Jakarta, Indonesia - (CGK)",
       "status": "under_maintenance",
       "created_at": "2019-08-21T06:55:28.100Z",
-      "updated_at": "2026-02-13T09:06:22.326Z",
+      "updated_at": "2026-02-16T07:07:48.031Z",
       "position": 28,
       "description": null,
       "showcase": false,
@@ -7464,7 +7464,7 @@
       "name": "Lahore, Pakistan - (LHE)",
       "status": "operational",
       "created_at": "2025-11-25T18:48:17.555Z",
-      "updated_at": "2026-02-15T17:15:16.653Z",
+      "updated_at": "2026-02-16T07:49:18.290Z",
       "position": 677,
       "description": null,
       "showcase": false,
