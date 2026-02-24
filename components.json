@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-02-24T00:38:32.011Z"
+    "updated_at": "2026-02-24T03:19:38.738Z"
   },
   "components": [
     {
@@ -906,9 +906,9 @@
     {
       "id": "6vll3w5p50f9",
       "name": "Belo Horizonte, Brazil - (CNF)",
-      "status": "under_maintenance",
+      "status": "operational",
       "created_at": "2021-07-13T13:51:00.191Z",
-      "updated_at": "2026-02-23T13:51:15.124Z",
+      "updated_at": "2026-02-24T03:05:14.647Z",
       "position": 5,
       "description": null,
       "showcase": false,
@@ -2814,7 +2814,7 @@
       "name": "Houston, TX, United States - (IAH)",
       "status": "partial_outage",
       "created_at": "2018-03-20T07:50:27.681Z",
-      "updated_at": "2026-02-23T14:52:20.605Z",
+      "updated_at": "2026-02-24T03:19:38.735Z",
       "position": 21,
       "description": null,
       "showcase": false,
@@ -3382,9 +3382,9 @@
     {
       "id": "zq3rs0stgc8p",
       "name": "Windhoek, Namibia - (WDH)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2024-05-28T18:09:23.822Z",
-      "updated_at": "2026-02-19T18:21:28.482Z",
+      "updated_at": "2026-02-24T02:29:27.004Z",
       "position": 27,
       "description": null,
       "showcase": false,
@@ -4042,9 +4042,9 @@
     {
       "id": "7rvrsd9g0f1v",
       "name": "Rio de Janeiro, Brazil - (GIG)",
-      "status": "under_maintenance",
+      "status": "operational",
       "created_at": "2017-06-22T22:19:02.210Z",
-      "updated_at": "2026-02-24T00:35:40.665Z",
+      "updated_at": "2026-02-24T00:59:41.801Z",
       "position": 36,
       "description": null,
       "showcase": false,
@@ -4567,9 +4567,9 @@
     {
       "id": "my0mk23lnk01",
       "name": "São José dos Campos, Brazil - (SJK)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2023-03-23T01:20:10.288Z",
-      "updated_at": "2026-02-10T05:20:26.355Z",
+      "updated_at": "2026-02-24T02:15:24.926Z",
       "position": 42,
       "description": null,
       "showcase": false,
@@ -5454,7 +5454,7 @@
       "name": "Images",
       "status": "operational",
       "created_at": "2022-02-25T17:30:01.272Z",
-      "updated_at": "2026-02-13T13:31:02.361Z",
+      "updated_at": "2026-02-24T01:56:56.881Z",
       "position": 55,
       "description": "Cloudflare service to build a scalable image pipeline to store, resize, optimize and deliver images in a fast and secure manner.",
       "showcase": false,
