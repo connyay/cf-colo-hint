@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-02-25T03:49:17.647Z"
+    "updated_at": "2026-02-25T06:20:21.920Z"
   },
   "components": [
     {
@@ -482,7 +482,7 @@
       "name": "Baghdad, Iraq - (BGW)",
       "status": "under_maintenance",
       "created_at": "2018-03-12T14:18:23.436Z",
-      "updated_at": "2026-02-24T15:00:36.889Z",
+      "updated_at": "2026-02-25T04:01:15.352Z",
       "position": 3,
       "description": null,
       "showcase": false,
@@ -2497,9 +2497,9 @@
     {
       "id": "dwmgwrxg7cx3",
       "name": "Hamburg, Germany - (HAM)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2015-12-14T11:28:08.468Z",
-      "updated_at": "2026-02-25T01:01:43.304Z",
+      "updated_at": "2026-02-25T05:05:49.010Z",
       "position": 18,
       "description": null,
       "showcase": false,
@@ -4417,9 +4417,9 @@
     {
       "id": "q6j0l99lhd3f",
       "name": "Addis Ababa, Ethiopia - (ADD)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2025-05-13T11:56:32.698Z",
-      "updated_at": "2026-02-23T08:24:51.242Z",
+      "updated_at": "2026-02-25T06:14:26.773Z",
       "position": 40,
       "description": null,
       "showcase": false,
@@ -4719,7 +4719,7 @@
       "name": "Sofia, Bulgaria - (SOF)",
       "status": "operational",
       "created_at": "2015-12-08T11:47:55.113Z",
-      "updated_at": "2026-02-18T05:53:03.233Z",
+      "updated_at": "2026-02-25T05:29:44.864Z",
       "position": 45,
       "description": null,
       "showcase": false,
@@ -7372,9 +7372,9 @@
     {
       "id": "4jh0k3clz5b6",
       "name": "Male, Maldives - (MLE)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2024-11-09T09:01:00.175Z",
-      "updated_at": "2026-02-24T21:58:16.202Z",
+      "updated_at": "2026-02-25T04:24:05.781Z",
       "position": 460,
       "description": null,
       "showcase": false,
