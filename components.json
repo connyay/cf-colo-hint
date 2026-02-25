@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-02-25T00:33:46.464Z"
+    "updated_at": "2026-02-25T03:49:17.647Z"
   },
   "components": [
     {
@@ -1168,7 +1168,7 @@
     {
       "id": "m3639x4txd08",
       "name": "Middle East",
-      "status": "partial_outage",
+      "status": "under_maintenance",
       "created_at": "2015-06-18T15:21:54.436Z",
       "updated_at": "2022-04-26T19:49:08.594Z",
       "position": 7,
@@ -1807,9 +1807,9 @@
     {
       "id": "35qbtx01nv8w",
       "name": "Haifa, Israel - (HFA)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2022-02-11T10:56:11.178Z",
-      "updated_at": "2026-02-09T10:23:03.205Z",
+      "updated_at": "2026-02-25T03:49:17.642Z",
       "position": 11,
       "description": null,
       "showcase": false,
@@ -2497,9 +2497,9 @@
     {
       "id": "dwmgwrxg7cx3",
       "name": "Hamburg, Germany - (HAM)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2015-12-14T11:28:08.468Z",
-      "updated_at": "2026-02-20T20:43:23.761Z",
+      "updated_at": "2026-02-25T01:01:43.304Z",
       "position": 18,
       "description": null,
       "showcase": false,
@@ -3142,9 +3142,9 @@
     {
       "id": "wf2gdmxg7cv3",
       "name": "Hong Kong - (HKG)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2014-10-27T21:46:42.606Z",
-      "updated_at": "2026-02-21T06:54:51.610Z",
+      "updated_at": "2026-02-25T02:43:29.168Z",
       "position": 25,
       "description": null,
       "showcase": false,
@@ -4044,7 +4044,7 @@
       "name": "Rio de Janeiro, Brazil - (GIG)",
       "status": "operational",
       "created_at": "2017-06-22T22:19:02.210Z",
-      "updated_at": "2026-02-24T00:59:41.801Z",
+      "updated_at": "2026-02-25T03:19:23.419Z",
       "position": 36,
       "description": null,
       "showcase": false,
@@ -7434,7 +7434,7 @@
       "name": "Bishkek, Kyrgyzstan - (FRU)",
       "status": "operational",
       "created_at": "2025-08-18T15:59:06.041Z",
-      "updated_at": "2026-02-24T22:46:13.677Z",
+      "updated_at": "2026-02-25T02:55:32.175Z",
       "position": 675,
       "description": null,
       "showcase": false,
