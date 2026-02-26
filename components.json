@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-02-26T06:21:28.191Z"
+    "updated_at": "2026-02-26T09:11:35.866Z"
   },
   "components": [
     {
@@ -1974,7 +1974,7 @@
       "name": "Kuwait City, Kuwait - (KWI)",
       "status": "under_maintenance",
       "created_at": "2015-07-06T11:24:13.241Z",
-      "updated_at": "2026-02-26T00:45:02.080Z",
+      "updated_at": "2026-02-26T08:59:38.647Z",
       "position": 13,
       "description": null,
       "showcase": false,
@@ -2182,9 +2182,9 @@
     {
       "id": "0dtt4htlgpdh",
       "name": "Muscat, Oman - (MCT)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2015-08-04T00:56:44.345Z",
-      "updated_at": "2026-02-26T03:54:22.405Z",
+      "updated_at": "2026-02-26T09:11:35.861Z",
       "position": 15,
       "description": null,
       "showcase": false,
@@ -2379,7 +2379,7 @@
       "name": "Fortaleza, Brazil - (FOR)",
       "status": "operational",
       "created_at": "2019-04-01T15:16:43.011Z",
-      "updated_at": "2026-02-26T06:21:28.186Z",
+      "updated_at": "2026-02-26T07:25:09.562Z",
       "position": 17,
       "description": null,
       "showcase": false,
@@ -2482,9 +2482,9 @@
     {
       "id": "sbk2cql7ktgz",
       "name": "Mombasa, Kenya - (MBA)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2015-08-25T23:48:50.991Z",
-      "updated_at": "2026-02-13T04:48:49.845Z",
+      "updated_at": "2026-02-26T09:11:35.510Z",
       "position": 18,
       "description": null,
       "showcase": false,
@@ -2497,9 +2497,9 @@
     {
       "id": "dwmgwrxg7cx3",
       "name": "Hamburg, Germany - (HAM)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2015-12-14T11:28:08.468Z",
-      "updated_at": "2026-02-26T00:07:36.131Z",
+      "updated_at": "2026-02-26T06:50:16.048Z",
       "position": 18,
       "description": null,
       "showcase": false,
@@ -3997,9 +3997,9 @@
     {
       "id": "f95c4c2zcg0t",
       "name": "Karachi, Pakistan - (KHI)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2018-12-04T16:17:59.275Z",
-      "updated_at": "2026-02-24T22:22:23.564Z",
+      "updated_at": "2026-02-26T09:11:35.145Z",
       "position": 35,
       "description": null,
       "showcase": false,
@@ -4057,9 +4057,9 @@
     {
       "id": "gw1cztbpft9b",
       "name": "Kathmandu, Nepal - (KTM)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2018-02-21T11:46:55.428Z",
-      "updated_at": "2026-02-25T23:22:21.594Z",
+      "updated_at": "2026-02-26T07:14:01.531Z",
       "position": 36,
       "description": null,
       "showcase": false,
@@ -7462,9 +7462,9 @@
     {
       "id": "96bgq3x3tq93",
       "name": "Lahore, Pakistan - (LHE)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2025-11-25T18:48:17.555Z",
-      "updated_at": "2026-02-25T23:46:06.611Z",
+      "updated_at": "2026-02-26T09:11:34.809Z",
       "position": 677,
       "description": null,
       "showcase": false,
