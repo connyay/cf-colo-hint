@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-02-27T09:06:06.136Z"
+    "updated_at": "2026-02-27T12:04:49.512Z"
   },
   "components": [
     {
@@ -696,9 +696,9 @@
     {
       "id": "vhpdc0y3qty9",
       "name": "Bangalore, India - (BLR)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2019-10-03T23:15:06.784Z",
-      "updated_at": "2026-02-26T19:40:42.649Z",
+      "updated_at": "2026-02-27T11:34:56.513Z",
       "position": 4,
       "description": null,
       "showcase": false,
@@ -1155,7 +1155,7 @@
       "name": "API",
       "status": "operational",
       "created_at": "2014-10-09T03:32:07.158Z",
-      "updated_at": "2026-02-22T22:34:11.082Z",
+      "updated_at": "2026-02-27T10:09:37.739Z",
       "position": 7,
       "description": "Application programming interface (API) for customers to read and write their configurations at https://api.cloudflare.com",
       "showcase": false,
@@ -2319,7 +2319,7 @@
       "name": "Dhaka, Bangladesh - (DAC)",
       "status": "under_maintenance",
       "created_at": "2019-12-17T22:56:25.827Z",
-      "updated_at": "2026-02-26T13:14:58.186Z",
+      "updated_at": "2026-02-27T10:52:46.800Z",
       "position": 16,
       "description": null,
       "showcase": false,
@@ -4042,9 +4042,9 @@
     {
       "id": "7rvrsd9g0f1v",
       "name": "Rio de Janeiro, Brazil - (GIG)",
-      "status": "under_maintenance",
+      "status": "operational",
       "created_at": "2017-06-22T22:19:02.210Z",
-      "updated_at": "2026-02-27T08:12:18.531Z",
+      "updated_at": "2026-02-27T10:17:08.604Z",
       "position": 36,
       "description": null,
       "showcase": false,
@@ -4119,7 +4119,7 @@
       "name": "Dashboard",
       "status": "operational",
       "created_at": "2014-10-09T03:32:07.173Z",
-      "updated_at": "2026-02-13T21:50:07.019Z",
+      "updated_at": "2026-02-27T10:09:37.762Z",
       "position": 37,
       "description": "Dashboard where customers can view and make changes to their configurations at https://dash.cloudflare.com",
       "showcase": false,
@@ -7372,9 +7372,9 @@
     {
       "id": "4jh0k3clz5b6",
       "name": "Male, Maldives - (MLE)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2024-11-09T09:01:00.175Z",
-      "updated_at": "2026-02-26T20:40:16.826Z",
+      "updated_at": "2026-02-27T12:04:49.507Z",
       "position": 460,
       "description": null,
       "showcase": false,
