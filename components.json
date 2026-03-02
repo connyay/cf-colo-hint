@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-03-02T12:17:55.963Z"
+    "updated_at": "2026-03-02T15:14:12.956Z"
   },
   "components": [
     {
@@ -25,7 +25,7 @@
     {
       "id": "1km35smx8p41",
       "name": "Cloudflare Sites and Services",
-      "status": "degraded_performance",
+      "status": "operational",
       "created_at": "2014-10-27T21:59:30.264Z",
       "updated_at": "2020-11-11T20:12:30.167Z",
       "position": 1,
@@ -2319,7 +2319,7 @@
       "name": "Dhaka, Bangladesh - (DAC)",
       "status": "under_maintenance",
       "created_at": "2019-12-17T22:56:25.827Z",
-      "updated_at": "2026-03-02T08:13:05.653Z",
+      "updated_at": "2026-03-02T14:58:50.419Z",
       "position": 16,
       "description": null,
       "showcase": false,
@@ -3217,9 +3217,9 @@
     {
       "id": "x0tkn0hzrtw7",
       "name": "Challenge Platform",
-      "status": "degraded_performance",
+      "status": "operational",
       "created_at": "2023-07-14T08:21:02.759Z",
-      "updated_at": "2026-03-02T10:34:24.329Z",
+      "updated_at": "2026-03-02T12:24:09.307Z",
       "position": 25,
       "description": "When a website is protected by Cloudflare, there are several occasions when it will challenge visitor traffic. If the visitor passes the challenge, their request is allowed. If they fail, the request will be blocked.",
       "showcase": false,
@@ -4252,9 +4252,9 @@
     {
       "id": "wg0b1zzm2f2w",
       "name": "Santiago, Chile - (SCL)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2014-10-27T21:47:59.478Z",
-      "updated_at": "2026-02-27T23:01:15.827Z",
+      "updated_at": "2026-03-02T14:35:02.116Z",
       "position": 39,
       "description": null,
       "showcase": false,
@@ -5827,9 +5827,9 @@
     {
       "id": "80rdp18kk8x6",
       "name": "Aracatuba, Brazil - (ARU)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2024-06-07T17:59:08.909Z",
-      "updated_at": "2026-03-02T03:43:59.632Z",
+      "updated_at": "2026-03-02T12:53:33.788Z",
       "position": 61,
       "description": null,
       "showcase": false,
@@ -6877,9 +6877,9 @@
     {
       "id": "pqt7t1dwt0dz",
       "name": "Workers Observability",
-      "status": "degraded_performance",
+      "status": "operational",
       "created_at": "2024-12-12T22:27:27.098Z",
-      "updated_at": "2026-03-02T11:58:43.084Z",
+      "updated_at": "2026-03-02T15:14:12.880Z",
       "position": 110,
       "description": "Workers Logs",
       "showcase": false,
@@ -7372,9 +7372,9 @@
     {
       "id": "4jh0k3clz5b6",
       "name": "Male, Maldives - (MLE)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2024-11-09T09:01:00.175Z",
-      "updated_at": "2026-03-01T19:04:01.239Z",
+      "updated_at": "2026-03-02T13:11:35.885Z",
       "position": 460,
       "description": null,
       "showcase": false,
