@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-03-02T09:15:57.155Z"
+    "updated_at": "2026-03-02T12:17:55.963Z"
   },
   "components": [
     {
@@ -25,7 +25,7 @@
     {
       "id": "1km35smx8p41",
       "name": "Cloudflare Sites and Services",
-      "status": "operational",
+      "status": "degraded_performance",
       "created_at": "2014-10-27T21:59:30.264Z",
       "updated_at": "2020-11-11T20:12:30.167Z",
       "position": 1,
@@ -482,7 +482,7 @@
       "name": "Baghdad, Iraq - (BGW)",
       "status": "operational",
       "created_at": "2018-03-12T14:18:23.436Z",
-      "updated_at": "2026-03-01T22:45:05.457Z",
+      "updated_at": "2026-03-02T12:06:02.542Z",
       "position": 3,
       "description": null,
       "showcase": false,
@@ -3217,9 +3217,9 @@
     {
       "id": "x0tkn0hzrtw7",
       "name": "Challenge Platform",
-      "status": "operational",
+      "status": "degraded_performance",
       "created_at": "2023-07-14T08:21:02.759Z",
-      "updated_at": "2026-02-13T13:31:15.379Z",
+      "updated_at": "2026-03-02T10:34:24.329Z",
       "position": 25,
       "description": "When a website is protected by Cloudflare, there are several occasions when it will challenge visitor traffic. If the visitor passes the challenge, their request is allowed. If they fail, the request will be blocked.",
       "showcase": false,
@@ -3937,9 +3937,9 @@
     {
       "id": "gqhgn4jwr94s",
       "name": "Recife, Brazil - (REC)",
-      "status": "under_maintenance",
+      "status": "operational",
       "created_at": "2023-01-23T16:01:02.693Z",
-      "updated_at": "2026-03-02T06:19:13.792Z",
+      "updated_at": "2026-03-02T10:30:41.300Z",
       "position": 34,
       "description": null,
       "showcase": false,
@@ -4882,9 +4882,9 @@
     {
       "id": "5dhjdhgdqjzd",
       "name": "San Antonio, TX, United States - (SAT)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2023-08-14T14:20:37.637Z",
-      "updated_at": "2026-03-02T06:43:08.292Z",
+      "updated_at": "2026-03-02T12:06:05.473Z",
       "position": 47,
       "description": null,
       "showcase": false,
@@ -4914,7 +4914,7 @@
       "name": "Manila, Philippines - (MNL)",
       "status": "under_maintenance",
       "created_at": "2016-04-29T12:14:56.581Z",
-      "updated_at": "2026-03-02T08:36:58.074Z",
+      "updated_at": "2026-03-02T12:17:55.959Z",
       "position": 48,
       "description": null,
       "showcase": false,
@@ -6877,9 +6877,9 @@
     {
       "id": "pqt7t1dwt0dz",
       "name": "Workers Observability",
-      "status": "operational",
+      "status": "degraded_performance",
       "created_at": "2024-12-12T22:27:27.098Z",
-      "updated_at": "2026-02-13T13:30:08.433Z",
+      "updated_at": "2026-03-02T11:58:43.084Z",
       "position": 110,
       "description": "Workers Logs",
       "showcase": false,
