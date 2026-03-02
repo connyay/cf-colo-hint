@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-03-01T23:44:55.547Z"
+    "updated_at": "2026-03-02T03:50:12.289Z"
   },
   "components": [
     {
@@ -205,7 +205,7 @@
       "name": "Accra, Ghana - (ACC)",
       "status": "operational",
       "created_at": "2022-02-11T11:46:37.349Z",
-      "updated_at": "2026-02-27T22:38:58.853Z",
+      "updated_at": "2026-03-02T03:13:58.608Z",
       "position": 1,
       "description": null,
       "showcase": false,
@@ -1492,9 +1492,9 @@
     {
       "id": "26gznn8sts5z",
       "name": "Buenos Aires, Argentina - (EZE)",
-      "status": "under_maintenance",
+      "status": "operational",
       "created_at": "2015-04-01T11:05:40.089Z",
-      "updated_at": "2026-03-01T02:35:16.192Z",
+      "updated_at": "2026-03-02T03:49:58.767Z",
       "position": 9,
       "description": null,
       "showcase": false,
@@ -2722,9 +2722,9 @@
     {
       "id": "srz7zhpwynys",
       "name": "Guatemala City, Guatemala - (GUA)",
-      "status": "partial_outage",
+      "status": "under_maintenance",
       "created_at": "2019-08-15T07:22:07.430Z",
-      "updated_at": "2026-03-01T02:59:11.327Z",
+      "updated_at": "2026-03-02T03:49:59.624Z",
       "position": 20,
       "description": null,
       "showcase": false,
@@ -3802,9 +3802,9 @@
     {
       "id": "r66zh17lxd91",
       "name": "Quito, Ecuador - (UIO)",
-      "status": "under_maintenance",
+      "status": "operational",
       "created_at": "2017-03-13T21:23:02.885Z",
-      "updated_at": "2026-03-01T01:47:22.210Z",
+      "updated_at": "2026-03-02T03:49:59.106Z",
       "position": 33,
       "description": null,
       "showcase": false,
@@ -4057,9 +4057,9 @@
     {
       "id": "gw1cztbpft9b",
       "name": "Kathmandu, Nepal - (KTM)",
-      "status": "under_maintenance",
+      "status": "operational",
       "created_at": "2018-02-21T11:46:55.428Z",
-      "updated_at": "2026-02-28T12:16:27.473Z",
+      "updated_at": "2026-03-02T03:19:52.370Z",
       "position": 36,
       "description": null,
       "showcase": false,
@@ -4599,7 +4599,7 @@
       "name": "São Paulo, Brazil - (GRU)",
       "status": "under_maintenance",
       "created_at": "2014-10-27T21:45:14.885Z",
-      "updated_at": "2026-03-01T20:21:38.217Z",
+      "updated_at": "2026-03-02T01:50:19.305Z",
       "position": 43,
       "description": null,
       "showcase": false,
@@ -5827,9 +5827,9 @@
     {
       "id": "80rdp18kk8x6",
       "name": "Aracatuba, Brazil - (ARU)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2024-06-07T17:59:08.909Z",
-      "updated_at": "2026-02-27T20:51:45.568Z",
+      "updated_at": "2026-03-02T03:43:59.632Z",
       "position": 61,
       "description": null,
       "showcase": false,
@@ -6982,9 +6982,9 @@
     {
       "id": "wst86pq2g9y9",
       "name": "Bogota, Colombia - (BOG)",
-      "status": "under_maintenance",
+      "status": "operational",
       "created_at": "2025-06-02T15:04:47.704Z",
-      "updated_at": "2026-03-01T03:47:04.425Z",
+      "updated_at": "2026-03-02T03:49:56.784Z",
       "position": 186,
       "description": null,
       "showcase": false,
