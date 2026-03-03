@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-03-03T15:16:32.242Z"
+    "updated_at": "2026-03-03T18:21:21.717Z"
   },
   "components": [
     {
@@ -1462,7 +1462,7 @@
     {
       "id": "q6qm6fvkst4h",
       "name": "Oceania",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2014-10-28T00:12:04.846Z",
       "updated_at": "2022-04-26T19:49:08.623Z",
       "position": 9,
@@ -2047,9 +2047,9 @@
     {
       "id": "m3zc04ynknwv",
       "name": "Suva, Fiji - (SUV)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2024-01-19T20:40:46.179Z",
-      "updated_at": "2026-03-03T14:59:49.422Z",
+      "updated_at": "2026-03-03T16:51:42.341Z",
       "position": 13,
       "description": null,
       "showcase": false,
@@ -2904,7 +2904,7 @@
       "name": "Kyiv, Ukraine - (KBP)",
       "status": "operational",
       "created_at": "2016-04-19T01:29:21.459Z",
-      "updated_at": "2026-02-26T10:47:04.089Z",
+      "updated_at": "2026-03-03T18:21:21.714Z",
       "position": 22,
       "description": null,
       "showcase": false,
@@ -3772,9 +3772,9 @@
     {
       "id": "qsps56n4xtjt",
       "name": "Saint-Denis, Réunion - (RUN)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2024-09-03T09:59:40.272Z",
-      "updated_at": "2026-03-03T13:53:03.250Z",
+      "updated_at": "2026-03-03T17:45:39.364Z",
       "position": 32,
       "description": null,
       "showcase": false,
@@ -5109,7 +5109,7 @@
       "name": "Gateway",
       "status": "operational",
       "created_at": "2023-01-10T09:28:36.367Z",
-      "updated_at": "2026-02-13T13:31:15.597Z",
+      "updated_at": "2026-03-03T17:34:29.319Z",
       "position": 50,
       "description": "Cloudflare’s secure web gateway keeps your data safe from malware, ransomware, phishing, command & control, Shadow IT, and other Internet risks over all ports and protocols. Log every user interaction with rich details.",
       "showcase": false,
