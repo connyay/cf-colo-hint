@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-03-03T06:00:10.489Z"
+    "updated_at": "2026-03-03T09:17:03.962Z"
   },
   "components": [
     {
@@ -25,7 +25,7 @@
     {
       "id": "1km35smx8p41",
       "name": "Cloudflare Sites and Services",
-      "status": "operational",
+      "status": "degraded_performance",
       "created_at": "2014-10-27T21:59:30.264Z",
       "updated_at": "2020-11-11T20:12:30.167Z",
       "position": 1,
@@ -3007,9 +3007,9 @@
     {
       "id": "5wnz34mhfhrk",
       "name": "CDN/Cache",
-      "status": "operational",
+      "status": "degraded_performance",
       "created_at": "2020-03-25T19:03:33.850Z",
-      "updated_at": "2026-02-19T12:45:12.010Z",
+      "updated_at": "2026-03-03T09:17:03.858Z",
       "position": 23,
       "description": null,
       "showcase": false,
@@ -4059,7 +4059,7 @@
       "name": "Kathmandu, Nepal - (KTM)",
       "status": "operational",
       "created_at": "2018-02-21T11:46:55.428Z",
-      "updated_at": "2026-03-02T03:19:52.370Z",
+      "updated_at": "2026-03-03T08:03:06.065Z",
       "position": 36,
       "description": null,
       "showcase": false,
@@ -4132,9 +4132,9 @@
     {
       "id": "w1br383gmlwj",
       "name": "Paris, France - (CDG)",
-      "status": "operational",
+      "status": "degraded_performance",
       "created_at": "2014-10-27T20:36:46.182Z",
-      "updated_at": "2026-01-14T23:53:53.621Z",
+      "updated_at": "2026-03-03T09:17:03.895Z",
       "position": 37,
       "description": null,
       "showcase": false,
@@ -4447,9 +4447,9 @@
     {
       "id": "fjfvdrs8h5sl",
       "name": "Pittsburgh, PA, United States - (PIT)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2018-02-09T06:37:47.402Z",
-      "updated_at": "2026-02-10T19:43:02.276Z",
+      "updated_at": "2026-03-03T08:58:55.908Z",
       "position": 41,
       "description": null,
       "showcase": false,
@@ -7207,9 +7207,9 @@
     {
       "id": "ffrmxl6mgywd",
       "name": "Da Nang, Vietnam - (DAD)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2024-04-26T21:34:08.466Z",
-      "updated_at": "2026-03-03T04:01:27.045Z",
+      "updated_at": "2026-03-03T07:15:27.117Z",
       "position": 349,
       "description": null,
       "showcase": false,
