@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-03-08T15:02:11.863Z"
+    "updated_at": "2026-03-08T18:11:18.526Z"
   },
   "components": [
     {
@@ -1064,9 +1064,9 @@
     {
       "id": "xpjxwz2x742k",
       "name": "Beirut, Lebanon - (BEY)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2018-02-08T11:33:14.561Z",
-      "updated_at": "2026-03-08T14:08:45.711Z",
+      "updated_at": "2026-03-08T16:24:22.926Z",
       "position": 6,
       "description": null,
       "showcase": false,
@@ -1169,7 +1169,7 @@
     {
       "id": "m3639x4txd08",
       "name": "Middle East",
-      "status": "partial_outage",
+      "status": "under_maintenance",
       "created_at": "2015-06-18T15:21:54.436Z",
       "updated_at": "2022-04-26T19:49:08.594Z",
       "position": 7,
@@ -1913,9 +1913,9 @@
     {
       "id": "652rf3j94nfv",
       "name": "Jeddah, Saudi Arabia - (JED)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2022-06-08T13:59:14.645Z",
-      "updated_at": "2026-03-06T01:46:10.836Z",
+      "updated_at": "2026-03-08T18:11:18.523Z",
       "position": 12,
       "description": null,
       "showcase": false,
@@ -2320,7 +2320,7 @@
       "name": "Dhaka, Bangladesh - (DAC)",
       "status": "under_maintenance",
       "created_at": "2019-12-17T22:56:25.827Z",
-      "updated_at": "2026-03-08T13:38:51.513Z",
+      "updated_at": "2026-03-08T17:23:39.510Z",
       "position": 16,
       "description": null,
       "showcase": false,
@@ -3685,7 +3685,7 @@
       "name": "Porto Alegre, Brazil - (POA)",
       "status": "under_maintenance",
       "created_at": "2019-04-01T16:32:01.138Z",
-      "updated_at": "2026-03-04T05:16:17.837Z",
+      "updated_at": "2026-03-08T17:53:22.254Z",
       "position": 31,
       "description": null,
       "showcase": false,
@@ -3998,9 +3998,9 @@
     {
       "id": "f95c4c2zcg0t",
       "name": "Karachi, Pakistan - (KHI)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2018-12-04T16:17:59.275Z",
-      "updated_at": "2026-03-08T00:24:17.357Z",
+      "updated_at": "2026-03-08T16:06:40.219Z",
       "position": 35,
       "description": null,
       "showcase": false,
