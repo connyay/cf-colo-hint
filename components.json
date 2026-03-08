@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-03-08T06:19:55.478Z"
+    "updated_at": "2026-03-08T08:59:55.953Z"
   },
   "components": [
     {
@@ -909,7 +909,7 @@
       "name": "Belo Horizonte, Brazil - (CNF)",
       "status": "operational",
       "created_at": "2021-07-13T13:51:00.191Z",
-      "updated_at": "2026-03-08T01:00:01.791Z",
+      "updated_at": "2026-03-08T08:12:25.276Z",
       "position": 5,
       "description": null,
       "showcase": false,
@@ -4060,7 +4060,7 @@
       "name": "Kathmandu, Nepal - (KTM)",
       "status": "operational",
       "created_at": "2018-02-21T11:46:55.428Z",
-      "updated_at": "2026-03-06T05:25:04.995Z",
+      "updated_at": "2026-03-08T08:59:55.951Z",
       "position": 36,
       "description": null,
       "showcase": false,
@@ -5425,7 +5425,7 @@
       "name": "Phnom Penh, Cambodia - (PNH)",
       "status": "under_maintenance",
       "created_at": "2018-02-09T20:38:28.093Z",
-      "updated_at": "2026-03-08T04:03:51.808Z",
+      "updated_at": "2026-03-08T06:43:34.035Z",
       "position": 55,
       "description": null,
       "showcase": false,
