@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-03-10T06:00:12.502Z"
+    "updated_at": "2026-03-10T09:20:23.030Z"
   },
   "components": [
     {
@@ -375,9 +375,9 @@
     {
       "id": "rfkpkllgfmrq",
       "name": "Algiers, Algeria - (ALG)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2021-08-06T15:49:20.304Z",
-      "updated_at": "2026-03-06T01:28:13.466Z",
+      "updated_at": "2026-03-10T08:29:31.293Z",
       "position": 2,
       "description": null,
       "showcase": false,
@@ -480,9 +480,9 @@
     {
       "id": "gxjcfyf5pht1",
       "name": "Baghdad, Iraq - (BGW)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2018-03-12T14:18:23.436Z",
-      "updated_at": "2026-03-09T21:34:13.949Z",
+      "updated_at": "2026-03-10T08:47:20.544Z",
       "position": 3,
       "description": null,
       "showcase": false,
@@ -512,7 +512,7 @@
       "name": "Annaba, Algeria - (AAE)",
       "status": "operational",
       "created_at": "2023-06-19T16:40:57.290Z",
-      "updated_at": "2026-01-08T03:02:39.871Z",
+      "updated_at": "2026-03-10T08:59:09.043Z",
       "position": 3,
       "description": null,
       "showcase": false,
@@ -907,9 +907,9 @@
     {
       "id": "6vll3w5p50f9",
       "name": "Belo Horizonte, Brazil - (CNF)",
-      "status": "under_maintenance",
+      "status": "operational",
       "created_at": "2021-07-13T13:51:00.191Z",
-      "updated_at": "2026-03-10T05:30:28.029Z",
+      "updated_at": "2026-03-10T07:41:51.646Z",
       "position": 5,
       "description": null,
       "showcase": false,
@@ -3445,7 +3445,7 @@
       "name": "Jakarta, Indonesia - (CGK)",
       "status": "under_maintenance",
       "created_at": "2019-08-21T06:55:28.100Z",
-      "updated_at": "2026-03-04T17:41:14.259Z",
+      "updated_at": "2026-03-10T07:05:49.789Z",
       "position": 28,
       "description": null,
       "showcase": false,
@@ -7373,9 +7373,9 @@
     {
       "id": "4jh0k3clz5b6",
       "name": "Male, Maldives - (MLE)",
-      "status": "under_maintenance",
+      "status": "operational",
       "created_at": "2024-11-09T09:01:00.175Z",
-      "updated_at": "2026-03-10T05:24:24.656Z",
+      "updated_at": "2026-03-10T07:47:44.777Z",
       "position": 460,
       "description": null,
       "showcase": false,
