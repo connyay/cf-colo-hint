@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-03-10T03:15:07.158Z"
+    "updated_at": "2026-03-10T06:00:12.502Z"
   },
   "components": [
     {
@@ -907,9 +907,9 @@
     {
       "id": "6vll3w5p50f9",
       "name": "Belo Horizonte, Brazil - (CNF)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2021-07-13T13:51:00.191Z",
-      "updated_at": "2026-03-10T02:13:33.543Z",
+      "updated_at": "2026-03-10T05:30:28.029Z",
       "position": 5,
       "description": null,
       "showcase": false,
@@ -1915,7 +1915,7 @@
       "name": "Jeddah, Saudi Arabia - (JED)",
       "status": "operational",
       "created_at": "2022-06-08T13:59:14.645Z",
-      "updated_at": "2026-03-09T22:57:24.412Z",
+      "updated_at": "2026-03-10T05:54:13.502Z",
       "position": 12,
       "description": null,
       "showcase": false,
@@ -4043,9 +4043,9 @@
     {
       "id": "7rvrsd9g0f1v",
       "name": "Rio de Janeiro, Brazil - (GIG)",
-      "status": "under_maintenance",
+      "status": "operational",
       "created_at": "2017-06-22T22:19:02.210Z",
-      "updated_at": "2026-03-10T03:13:10.201Z",
+      "updated_at": "2026-03-10T04:18:32.315Z",
       "position": 36,
       "description": null,
       "showcase": false,
@@ -7373,9 +7373,9 @@
     {
       "id": "4jh0k3clz5b6",
       "name": "Male, Maldives - (MLE)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2024-11-09T09:01:00.175Z",
-      "updated_at": "2026-03-09T21:34:13.056Z",
+      "updated_at": "2026-03-10T05:24:24.656Z",
       "position": 460,
       "description": null,
       "showcase": false,
