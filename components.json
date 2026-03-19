@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-03-19T06:22:38.892Z"
+    "updated_at": "2026-03-19T09:20:22.344Z"
   },
   "components": [
     {
@@ -1659,9 +1659,9 @@
     {
       "id": "dwlvwq5gnym8",
       "name": "Charlotte, NC, United States - (CLT)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2018-11-30T01:17:45.019Z",
-      "updated_at": "2026-03-19T06:10:42.316Z",
+      "updated_at": "2026-03-19T09:02:56.604Z",
       "position": 10,
       "description": null,
       "showcase": false,
@@ -3264,9 +3264,9 @@
     {
       "id": "xbcr6hhsj55p",
       "name": "Hyderabad, India - (HYD)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2019-01-11T08:19:48.090Z",
-      "updated_at": "2026-03-18T18:21:56.294Z",
+      "updated_at": "2026-03-19T09:02:59.000Z",
       "position": 26,
       "description": null,
       "showcase": false,
@@ -5004,9 +5004,9 @@
     {
       "id": "t3d07wlg67nl",
       "name": "Mumbai, India - (BOM)",
-      "status": "operational",
+      "status": "degraded_performance",
       "created_at": "2015-10-27T20:12:43.833Z",
-      "updated_at": "2026-03-11T19:56:44.828Z",
+      "updated_at": "2026-03-19T08:37:14.080Z",
       "position": 49,
       "description": null,
       "showcase": false,
@@ -5141,7 +5141,7 @@
       "name": "Saskatoon, SK, Canada - (YXE)",
       "status": "operational",
       "created_at": "2018-04-02T01:43:30.221Z",
-      "updated_at": "2026-03-17T06:35:35.558Z",
+      "updated_at": "2026-03-19T08:51:00.348Z",
       "position": 51,
       "description": null,
       "showcase": false,
@@ -6131,7 +6131,7 @@
       "name": "Yerevan, Armenia - (EVN)",
       "status": "operational",
       "created_at": "2017-03-06T05:40:56.147Z",
-      "updated_at": "2026-03-18T18:39:37.510Z",
+      "updated_at": "2026-03-19T08:06:56.068Z",
       "position": 72,
       "description": null,
       "showcase": false,
