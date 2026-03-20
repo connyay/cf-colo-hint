@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-03-20T00:33:28.818Z"
+    "updated_at": "2026-03-20T02:59:04.499Z"
   },
   "components": [
     {
@@ -512,7 +512,7 @@
       "name": "Annaba, Algeria - (AAE)",
       "status": "operational",
       "created_at": "2023-06-19T16:40:57.290Z",
-      "updated_at": "2026-03-10T08:59:09.043Z",
+      "updated_at": "2026-03-20T02:36:20.812Z",
       "position": 3,
       "description": null,
       "showcase": false,
@@ -682,9 +682,9 @@
     {
       "id": "76swzd6htswh",
       "name": "Baku, Azerbaijan - (GYD)",
-      "status": "under_maintenance",
+      "status": "operational",
       "created_at": "2019-04-29T13:18:47.916Z",
-      "updated_at": "2026-03-20T00:20:44.805Z",
+      "updated_at": "2026-03-20T00:56:06.874Z",
       "position": 4,
       "description": null,
       "showcase": false,
@@ -1388,9 +1388,9 @@
     {
       "id": "925lp8vyg095",
       "name": "Brussels, Belgium - (BRU)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2016-04-27T06:49:16.515Z",
-      "updated_at": "2026-03-20T00:26:38.655Z",
+      "updated_at": "2026-03-20T02:59:04.495Z",
       "position": 8,
       "description": null,
       "showcase": false,
@@ -2186,7 +2186,7 @@
       "name": "Muscat, Oman - (MCT)",
       "status": "operational",
       "created_at": "2015-08-04T00:56:44.345Z",
-      "updated_at": "2026-03-19T23:03:54.398Z",
+      "updated_at": "2026-03-20T02:42:13.148Z",
       "position": 15,
       "description": null,
       "showcase": false,
@@ -3669,9 +3669,9 @@
     {
       "id": "skqbwdvp70c6",
       "name": "Kampala, Uganda - (EBB)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2024-07-17T09:56:48.732Z",
-      "updated_at": "2026-03-20T00:33:28.816Z",
+      "updated_at": "2026-03-20T01:02:01.463Z",
       "position": 30,
       "description": null,
       "showcase": false,
@@ -4929,9 +4929,9 @@
     {
       "id": "ss09y7v3wzwd",
       "name": "Manila, Philippines - (MNL)",
-      "status": "under_maintenance",
+      "status": "operational",
       "created_at": "2016-04-29T12:14:56.581Z",
-      "updated_at": "2026-03-19T18:14:50.168Z",
+      "updated_at": "2026-03-20T02:06:54.311Z",
       "position": 48,
       "description": null,
       "showcase": false,
@@ -7464,9 +7464,9 @@
     {
       "id": "7xlx52krlzcx",
       "name": "Malang, Indonesia - (MLG)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2025-11-10T23:16:38.599Z",
-      "updated_at": "2026-03-11T08:09:46.638Z",
+      "updated_at": "2026-03-20T02:36:23.869Z",
       "position": 676,
       "description": null,
       "showcase": false,
