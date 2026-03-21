@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-03-21T14:39:04.863Z"
+    "updated_at": "2026-03-21T18:00:46.401Z"
   },
   "components": [
     {
@@ -1689,9 +1689,9 @@
     {
       "id": "1zdfwmzjqqtf",
       "name": "Erbil, Iraq - (EBL)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2022-02-02T10:59:20.698Z",
-      "updated_at": "2026-03-18T01:00:09.726Z",
+      "updated_at": "2026-03-21T17:37:20.952Z",
       "position": 10,
       "description": null,
       "showcase": false,
@@ -2634,9 +2634,9 @@
     {
       "id": "ljllh1921z0m",
       "name": "Nairobi, Kenya - (NBO)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2020-10-30T04:22:58.259Z",
-      "updated_at": "2026-03-19T00:27:46.551Z",
+      "updated_at": "2026-03-21T18:00:46.399Z",
       "position": 19,
       "description": null,
       "showcase": false,
@@ -3789,9 +3789,9 @@
     {
       "id": "qsps56n4xtjt",
       "name": "Saint-Denis, Réunion - (RUN)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2024-09-03T09:59:40.272Z",
-      "updated_at": "2026-03-17T19:08:45.277Z",
+      "updated_at": "2026-03-21T17:03:56.905Z",
       "position": 32,
       "description": null,
       "showcase": false,
@@ -4929,9 +4929,9 @@
     {
       "id": "ss09y7v3wzwd",
       "name": "Manila, Philippines - (MNL)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2016-04-29T12:14:56.581Z",
-      "updated_at": "2026-03-21T13:24:43.836Z",
+      "updated_at": "2026-03-21T16:50:23.700Z",
       "position": 48,
       "description": null,
       "showcase": false,
@@ -5424,9 +5424,9 @@
     {
       "id": "05rpd663qrcp",
       "name": "St. George's, Grenada - (GND)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2024-02-20T13:20:55.472Z",
-      "updated_at": "2026-03-21T14:39:04.859Z",
+      "updated_at": "2026-03-21T15:10:26.661Z",
       "position": 54,
       "description": null,
       "showcase": false,
@@ -7389,9 +7389,9 @@
     {
       "id": "4jh0k3clz5b6",
       "name": "Male, Maldives - (MLE)",
-      "status": "under_maintenance",
+      "status": "operational",
       "created_at": "2024-11-09T09:01:00.175Z",
-      "updated_at": "2026-03-21T13:59:51.654Z",
+      "updated_at": "2026-03-21T17:13:52.753Z",
       "position": 460,
       "description": null,
       "showcase": false,
