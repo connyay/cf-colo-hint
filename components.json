@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-03-21T01:18:38.018Z"
+    "updated_at": "2026-03-21T06:06:16.445Z"
   },
   "components": [
     {
@@ -4224,9 +4224,9 @@
     {
       "id": "lwmhcftlr9vx",
       "name": "San José, Costa Rica - (SJO)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2020-10-23T21:53:19.030Z",
-      "updated_at": "2026-03-20T12:54:43.691Z",
+      "updated_at": "2026-03-21T06:06:16.442Z",
       "position": 38,
       "description": null,
       "showcase": false,
@@ -4481,7 +4481,7 @@
       "name": "São José do Rio Preto, Brazil - (SJP)",
       "status": "operational",
       "created_at": "2021-09-21T17:42:47.447Z",
-      "updated_at": "2026-03-20T07:18:05.122Z",
+      "updated_at": "2026-03-21T05:36:49.602Z",
       "position": 41,
       "description": null,
       "showcase": false,
