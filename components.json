@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-03-21T06:06:16.445Z"
+    "updated_at": "2026-03-21T09:11:40.258Z"
   },
   "components": [
     {
@@ -25,7 +25,7 @@
     {
       "id": "1km35smx8p41",
       "name": "Cloudflare Sites and Services",
-      "status": "degraded_performance",
+      "status": "operational",
       "created_at": "2014-10-27T21:59:30.264Z",
       "updated_at": "2020-11-11T20:12:30.167Z",
       "position": 1,
@@ -203,9 +203,9 @@
     {
       "id": "8h9sn12x310t",
       "name": "Accra, Ghana - (ACC)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2022-02-11T11:46:37.349Z",
-      "updated_at": "2026-03-17T03:31:16.776Z",
+      "updated_at": "2026-03-21T08:12:46.690Z",
       "position": 1,
       "description": null,
       "showcase": false,
@@ -3461,7 +3461,7 @@
       "name": "Jakarta, Indonesia - (CGK)",
       "status": "under_maintenance",
       "created_at": "2019-08-21T06:55:28.100Z",
-      "updated_at": "2026-03-20T15:33:50.184Z",
+      "updated_at": "2026-03-21T08:48:10.859Z",
       "position": 28,
       "description": null,
       "showcase": false,
@@ -3671,7 +3671,7 @@
       "name": "Kampala, Uganda - (EBB)",
       "status": "operational",
       "created_at": "2024-07-17T09:56:48.732Z",
-      "updated_at": "2026-03-20T14:34:52.840Z",
+      "updated_at": "2026-03-21T08:59:52.581Z",
       "position": 30,
       "description": null,
       "showcase": false,
@@ -6039,9 +6039,9 @@
     {
       "id": "4n0gb0kh02gf",
       "name": "Network",
-      "status": "degraded_performance",
+      "status": "operational",
       "created_at": "2023-01-13T13:39:19.804Z",
-      "updated_at": "2026-03-20T11:09:03.609Z",
+      "updated_at": "2026-03-21T08:45:33.949Z",
       "position": 68,
       "description": null,
       "showcase": false,
@@ -6536,7 +6536,7 @@
       "name": "Kannur, India - (CNN)",
       "status": "operational",
       "created_at": "2023-06-08T15:40:49.155Z",
-      "updated_at": "2026-03-20T10:15:17.855Z",
+      "updated_at": "2026-03-21T09:11:40.255Z",
       "position": 90,
       "description": null,
       "showcase": false,
