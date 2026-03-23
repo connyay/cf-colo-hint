@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-03-23T15:21:29.937Z"
+    "updated_at": "2026-03-23T18:13:22.730Z"
   },
   "components": [
     {
@@ -25,7 +25,7 @@
     {
       "id": "1km35smx8p41",
       "name": "Cloudflare Sites and Services",
-      "status": "degraded_performance",
+      "status": "operational",
       "created_at": "2014-10-27T21:59:30.264Z",
       "updated_at": "2020-11-11T20:12:30.167Z",
       "position": 1,
@@ -218,9 +218,9 @@
     {
       "id": "xjfk3l4dykrs",
       "name": "Ahmedabad, India - (AMD)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2022-03-28T11:54:07.498Z",
-      "updated_at": "2026-03-23T15:21:29.934Z",
+      "updated_at": "2026-03-23T17:48:23.793Z",
       "position": 1,
       "description": null,
       "showcase": false,
@@ -540,9 +540,9 @@
     {
       "id": "03wwgmh4vbnl",
       "name": "Atlanta, GA, United States - (ATL)",
-      "status": "operational",
+      "status": "degraded_performance",
       "created_at": "2014-10-27T20:33:06.198Z",
-      "updated_at": "2026-03-19T15:56:55.395Z",
+      "updated_at": "2026-03-23T15:34:14.540Z",
       "position": 4,
       "description": null,
       "showcase": false,
@@ -877,9 +877,9 @@
     {
       "id": "5wtvzd626rd8",
       "name": "Bangkok, Thailand - (BKK)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2016-04-21T05:37:43.134Z",
-      "updated_at": "2026-03-23T04:07:09.931Z",
+      "updated_at": "2026-03-23T17:48:24.160Z",
       "position": 5,
       "description": null,
       "showcase": false,
@@ -1222,9 +1222,9 @@
     {
       "id": "171wlzvlxttk",
       "name": "Bogotá, Colombia - (BOG)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2018-03-28T06:25:42.210Z",
-      "updated_at": "2026-03-19T10:59:29.765Z",
+      "updated_at": "2026-03-23T17:12:32.083Z",
       "position": 7,
       "description": null,
       "showcase": false,
@@ -2184,9 +2184,9 @@
     {
       "id": "0dtt4htlgpdh",
       "name": "Muscat, Oman - (MCT)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2015-08-04T00:56:44.345Z",
-      "updated_at": "2026-03-20T02:42:13.148Z",
+      "updated_at": "2026-03-23T18:12:03.982Z",
       "position": 15,
       "description": null,
       "showcase": false,
@@ -3669,9 +3669,9 @@
     {
       "id": "skqbwdvp70c6",
       "name": "Kampala, Uganda - (EBB)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2024-07-17T09:56:48.732Z",
-      "updated_at": "2026-03-23T14:31:12.098Z",
+      "updated_at": "2026-03-23T17:00:12.040Z",
       "position": 30,
       "description": null,
       "showcase": false,
@@ -6819,9 +6819,9 @@
     {
       "id": "57srcl8zcn7c",
       "name": "Workers",
-      "status": "degraded_performance",
+      "status": "operational",
       "created_at": "2019-01-24T16:49:08.728Z",
-      "updated_at": "2026-03-23T15:02:37.804Z",
+      "updated_at": "2026-03-23T18:13:22.672Z",
       "position": 105,
       "description": "Cloudflare Workers provides a serverless execution environment that allows you to create new applications or augment existing ones without configuring or maintaining infrastructure",
       "showcase": false,
@@ -7389,9 +7389,9 @@
     {
       "id": "4jh0k3clz5b6",
       "name": "Male, Maldives - (MLE)",
-      "status": "under_maintenance",
+      "status": "operational",
       "created_at": "2024-11-09T09:01:00.175Z",
-      "updated_at": "2026-03-23T15:09:48.064Z",
+      "updated_at": "2026-03-23T17:54:16.299Z",
       "position": 460,
       "description": null,
       "showcase": false,
