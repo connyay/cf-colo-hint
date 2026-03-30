@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-03-30T04:04:35.235Z"
+    "updated_at": "2026-03-30T06:20:21.851Z"
   },
   "components": [
     {
@@ -482,7 +482,7 @@
       "name": "Baghdad, Iraq - (BGW)",
       "status": "operational",
       "created_at": "2018-03-12T14:18:23.436Z",
-      "updated_at": "2026-03-29T14:19:39.602Z",
+      "updated_at": "2026-03-30T06:05:50.566Z",
       "position": 3,
       "description": null,
       "showcase": false,
@@ -1917,7 +1917,7 @@
       "name": "Jeddah, Saudi Arabia - (JED)",
       "status": "operational",
       "created_at": "2022-06-08T13:59:14.645Z",
-      "updated_at": "2026-03-29T09:53:16.131Z",
+      "updated_at": "2026-03-30T06:18:04.269Z",
       "position": 12,
       "description": null,
       "showcase": false,
@@ -2337,7 +2337,7 @@
       "name": "Dhaka, Bangladesh - (DAC)",
       "status": "under_maintenance",
       "created_at": "2019-12-17T22:56:25.827Z",
-      "updated_at": "2026-03-29T14:43:13.762Z",
+      "updated_at": "2026-03-30T05:12:22.435Z",
       "position": 16,
       "description": null,
       "showcase": false,
@@ -3385,9 +3385,9 @@
     {
       "id": "46b99ptn6wdt",
       "name": "Islamabad, Pakistan - (ISB)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2019-01-30T07:36:19.547Z",
-      "updated_at": "2026-03-29T22:11:38.748Z",
+      "updated_at": "2026-03-30T04:42:27.726Z",
       "position": 27,
       "description": null,
       "showcase": false,
@@ -5425,9 +5425,9 @@
     {
       "id": "05rpd663qrcp",
       "name": "St. George's, Grenada - (GND)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2024-02-20T13:20:55.472Z",
-      "updated_at": "2026-03-28T15:33:53.530Z",
+      "updated_at": "2026-03-30T05:24:36.414Z",
       "position": 54,
       "description": null,
       "showcase": false,
@@ -7480,9 +7480,9 @@
     {
       "id": "96bgq3x3tq93",
       "name": "Lahore, Pakistan - (LHE)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2025-11-25T18:48:17.555Z",
-      "updated_at": "2026-03-30T02:09:06.441Z",
+      "updated_at": "2026-03-30T04:48:37.604Z",
       "position": 677,
       "description": null,
       "showcase": false,
