@@ -1,6 +1,6 @@
 [package]
 name = "cf-colo-hint"
-version = "0.1.886"
+version = "0.1.887"
 edition = "2021"
 description = "Cloudflare colo to Durable Objects location hint mapping"
 license = "MIT"
