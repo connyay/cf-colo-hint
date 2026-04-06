@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-04-06T12:20:25.064Z"
+    "updated_at": "2026-04-06T15:20:30.506Z"
   },
   "components": [
     {
@@ -25,7 +25,7 @@
     {
       "id": "1km35smx8p41",
       "name": "Cloudflare Sites and Services",
-      "status": "operational",
+      "status": "degraded_performance",
       "created_at": "2014-10-27T21:59:30.264Z",
       "updated_at": "2020-11-11T20:12:30.167Z",
       "position": 1,
@@ -2624,7 +2624,7 @@
       "name": "Riyadh, Saudi Arabia - (RUH)",
       "status": "operational",
       "created_at": "2018-03-07T02:32:33.544Z",
-      "updated_at": "2026-04-06T01:35:51.370Z",
+      "updated_at": "2026-04-06T14:13:33.632Z",
       "position": 19,
       "description": null,
       "showcase": false,
@@ -3389,7 +3389,7 @@
       "name": "Islamabad, Pakistan - (ISB)",
       "status": "operational",
       "created_at": "2019-01-30T07:36:19.547Z",
-      "updated_at": "2026-04-06T12:16:45.280Z",
+      "updated_at": "2026-04-06T14:25:51.694Z",
       "position": 27,
       "description": null,
       "showcase": false,
@@ -4017,9 +4017,9 @@
     {
       "id": "f95c4c2zcg0t",
       "name": "Karachi, Pakistan - (KHI)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2018-12-04T16:17:59.275Z",
-      "updated_at": "2026-03-26T17:13:49.704Z",
+      "updated_at": "2026-04-06T14:25:53.859Z",
       "position": 35,
       "description": null,
       "showcase": false,
@@ -5414,7 +5414,7 @@
       "name": "Patna, India - (PAT)",
       "status": "operational",
       "created_at": "2021-12-03T16:12:27.159Z",
-      "updated_at": "2026-04-02T22:28:52.099Z",
+      "updated_at": "2026-04-06T13:45:55.308Z",
       "position": 54,
       "description": null,
       "showcase": false,
@@ -5832,9 +5832,9 @@
     {
       "id": "k0mgxrls5y1b",
       "name": "Logs",
-      "status": "operational",
+      "status": "degraded_performance",
       "created_at": "2016-03-20T18:49:07.613Z",
-      "updated_at": "2026-02-13T13:30:50.394Z",
+      "updated_at": "2026-04-06T15:18:27.225Z",
       "position": 61,
       "description": "Enterprise Logpull and Logpush services",
       "showcase": false,
