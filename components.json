@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-04-05T21:10:52.969Z"
+    "updated_at": "2026-04-06T00:08:47.430Z"
   },
   "components": [
     {
@@ -2337,9 +2337,9 @@
     {
       "id": "hf1csyqv3x7s",
       "name": "Dhaka, Bangladesh - (DAC)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2019-12-17T22:56:25.827Z",
-      "updated_at": "2026-04-04T18:04:45.149Z",
+      "updated_at": "2026-04-05T23:14:33.360Z",
       "position": 16,
       "description": null,
       "showcase": false,
@@ -2622,9 +2622,9 @@
     {
       "id": "gg8xxj0j3d32",
       "name": "Riyadh, Saudi Arabia - (RUH)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2018-03-07T02:32:33.544Z",
-      "updated_at": "2026-04-05T10:30:37.288Z",
+      "updated_at": "2026-04-06T00:08:47.427Z",
       "position": 19,
       "description": null,
       "showcase": false,
@@ -2937,9 +2937,9 @@
     {
       "id": "v4lr1tmw0jsf",
       "name": "Port Louis, Mauritius - (MRU)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2018-02-12T12:35:05.181Z",
-      "updated_at": "2026-03-16T23:16:09.349Z",
+      "updated_at": "2026-04-06T00:08:47.066Z",
       "position": 22,
       "description": null,
       "showcase": false,
@@ -3732,9 +3732,9 @@
     {
       "id": "6h060y0sxvv6",
       "name": "Minsk, Belarus - (MSQ)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2021-12-01T13:54:46.179Z",
-      "updated_at": "2026-04-03T08:26:01.617Z",
+      "updated_at": "2026-04-06T00:08:45.759Z",
       "position": 31,
       "description": null,
       "showcase": false,
@@ -4079,7 +4079,7 @@
       "name": "Kathmandu, Nepal - (KTM)",
       "status": "operational",
       "created_at": "2018-02-21T11:46:55.428Z",
-      "updated_at": "2026-04-05T16:13:33.146Z",
+      "updated_at": "2026-04-05T21:44:19.705Z",
       "position": 36,
       "description": null,
       "showcase": false,
@@ -4887,9 +4887,9 @@
     {
       "id": "62rk8nsdbjg1",
       "name": "Stuttgart, Germany   - (STR)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2023-01-05T17:31:45.013Z",
-      "updated_at": "2026-03-30T15:20:02.162Z",
+      "updated_at": "2026-04-06T00:08:46.377Z",
       "position": 47,
       "description": null,
       "showcase": false,
@@ -5037,9 +5037,9 @@
     {
       "id": "x30v8nw2h4ck",
       "name": "Tbilisi, Georgia - (TBS)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2020-10-30T04:23:39.756Z",
-      "updated_at": "2026-03-31T20:49:21.011Z",
+      "updated_at": "2026-04-06T00:08:46.740Z",
       "position": 49,
       "description": null,
       "showcase": false,
