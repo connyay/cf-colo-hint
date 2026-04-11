@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-04-11T06:28:40.339Z"
+    "updated_at": "2026-04-11T09:18:25.711Z"
   },
   "components": [
     {
@@ -391,9 +391,9 @@
     {
       "id": "5nlf038vr3n8",
       "name": "Almaty, Kazakhstan - (ALA)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2021-11-02T12:04:47.034Z",
-      "updated_at": "2026-04-07T04:47:21.551Z",
+      "updated_at": "2026-04-11T07:41:13.130Z",
       "position": 2,
       "description": null,
       "showcase": false,
@@ -1467,7 +1467,7 @@
     {
       "id": "q6qm6fvkst4h",
       "name": "Oceania",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2014-10-28T00:12:04.846Z",
       "updated_at": "2022-04-26T19:49:08.623Z",
       "position": 9,
@@ -2053,9 +2053,9 @@
     {
       "id": "m3zc04ynknwv",
       "name": "Suva, Fiji - (SUV)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2024-01-19T20:40:46.179Z",
-      "updated_at": "2026-04-02T16:40:10.268Z",
+      "updated_at": "2026-04-11T09:18:25.708Z",
       "position": 13,
       "description": null,
       "showcase": false,
@@ -2338,9 +2338,9 @@
     {
       "id": "hf1csyqv3x7s",
       "name": "Dhaka, Bangladesh - (DAC)",
-      "status": "under_maintenance",
+      "status": "partial_outage",
       "created_at": "2019-12-17T22:56:25.827Z",
-      "updated_at": "2026-04-10T17:04:47.241Z",
+      "updated_at": "2026-04-11T09:15:38.523Z",
       "position": 16,
       "description": null,
       "showcase": false,
@@ -2640,7 +2640,7 @@
       "name": "Nairobi, Kenya - (NBO)",
       "status": "under_maintenance",
       "created_at": "2020-10-30T04:22:58.259Z",
-      "updated_at": "2026-04-11T05:21:31.508Z",
+      "updated_at": "2026-04-11T08:27:26.396Z",
       "position": 19,
       "description": null,
       "showcase": false,
@@ -3463,9 +3463,9 @@
     {
       "id": "gdywyg76bgy3",
       "name": "Jakarta, Indonesia - (CGK)",
-      "status": "partial_outage",
+      "status": "under_maintenance",
       "created_at": "2019-08-21T06:55:28.100Z",
-      "updated_at": "2026-04-11T06:26:03.610Z",
+      "updated_at": "2026-04-11T06:31:30.126Z",
       "position": 28,
       "description": null,
       "showcase": false,
@@ -3673,9 +3673,9 @@
     {
       "id": "skqbwdvp70c6",
       "name": "Kampala, Uganda - (EBB)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2024-07-17T09:56:48.732Z",
-      "updated_at": "2026-04-11T06:20:04.633Z",
+      "updated_at": "2026-04-11T08:00:38.312Z",
       "position": 30,
       "description": null,
       "showcase": false,
@@ -3945,7 +3945,7 @@
       "name": "Kaohsiung City, Taiwan - (KHH)",
       "status": "operational",
       "created_at": "2022-09-20T11:25:16.085Z",
-      "updated_at": "2026-04-04T09:33:30.260Z",
+      "updated_at": "2026-04-11T08:44:53.954Z",
       "position": 34,
       "description": null,
       "showcase": false,
