@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-04-11T15:12:33.992Z"
+    "updated_at": "2026-04-11T18:12:31.507Z"
   },
   "components": [
     {
@@ -483,7 +483,7 @@
       "name": "Baghdad, Iraq - (BGW)",
       "status": "under_maintenance",
       "created_at": "2018-03-12T14:18:23.436Z",
-      "updated_at": "2026-04-11T13:43:42.197Z",
+      "updated_at": "2026-04-11T16:04:02.465Z",
       "position": 3,
       "description": null,
       "showcase": false,
@@ -1256,9 +1256,9 @@
     {
       "id": "2dg91ffn660j",
       "name": "Dammam, Saudi Arabia - (DMM)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2021-07-30T11:39:33.707Z",
-      "updated_at": "2026-04-11T14:55:07.752Z",
+      "updated_at": "2026-04-11T18:06:19.484Z",
       "position": 7,
       "description": null,
       "showcase": false,
@@ -2638,9 +2638,9 @@
     {
       "id": "ljllh1921z0m",
       "name": "Nairobi, Kenya - (NBO)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2020-10-30T04:22:58.259Z",
-      "updated_at": "2026-04-11T15:12:33.989Z",
+      "updated_at": "2026-04-11T16:31:34.677Z",
       "position": 19,
       "description": null,
       "showcase": false,
@@ -3403,9 +3403,9 @@
     {
       "id": "zq3rs0stgc8p",
       "name": "Windhoek, Namibia - (WDH)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2024-05-28T18:09:23.822Z",
-      "updated_at": "2026-04-10T19:05:24.318Z",
+      "updated_at": "2026-04-11T17:48:55.005Z",
       "position": 27,
       "description": null,
       "showcase": false,
@@ -3465,7 +3465,7 @@
       "name": "Jakarta, Indonesia - (CGK)",
       "status": "under_maintenance",
       "created_at": "2019-08-21T06:55:28.100Z",
-      "updated_at": "2026-04-11T06:31:30.126Z",
+      "updated_at": "2026-04-11T15:30:11.357Z",
       "position": 28,
       "description": null,
       "showcase": false,
@@ -3673,9 +3673,9 @@
     {
       "id": "skqbwdvp70c6",
       "name": "Kampala, Uganda - (EBB)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2024-07-17T09:56:48.732Z",
-      "updated_at": "2026-04-11T15:01:19.775Z",
+      "updated_at": "2026-04-11T18:12:31.504Z",
       "position": 30,
       "description": null,
       "showcase": false,
@@ -4065,7 +4065,7 @@
       "name": "Rio de Janeiro, Brazil - (GIG)",
       "status": "operational",
       "created_at": "2017-06-22T22:19:02.210Z",
-      "updated_at": "2026-04-09T16:01:28.008Z",
+      "updated_at": "2026-04-11T18:12:29.292Z",
       "position": 36,
       "description": null,
       "showcase": false,
