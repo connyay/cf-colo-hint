@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-04-11T21:08:14.829Z"
+    "updated_at": "2026-04-12T00:29:22.206Z"
   },
   "components": [
     {
@@ -25,7 +25,7 @@
     {
       "id": "1km35smx8p41",
       "name": "Cloudflare Sites and Services",
-      "status": "operational",
+      "status": "degraded_performance",
       "created_at": "2014-10-27T21:59:30.264Z",
       "updated_at": "2020-11-11T20:12:30.167Z",
       "position": 1,
@@ -2640,7 +2640,7 @@
       "name": "Nairobi, Kenya - (NBO)",
       "status": "operational",
       "created_at": "2020-10-30T04:22:58.259Z",
-      "updated_at": "2026-04-11T20:13:36.362Z",
+      "updated_at": "2026-04-11T23:11:20.417Z",
       "position": 19,
       "description": null,
       "showcase": false,
@@ -6853,9 +6853,9 @@
     {
       "id": "zvm7mqn92xzc",
       "name": "Workers AI",
-      "status": "operational",
+      "status": "degraded_performance",
       "created_at": "2024-02-14T15:05:51.274Z",
-      "updated_at": "2026-03-26T04:26:01.024Z",
+      "updated_at": "2026-04-11T21:52:00.546Z",
       "position": 106,
       "description": "Workers AI allows you to run machine learning models, on the Cloudflare network, from your own code – whether that be from Workers, Pages, or anywhere via REST API.",
       "showcase": false,
