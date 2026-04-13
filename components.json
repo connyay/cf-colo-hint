@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-04-12T21:08:29.073Z"
+    "updated_at": "2026-04-13T00:49:28.121Z"
   },
   "components": [
     {
@@ -206,7 +206,7 @@
       "name": "Accra, Ghana - (ACC)",
       "status": "operational",
       "created_at": "2022-02-11T11:46:37.349Z",
-      "updated_at": "2026-04-08T01:19:06.290Z",
+      "updated_at": "2026-04-12T23:15:20.551Z",
       "position": 1,
       "description": null,
       "showcase": false,
@@ -670,9 +670,9 @@
     {
       "id": "p7pz0whjjmss",
       "name": "Belgrade, Serbia - (BEG)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2017-03-30T09:18:10.000Z",
-      "updated_at": "2026-03-23T03:43:39.472Z",
+      "updated_at": "2026-04-12T22:54:11.772Z",
       "position": 4,
       "description": null,
       "showcase": false,
@@ -1256,9 +1256,9 @@
     {
       "id": "2dg91ffn660j",
       "name": "Dammam, Saudi Arabia - (DMM)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2021-07-30T11:39:33.707Z",
-      "updated_at": "2026-04-11T18:36:17.012Z",
+      "updated_at": "2026-04-13T00:30:06.937Z",
       "position": 7,
       "description": null,
       "showcase": false,
@@ -1693,9 +1693,9 @@
     {
       "id": "1zdfwmzjqqtf",
       "name": "Erbil, Iraq - (EBL)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2022-02-02T10:59:20.698Z",
-      "updated_at": "2026-04-07T01:03:17.127Z",
+      "updated_at": "2026-04-13T00:12:31.200Z",
       "position": 10,
       "description": null,
       "showcase": false,
@@ -1813,9 +1813,9 @@
     {
       "id": "35qbtx01nv8w",
       "name": "Haifa, Israel - (HFA)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2022-02-11T10:56:11.178Z",
-      "updated_at": "2026-04-02T00:21:06.847Z",
+      "updated_at": "2026-04-13T00:12:30.290Z",
       "position": 11,
       "description": null,
       "showcase": false,
@@ -2968,9 +2968,9 @@
     {
       "id": "vl0s9mnn4gfb",
       "name": "Hanoi, Vietnam - (HAN)",
-      "status": "under_maintenance",
+      "status": "operational",
       "created_at": "2018-12-18T06:51:18.979Z",
-      "updated_at": "2026-04-12T07:32:14.018Z",
+      "updated_at": "2026-04-12T21:49:37.124Z",
       "position": 22,
       "description": null,
       "showcase": false,
@@ -3898,9 +3898,9 @@
     {
       "id": "zqlfzq5bzwdq",
       "name": "Dar es Salaam, Tanzania - (DAR)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2024-11-09T08:40:09.983Z",
-      "updated_at": "2026-04-12T21:02:19.258Z",
+      "updated_at": "2026-04-13T00:07:31.203Z",
       "position": 33,
       "description": null,
       "showcase": false,
@@ -4603,9 +4603,9 @@
     {
       "id": "cpp86z6nq4cx",
       "name": "Constantine, Algeria - (CZL)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2025-10-01T16:04:22.658Z",
-      "updated_at": "2026-04-12T10:33:26.890Z",
+      "updated_at": "2026-04-13T00:49:28.118Z",
       "position": 42,
       "description": null,
       "showcase": false,
@@ -6133,9 +6133,9 @@
     {
       "id": "56zs2vmr81l0",
       "name": "Yerevan, Armenia - (EVN)",
-      "status": "operational",
+      "status": "under_maintenance",
       "created_at": "2017-03-06T05:40:56.147Z",
-      "updated_at": "2026-04-07T00:33:27.309Z",
+      "updated_at": "2026-04-13T00:12:30.654Z",
       "position": 72,
       "description": null,
       "showcase": false,
