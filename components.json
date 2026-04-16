@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-04-16T03:52:27.365Z"
+    "updated_at": "2026-04-16T06:38:27.819Z"
   },
   "components": [
     {
@@ -2235,7 +2235,7 @@
       "name": "Colombo, Sri Lanka - (CMB)",
       "status": "under_maintenance",
       "created_at": "2017-05-02T05:52:26.698Z",
-      "updated_at": "2026-04-16T03:34:45.398Z",
+      "updated_at": "2026-04-16T05:21:22.321Z",
       "position": 15,
       "description": null,
       "showcase": false,
@@ -2640,7 +2640,7 @@
       "name": "Nairobi, Kenya - (NBO)",
       "status": "operational",
       "created_at": "2020-10-30T04:22:58.259Z",
-      "updated_at": "2026-04-15T21:22:48.419Z",
+      "updated_at": "2026-04-16T06:20:41.169Z",
       "position": 19,
       "description": null,
       "showcase": false,
@@ -2938,9 +2938,9 @@
     {
       "id": "v4lr1tmw0jsf",
       "name": "Port Louis, Mauritius - (MRU)",
-      "status": "under_maintenance",
+      "status": "operational",
       "created_at": "2018-02-12T12:35:05.181Z",
-      "updated_at": "2026-04-16T03:05:15.394Z",
+      "updated_at": "2026-04-16T05:27:15.395Z",
       "position": 22,
       "description": null,
       "showcase": false,
@@ -5445,7 +5445,7 @@
       "name": "Phnom Penh, Cambodia - (PNH)",
       "status": "under_maintenance",
       "created_at": "2018-02-09T20:38:28.093Z",
-      "updated_at": "2026-04-15T23:56:34.955Z",
+      "updated_at": "2026-04-16T06:26:35.757Z",
       "position": 55,
       "description": null,
       "showcase": false,
@@ -6778,9 +6778,9 @@
     {
       "id": "s0xwzmmmmv3l",
       "name": "Cali, Colombia - (CLO)",
-      "status": "operational",
+      "status": "partial_outage",
       "created_at": "2024-11-27T22:02:49.338Z",
-      "updated_at": "2026-04-11T14:10:09.751Z",
+      "updated_at": "2026-04-16T06:38:27.816Z",
       "position": 102,
       "description": null,
       "showcase": false,
