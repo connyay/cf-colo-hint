@@ -39,11 +39,9 @@ CF_GROUPS = {
     "q6qm6fvkst4h": ("Oceania", "oc"),
 }
 
-# Hysteresis: only change a colo's location_hint when the new winning region
-# beats the currently-assigned region by at least MARGIN_MS *and* MARGIN_PCT.
-# Upstream nearestRegion is a noisy instantaneous measurement; for colos near
-# region boundaries the top-2 latencies often differ by only a few ms, which
-# caused a new commit on nearly every 3-hour refresh.
+# Hysteresis: smooth out noisy `nearestRegion` flips from upstream. For colos
+# near region boundaries, the top-2 region latencies often differ by only a
+# few ms, so the instantaneous winner bounces around between refreshes.
 HYSTERESIS_MARGIN_MS = 15.0
 HYSTERESIS_MARGIN_PCT = 0.20
 
@@ -99,14 +97,11 @@ def sanitize_variant_name(code: str) -> str:
 
 
 def load_current_hints(generated_path: Path) -> dict[str, str | None]:
-    """Parse the previous generated.rs to recover the current colo -> hint map.
-
-    Returns a {variant_name: hint_code_or_None} dict. Empty if the file is
-    missing or the expected block can't be found (first run / bootstrap).
-    """
-    if not generated_path.exists():
+    """Returns {variant_name: hint_code_or_None}; empty on first run."""
+    try:
+        content = generated_path.read_text()
+    except FileNotFoundError:
         return {}
-    content = generated_path.read_text()
     m = re.search(
         r"pub const fn location_hint.*?\n\s*match self \{(.*?)\n\s*\}\s*\n\s*\}",
         content,
@@ -130,14 +125,10 @@ def load_current_hints(generated_path: Path) -> dict[str, str | None]:
 def apply_hysteresis(
     colos: dict[str, dict], current_hints: dict[str, str | None]
 ) -> tuple[int, int, int]:
-    """Dampen noisy `nearest_region` flips.
+    """Dampen noisy `nearest_region` flips; mutates `colos` in place.
 
-    Overwrites each colo's `nearest_region` with the previously-assigned hint
-    unless the new winner's latency beats the previous hint's latency by at
-    least max(HYSTERESIS_MARGIN_MS, HYSTERESIS_MARGIN_PCT * prev_latency).
-
-    Returns (flipped, kept, bootstrapped) where bootstrapped counts colos with
-    no prior hint (new colos or first run) that accepted the fresh value.
+    `bootstrapped` counts colos with no prior hint (new colos or first run)
+    that accept the fresh value unconditionally.
     """
     flipped = kept = bootstrapped = 0
     for code, info in colos.items():
@@ -149,12 +140,8 @@ def apply_hysteresis(
         new = info.get("nearest_region")
         if prev is None or new == prev:
             continue
-        if new is None:
-            info["nearest_region"] = prev
-            kept += 1
-            continue
         regions = info.get("regions", {})
-        new_lat = regions.get(new)
+        new_lat = regions.get(new) if new is not None else None
         prev_lat = regions.get(prev)
         if new_lat is None or prev_lat is None:
             info["nearest_region"] = prev
