@@ -39,6 +39,12 @@ CF_GROUPS = {
     "q6qm6fvkst4h": ("Oceania", "oc"),
 }
 
+# Hysteresis: smooth out noisy `nearestRegion` flips from upstream. For colos
+# near region boundaries, the top-2 region latencies often differ by only a
+# few ms, so the instantaneous winner bounces around between refreshes.
+HYSTERESIS_MARGIN_MS = 15.0
+HYSTERESIS_MARGIN_PCT = 0.20
+
 
 def load_json(path: Path) -> dict:
     with open(path) as f:
@@ -88,6 +94,66 @@ def sanitize_variant_name(code: str) -> str:
     if code[0].isdigit():
         return f"C{code}"
     return code
+
+
+def load_current_hints(generated_path: Path) -> dict[str, str | None]:
+    """Returns {variant_name: hint_code_or_None}; empty on first run."""
+    try:
+        content = generated_path.read_text()
+    except FileNotFoundError:
+        return {}
+    m = re.search(
+        r"pub const fn location_hint.*?\n\s*match self \{(.*?)\n\s*\}\s*\n\s*\}",
+        content,
+        re.DOTALL,
+    )
+    if not m:
+        return {}
+    variant_to_code = {variant: code for code, (variant, _) in LOCATION_HINTS.items()}
+    current: dict[str, str | None] = {}
+    for line in m.group(1).splitlines():
+        some_m = re.match(r"\s*Self::(\w+)\s*=>\s*Some\(LocationHint::(\w+)\),", line)
+        if some_m:
+            current[some_m.group(1)] = variant_to_code.get(some_m.group(2))
+            continue
+        none_m = re.match(r"\s*Self::(\w+)\s*=>\s*None,", line)
+        if none_m:
+            current[none_m.group(1)] = None
+    return current
+
+
+def apply_hysteresis(
+    colos: dict[str, dict], current_hints: dict[str, str | None]
+) -> tuple[int, int, int]:
+    """Dampen noisy `nearest_region` flips; mutates `colos` in place.
+
+    `bootstrapped` counts colos with no prior hint (new colos or first run)
+    that accept the fresh value unconditionally.
+    """
+    flipped = kept = bootstrapped = 0
+    for code, info in colos.items():
+        variant = sanitize_variant_name(code)
+        if variant not in current_hints:
+            bootstrapped += 1
+            continue
+        prev = current_hints[variant]
+        new = info.get("nearest_region")
+        if prev is None or new == prev:
+            continue
+        regions = info.get("regions", {})
+        new_lat = regions.get(new) if new is not None else None
+        prev_lat = regions.get(prev)
+        if new_lat is None or prev_lat is None:
+            info["nearest_region"] = prev
+            kept += 1
+            continue
+        margin = max(HYSTERESIS_MARGIN_MS, prev_lat * HYSTERESIS_MARGIN_PCT)
+        if prev_lat - new_lat >= margin:
+            flipped += 1
+        else:
+            info["nearest_region"] = prev
+            kept += 1
+    return flipped, kept, bootstrapped
 
 
 def generate_rust_code(colos: dict[str, dict]) -> str:
@@ -323,10 +389,26 @@ def main():
     with_mapping = sum(1 for c in colos.values() if c.get("nearest_region"))
     print(f"  Colos with region mapping: {with_mapping}")
 
+    output_path = root / "src" / "generated.rs"
+
+    print("Applying hysteresis to location hints...")
+    current_hints = load_current_hints(output_path)
+    if current_hints:
+        flipped, kept, bootstrapped = apply_hysteresis(colos, current_hints)
+        print(
+            f"  Flipped: {flipped}, kept (noise suppressed): {kept}, "
+            f"new colos: {bootstrapped}"
+        )
+        print(
+            f"  Margin: max({HYSTERESIS_MARGIN_MS}ms, "
+            f"{HYSTERESIS_MARGIN_PCT:.0%} of previous latency)"
+        )
+    else:
+        print("  No previous generated.rs found; using fresh data (bootstrap).")
+
     print("Generating Rust code...")
     rust_code = generate_rust_code(colos)
 
-    output_path = root / "src" / "generated.rs"
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
     with open(output_path, "w") as f:
