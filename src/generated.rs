@@ -189,7 +189,7 @@ pub enum Colo {
     BNU,
     /// Bordeaux, France
     BOD,
-    /// Bogota, Colombia
+    /// Bogotá, Colombia
     BOG,
     /// Mumbai, India
     BOM,
@@ -223,7 +223,7 @@ pub enum Colo {
     CDG,
     /// Cebu, Philippines
     CEB,
-    /// Cacador, Brazil
+    /// Caçador, Brazil
     CFC,
     /// Cuiaba, Brazil
     CGB,
@@ -285,7 +285,7 @@ pub enum Colo {
     DAC,
     /// Da Nang, Vietnam
     DAD,
-    /// Dar es Salaam, Tanzania
+    /// Dar Es Salaam, Tanzania
     DAR,
     /// New Delhi, India
     DEL,
@@ -373,9 +373,9 @@ pub enum Colo {
     GYD,
     /// Guayaquil, Ecuador
     GYE,
-    /// Goiania, Brazil
+    /// Goiânia, Brazil
     GYN,
-    /// Chengmai, China
+    /// Haikou, China
     HAK,
     /// Hamburg, Germany
     HAM,
@@ -423,7 +423,7 @@ pub enum Colo {
     JED,
     /// Johor Bahru, Malaysia - (JHB)
     JHB,
-    /// Djibouti, Djibouti
+    /// Djibouti City, Djibouti
     JIB,
     /// Johannesburg, South Africa
     JNB,
@@ -447,7 +447,7 @@ pub enum Colo {
     KHH,
     /// Karachi, Pakistan
     KHI,
-    /// Nanchang, China
+    /// Xinyu, China
     KHN,
     /// Kingston, Jamaica
     KIN,
@@ -531,9 +531,9 @@ pub enum Colo {
     MFM,
     /// Miami, FL, United States
     MIA,
-    /// Valletta, Malta
+    /// Santa Venera, Malta
     MLA,
-    /// Male, Maldives
+    /// Malé, Maldives
     MLE,
     /// Malang, Indonesia
     MLG,
@@ -561,13 +561,13 @@ pub enum Colo {
     NJF,
     /// Noumea, New Caledonia
     NOU,
-    /// Neuquen, Argentina
+    /// Neuquén, Argentina
     NQN,
     /// Astana, Kazakhstan
     NQZ,
     /// Tokyo, Japan
     NRT,
-    /// Timbo, Brazil
+    /// Timbó, Brazil
     NVT,
     /// Naha, Japan
     OKA,
@@ -671,7 +671,7 @@ pub enum Colo {
     SJP,
     /// San Juan, Puerto Rico
     SJU,
-    /// Shijiazhuang, China
+    /// Hengshui, China
     SJW,
     /// Thessaloniki, Greece
     SKG,
@@ -715,7 +715,7 @@ pub enum Colo {
     TLL,
     /// Tel Aviv, Israel
     TLV,
-    /// Zibo, China
+    /// Jinan, China
     TNA,
     /// Antananarivo, Madagascar
     TNR,
@@ -729,7 +729,7 @@ pub enum Colo {
     TXL,
     /// Yangquan, China
     TYN,
-    /// Uberlandia, Brazil
+    /// Uberlândia, Brazil
     UDI,
     /// Quito, Ecuador
     UIO,
@@ -1181,7 +1181,7 @@ impl Colo {
             Self::BNE => "Brisbane, QLD, Australia",
             Self::BNU => "Blumenau, Brazil",
             Self::BOD => "Bordeaux, France",
-            Self::BOG => "Bogota, Colombia",
+            Self::BOG => "Bogotá, Colombia",
             Self::BOM => "Mumbai, India",
             Self::BOS => "Boston, MA, United States",
             Self::BRU => "Brussels, Belgium",
@@ -1198,7 +1198,7 @@ impl Colo {
             Self::CCU => "Kolkata, India",
             Self::CDG => "Paris, France",
             Self::CEB => "Cebu, Philippines",
-            Self::CFC => "Cacador, Brazil",
+            Self::CFC => "Caçador, Brazil",
             Self::CGB => "Cuiaba, Brazil",
             Self::CGD => "Changde, China",
             Self::CGK => "Jakarta, Indonesia",
@@ -1229,7 +1229,7 @@ impl Colo {
             Self::CZX => "Changzhou, China",
             Self::DAC => "Dhaka, Bangladesh",
             Self::DAD => "Da Nang, Vietnam",
-            Self::DAR => "Dar es Salaam, Tanzania",
+            Self::DAR => "Dar Es Salaam, Tanzania",
             Self::DEL => "New Delhi, India",
             Self::DEN => "Denver, CO, United States",
             Self::DEX => "Digital Experience Monitoring (DEX)",
@@ -1273,8 +1273,8 @@ impl Colo {
             Self::GVA => "Geneva, Switzerland",
             Self::GYD => "Baku, Azerbaijan",
             Self::GYE => "Guayaquil, Ecuador",
-            Self::GYN => "Goiania, Brazil",
-            Self::HAK => "Chengmai, China",
+            Self::GYN => "Goiânia, Brazil",
+            Self::HAK => "Haikou, China",
             Self::HAM => "Hamburg, Germany",
             Self::HAN => "Hanoi, Vietnam",
             Self::HBA => "Hobart, Australia",
@@ -1298,7 +1298,7 @@ impl Colo {
             Self::JDO => "Juazeiro do Norte, Brazil",
             Self::JED => "Jeddah, Saudi Arabia",
             Self::JHB => "Johor Bahru, Malaysia - (JHB)",
-            Self::JIB => "Djibouti, Djibouti",
+            Self::JIB => "Djibouti City, Djibouti",
             Self::JNB => "Johannesburg, South Africa",
             Self::JOG => "Yogyakarta, Indonesia",
             Self::JOI => "Joinville, Brazil",
@@ -1310,7 +1310,7 @@ impl Colo {
             Self::KGL => "Kigali, Rwanda",
             Self::KHH => "Kaohsiung City, Taiwan",
             Self::KHI => "Karachi, Pakistan",
-            Self::KHN => "Nanchang, China",
+            Self::KHN => "Xinyu, China",
             Self::KIN => "Kingston, Jamaica",
             Self::KIV => "Chișinău, Moldova",
             Self::KIX => "Osaka, Japan",
@@ -1352,8 +1352,8 @@ impl Colo {
             Self::MEX => "Mexico City, Mexico",
             Self::MFM => "Macau",
             Self::MIA => "Miami, FL, United States",
-            Self::MLA => "Valletta, Malta",
-            Self::MLE => "Male, Maldives",
+            Self::MLA => "Santa Venera, Malta",
+            Self::MLE => "Malé, Maldives",
             Self::MLG => "Malang, Indonesia",
             Self::MNL => "Manila, Philippines",
             Self::MPM => "Maputo, Mozambique",
@@ -1367,10 +1367,10 @@ impl Colo {
             Self::NBO => "Nairobi, Kenya",
             Self::NJF => "Najaf, Iraq",
             Self::NOU => "Noumea, New Caledonia",
-            Self::NQN => "Neuquen, Argentina",
+            Self::NQN => "Neuquén, Argentina",
             Self::NQZ => "Astana, Kazakhstan",
             Self::NRT => "Tokyo, Japan",
-            Self::NVT => "Timbo, Brazil",
+            Self::NVT => "Timbó, Brazil",
             Self::OKA => "Naha, Japan",
             Self::OKC => "Oklahoma City, OK, United States",
             Self::OMA => "Omaha, NE, United States",
@@ -1422,7 +1422,7 @@ impl Colo {
             Self::SJO => "San José, Costa Rica",
             Self::SJP => "São José do Rio Preto, Brazil",
             Self::SJU => "San Juan, Puerto Rico",
-            Self::SJW => "Shijiazhuang, China",
+            Self::SJW => "Hengshui, China",
             Self::SKG => "Thessaloniki, Greece",
             Self::SKP => "Skopje, North Macedonia",
             Self::SLC => "Salt Lake City, UT, United States",
@@ -1444,14 +1444,14 @@ impl Colo {
             Self::TLH => "Tallahassee, FL, United States",
             Self::TLL => "Tallinn, Estonia",
             Self::TLV => "Tel Aviv, Israel",
-            Self::TNA => "Zibo, China",
+            Self::TNA => "Jinan, China",
             Self::TNR => "Antananarivo, Madagascar",
             Self::TPA => "Tampa, FL, United States",
             Self::TPE => "Taipei",
             Self::TUN => "Tunis, Tunisia",
             Self::TXL => "Berlin, Germany",
             Self::TYN => "Yangquan, China",
-            Self::UDI => "Uberlandia, Brazil",
+            Self::UDI => "Uberlândia, Brazil",
             Self::UIO => "Quito, Ecuador",
             Self::ULN => "Ulaanbaatar, Mongolia",
             Self::URT => "Surat Thani, Thailand",
@@ -1492,17 +1492,17 @@ impl Colo {
     #[inline]
     pub const fn location_hint(&self) -> Option<LocationHint> {
         match self {
-            Self::AAE => Some(LocationHint::EEur),
+            Self::AAE => Some(LocationHint::WEur),
             Self::ABJ => Some(LocationHint::WEur),
             Self::ABQ => Some(LocationHint::WNam),
             Self::ACC => Some(LocationHint::Afr),
             Self::ACX => None,
             Self::ADB => Some(LocationHint::Me),
-            Self::ADD => Some(LocationHint::EEur),
+            Self::ADD => Some(LocationHint::WEur),
             Self::ADL => Some(LocationHint::Oc),
             Self::AGR => Some(LocationHint::Apac),
             Self::AKL => Some(LocationHint::Oc),
-            Self::AKX => Some(LocationHint::Me),
+            Self::AKX => Some(LocationHint::EEur),
             Self::ALA => Some(LocationHint::EEur),
             Self::ALG => Some(LocationHint::Afr),
             Self::AMD => Some(LocationHint::Apac),
@@ -1517,13 +1517,13 @@ impl Colo {
             Self::ATH => Some(LocationHint::EEur),
             Self::ATL => Some(LocationHint::ENam),
             Self::AUS => Some(LocationHint::WNam),
-            Self::BAH => Some(LocationHint::Apac),
+            Self::BAH => Some(LocationHint::Afr),
             Self::BAQ => Some(LocationHint::ENam),
             Self::BBI => Some(LocationHint::Apac),
-            Self::BCN => Some(LocationHint::Afr),
+            Self::BCN => Some(LocationHint::Me),
             Self::BEG => Some(LocationHint::EEur),
             Self::BEL => Some(LocationHint::ENam),
-            Self::BEY => Some(LocationHint::Afr),
+            Self::BEY => Some(LocationHint::Me),
             Self::BGI => Some(LocationHint::Sam),
             Self::BGR => Some(LocationHint::ENam),
             Self::BGW => Some(LocationHint::EEur),
@@ -1541,7 +1541,7 @@ impl Colo {
             Self::BSB => Some(LocationHint::ENam),
             Self::BSR => Some(LocationHint::EEur),
             Self::BTS => Some(LocationHint::EEur),
-            Self::BUD => Some(LocationHint::EEur),
+            Self::BUD => Some(LocationHint::Me),
             Self::BUF => Some(LocationHint::Sam),
             Self::BWN => None,
             Self::CAI => Some(LocationHint::Afr),
@@ -1572,13 +1572,13 @@ impl Colo {
             Self::CNX => Some(LocationHint::Apac),
             Self::COK => Some(LocationHint::Apac),
             Self::COR => Some(LocationHint::Sam),
-            Self::CPH => Some(LocationHint::Afr),
+            Self::CPH => Some(LocationHint::WEur),
             Self::CPT => Some(LocationHint::WEur),
             Self::CRK => Some(LocationHint::Apac),
             Self::CSX => None,
             Self::CTU => None,
-            Self::CWB => Some(LocationHint::Sam),
-            Self::CZL => Some(LocationHint::Afr),
+            Self::CWB => Some(LocationHint::ENam),
+            Self::CZL => Some(LocationHint::WEur),
             Self::CZX => None,
             Self::DAC => Some(LocationHint::Apac),
             Self::DAD => Some(LocationHint::Apac),
@@ -1591,7 +1591,7 @@ impl Colo {
             Self::DLC => None,
             Self::DLP => None,
             Self::DME => Some(LocationHint::Me),
-            Self::DMM => Some(LocationHint::WEur),
+            Self::DMM => Some(LocationHint::Afr),
             Self::DOH => Some(LocationHint::Afr),
             Self::DPS => Some(LocationHint::Apac),
             Self::DTW => Some(LocationHint::ENam),
@@ -1611,7 +1611,7 @@ impl Colo {
             Self::FOR => Some(LocationHint::Sam),
             Self::FRA => Some(LocationHint::Me),
             Self::FRU => Some(LocationHint::Me),
-            Self::FSD => Some(LocationHint::ENam),
+            Self::FSD => Some(LocationHint::Sam),
             Self::FUK => Some(LocationHint::Apac),
             Self::FUO => None,
             Self::GBE => Some(LocationHint::WEur),
@@ -1619,12 +1619,12 @@ impl Colo {
             Self::GEO => Some(LocationHint::ENam),
             Self::GIG => Some(LocationHint::ENam),
             Self::GND => None,
-            Self::GOT => Some(LocationHint::Afr),
+            Self::GOT => Some(LocationHint::WEur),
             Self::GRU => Some(LocationHint::ENam),
             Self::GUA => Some(LocationHint::ENam),
             Self::GUM => Some(LocationHint::WNam),
             Self::GVA => Some(LocationHint::Me),
-            Self::GYD => Some(LocationHint::Afr),
+            Self::GYD => Some(LocationHint::WEur),
             Self::GYE => Some(LocationHint::Sam),
             Self::GYN => Some(LocationHint::ENam),
             Self::HAK => None,
@@ -1644,12 +1644,12 @@ impl Colo {
             Self::ICN => Some(LocationHint::Apac),
             Self::IND => Some(LocationHint::ENam),
             Self::ISB => Some(LocationHint::Apac),
-            Self::IST => Some(LocationHint::EEur),
+            Self::IST => Some(LocationHint::Me),
             Self::ISU => Some(LocationHint::EEur),
             Self::IXC => Some(LocationHint::Apac),
             Self::JAX => Some(LocationHint::ENam),
             Self::JDO => Some(LocationHint::ENam),
-            Self::JED => Some(LocationHint::Afr),
+            Self::JED => Some(LocationHint::WEur),
             Self::JHB => None,
             Self::JIB => Some(LocationHint::WEur),
             Self::JNB => Some(LocationHint::WEur),
@@ -1673,18 +1673,18 @@ impl Colo {
             Self::KTM => Some(LocationHint::Apac),
             Self::KUL => Some(LocationHint::Apac),
             Self::KWE => None,
-            Self::KWI => Some(LocationHint::WEur),
+            Self::KWI => Some(LocationHint::Afr),
             Self::LAD => Some(LocationHint::WEur),
             Self::LAS => Some(LocationHint::WNam),
             Self::LAX => Some(LocationHint::WNam),
-            Self::LCA => Some(LocationHint::Afr),
+            Self::LCA => Some(LocationHint::WEur),
             Self::LED => Some(LocationHint::EEur),
             Self::LHE => Some(LocationHint::Apac),
             Self::LHR => Some(LocationHint::Afr),
             Self::LIM => Some(LocationHint::ENam),
             Self::LIS => Some(LocationHint::WEur),
             Self::LJU => None,
-            Self::LLK => Some(LocationHint::WEur),
+            Self::LLK => Some(LocationHint::Me),
             Self::LLW => None,
             Self::LOS => Some(LocationHint::WEur),
             Self::LPB => Some(LocationHint::ENam),
@@ -1698,10 +1698,10 @@ impl Colo {
             Self::MAO => Some(LocationHint::Sam),
             Self::MBA => Some(LocationHint::Afr),
             Self::MCI => Some(LocationHint::ENam),
-            Self::MCT => Some(LocationHint::Me),
+            Self::MCT => Some(LocationHint::Apac),
             Self::MDE => Some(LocationHint::Sam),
             Self::MEL => Some(LocationHint::Oc),
-            Self::MEM => Some(LocationHint::Sam),
+            Self::MEM => Some(LocationHint::ENam),
             Self::MEX => Some(LocationHint::Sam),
             Self::MFM => Some(LocationHint::Apac),
             Self::MIA => Some(LocationHint::ENam),
@@ -1714,7 +1714,7 @@ impl Colo {
             Self::MRU => Some(LocationHint::Apac),
             Self::MSP => Some(LocationHint::Sam),
             Self::MSQ => Some(LocationHint::EEur),
-            Self::MUC => Some(LocationHint::Me),
+            Self::MUC => Some(LocationHint::EEur),
             Self::MXP => Some(LocationHint::EEur),
             Self::NAG => Some(LocationHint::Apac),
             Self::NBO => Some(LocationHint::Afr),
@@ -1729,7 +1729,7 @@ impl Colo {
             Self::OMA => Some(LocationHint::WNam),
             Self::ORD => Some(LocationHint::ENam),
             Self::ORF => None,
-            Self::ORN => Some(LocationHint::WEur),
+            Self::ORN => Some(LocationHint::Afr),
             Self::OSL => Some(LocationHint::Me),
             Self::OTP => Some(LocationHint::Me),
             Self::OUA => Some(LocationHint::WEur),
@@ -1747,18 +1747,18 @@ impl Colo {
             Self::PNH => Some(LocationHint::Apac),
             Self::PNQ => Some(LocationHint::Apac),
             Self::POA => Some(LocationHint::Sam),
-            Self::POS => Some(LocationHint::ENam),
+            Self::POS => Some(LocationHint::Sam),
             Self::PPT => Some(LocationHint::WNam),
             Self::PRG => Some(LocationHint::EEur),
             Self::PTY => Some(LocationHint::ENam),
-            Self::QRO => Some(LocationHint::WNam),
+            Self::QRO => Some(LocationHint::ENam),
             Self::QWJ => Some(LocationHint::Sam),
             Self::RAO => Some(LocationHint::ENam),
             Self::RDU => Some(LocationHint::Sam),
             Self::REC => Some(LocationHint::ENam),
             Self::RIC => Some(LocationHint::Sam),
             Self::RIX => Some(LocationHint::EEur),
-            Self::RUH => Some(LocationHint::Me),
+            Self::RUH => Some(LocationHint::EEur),
             Self::RUN => Some(LocationHint::WEur),
             Self::SAN => Some(LocationHint::WNam),
             Self::SAP => Some(LocationHint::ENam),
@@ -1782,10 +1782,10 @@ impl Colo {
             Self::SMF => Some(LocationHint::WNam),
             Self::SOD => Some(LocationHint::Sam),
             Self::SOF => Some(LocationHint::EEur),
-            Self::SSA => Some(LocationHint::Sam),
+            Self::SSA => Some(LocationHint::Afr),
             Self::STI => Some(LocationHint::Sam),
-            Self::STL => Some(LocationHint::ENam),
-            Self::STR => Some(LocationHint::Afr),
+            Self::STL => Some(LocationHint::WNam),
+            Self::STR => Some(LocationHint::Me),
             Self::SUV => Some(LocationHint::Oc),
             Self::SYD => Some(LocationHint::Oc),
             Self::SZX => None,
@@ -1795,16 +1795,16 @@ impl Colo {
             Self::TGU => Some(LocationHint::ENam),
             Self::TIA => Some(LocationHint::EEur),
             Self::TLH => Some(LocationHint::ENam),
-            Self::TLL => Some(LocationHint::Me),
+            Self::TLL => Some(LocationHint::EEur),
             Self::TLV => Some(LocationHint::Me),
             Self::TNA => None,
             Self::TNR => Some(LocationHint::WEur),
             Self::TPA => Some(LocationHint::ENam),
             Self::TPE => Some(LocationHint::Apac),
             Self::TUN => Some(LocationHint::WEur),
-            Self::TXL => Some(LocationHint::WEur),
+            Self::TXL => Some(LocationHint::Afr),
             Self::TYN => None,
-            Self::UDI => Some(LocationHint::WEur),
+            Self::UDI => Some(LocationHint::Afr),
             Self::UIO => Some(LocationHint::ENam),
             Self::ULN => Some(LocationHint::EEur),
             Self::URT => Some(LocationHint::Apac),
