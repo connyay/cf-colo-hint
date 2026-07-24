@@ -4,15 +4,15 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-07-23T11:44:25.563Z"
+    "updated_at": "2026-07-24T11:50:11.071Z"
   },
   "components": [
     {
       "id": "57ctn3f2qsyj",
       "name": "Amsterdam, Netherlands - (AMS)",
-      "status": "under_maintenance",
+      "status": "operational",
       "created_at": "2014-10-27T20:35:05.259Z",
-      "updated_at": "2026-07-22T16:42:57.131Z",
+      "updated_at": "2026-07-23T16:04:59.620Z",
       "position": 1,
       "description": null,
       "showcase": false,
@@ -847,8 +847,7 @@
         "t6dtrww21571",
         "hwd89skfvc58",
         "7f4lcm62x6x2",
-        "ytbzfqk2y4k6",
-        "ckrt159h87js"
+        "ytbzfqk2y4k6"
       ]
     },
     {
@@ -1078,9 +1077,9 @@
     {
       "id": "9kqfzzbvww99",
       "name": "Bandar Seri Begawan, Brunei - (BWN)",
-      "status": "partial_outage",
+      "status": "operational",
       "created_at": "2020-02-25T07:32:56.004Z",
-      "updated_at": "2026-02-06T21:33:14.265Z",
+      "updated_at": "2026-07-23T22:46:08.938Z",
       "position": 6,
       "description": null,
       "showcase": false,
@@ -1138,9 +1137,9 @@
     {
       "id": "4c231tkdlpcl",
       "name": "Analytics",
-      "status": "degraded_performance",
+      "status": "operational",
       "created_at": "2014-11-13T11:54:10.191Z",
-      "updated_at": "2026-07-23T11:44:25.502Z",
+      "updated_at": "2026-07-23T12:09:53.227Z",
       "position": 7,
       "description": "Customer analytics aggregation service",
       "showcase": false,
@@ -6113,9 +6112,9 @@
     {
       "id": "4n0gb0kh02gf",
       "name": "Network",
-      "status": "operational",
+      "status": "degraded_performance",
       "created_at": "2023-01-13T13:39:19.804Z",
-      "updated_at": "2026-07-16T17:09:31.802Z",
+      "updated_at": "2026-07-24T11:24:30.965Z",
       "position": 73,
       "description": null,
       "showcase": false,
@@ -6271,21 +6270,6 @@
       "showcase": false,
       "start_date": "2022-11-03",
       "group_id": "1km35smx8p41",
-      "page_id": "yh6f0r4529hb",
-      "group": false,
-      "only_show_if_degraded": false
-    },
-    {
-      "id": "ckrt159h87js",
-      "name": "Astana, Kazakhstan - (NQZ)",
-      "status": "partial_outage",
-      "created_at": "2026-07-21T17:26:26.546Z",
-      "updated_at": "2026-07-21T17:29:50.323Z",
-      "position": 81,
-      "description": null,
-      "showcase": false,
-      "start_date": "2026-07-21",
-      "group_id": "zqxhg7y54vy8",
       "page_id": "yh6f0r4529hb",
       "group": false,
       "only_show_if_degraded": false
