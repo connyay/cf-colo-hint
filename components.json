@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-07-26T09:53:57.188Z"
+    "updated_at": "2026-07-27T12:20:31.885Z"
   },
   "components": [
     {
@@ -25,7 +25,7 @@
     {
       "id": "1km35smx8p41",
       "name": "Cloudflare Sites and Services",
-      "status": "operational",
+      "status": "degraded_performance",
       "created_at": "2014-10-27T21:59:30.264Z",
       "updated_at": "2020-11-11T20:12:30.167Z",
       "position": 1,
@@ -6142,9 +6142,9 @@
     {
       "id": "570kfpd0dgg7",
       "name": "Snippets",
-      "status": "operational",
+      "status": "degraded_performance",
       "created_at": "2023-12-08T16:25:51.813Z",
-      "updated_at": "2026-07-16T17:09:31.824Z",
+      "updated_at": "2026-07-27T11:42:07.011Z",
       "position": 75,
       "description": "Cloudflare Snippets provide a flexible way to customize the behavior of your website or application using short pieces of JavaScript code. Use snippets to customize HTTP response headers, implement JWT validation, define complex redirect functionality, and more.",
       "showcase": false,
