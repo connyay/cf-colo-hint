@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-07-27T12:20:31.885Z"
+    "updated_at": "2026-07-28T11:20:23.554Z"
   },
   "components": [
     {
@@ -25,7 +25,7 @@
     {
       "id": "1km35smx8p41",
       "name": "Cloudflare Sites and Services",
-      "status": "degraded_performance",
+      "status": "operational",
       "created_at": "2014-10-27T21:59:30.264Z",
       "updated_at": "2020-11-11T20:12:30.167Z",
       "position": 1,
@@ -4209,7 +4209,7 @@
       "name": "Dashboard",
       "status": "operational",
       "created_at": "2014-10-09T03:32:07.173Z",
-      "updated_at": "2026-07-24T18:51:34.872Z",
+      "updated_at": "2026-07-27T18:34:00.975Z",
       "position": 39,
       "description": "Dashboard where customers can view and make changes to their configurations at https://dash.cloudflare.com",
       "showcase": false,
@@ -6142,9 +6142,9 @@
     {
       "id": "570kfpd0dgg7",
       "name": "Snippets",
-      "status": "degraded_performance",
+      "status": "operational",
       "created_at": "2023-12-08T16:25:51.813Z",
-      "updated_at": "2026-07-27T11:42:07.011Z",
+      "updated_at": "2026-07-27T13:32:24.809Z",
       "position": 75,
       "description": "Cloudflare Snippets provide a flexible way to customize the behavior of your website or application using short pieces of JavaScript code. Use snippets to customize HTTP response headers, implement JWT validation, define complex redirect functionality, and more.",
       "showcase": false,
@@ -6459,7 +6459,7 @@
       "name": "Rules",
       "status": "operational",
       "created_at": "2024-01-19T14:56:52.618Z",
-      "updated_at": "2026-07-16T17:09:19.418Z",
+      "updated_at": "2026-07-27T18:34:00.995Z",
       "position": 90,
       "description": "This component includes WAF Rules, Transform Rules, Configuration Rules, Origin Rules, Compression Rules, Redirect Rules, Cache Rules, Waiting Room Bypass Rules, URL Normalization, DDoS L4/L7 Rules, Super Bot Fight Mode Rules, Rate Limiting Rules and others",
       "showcase": false,
