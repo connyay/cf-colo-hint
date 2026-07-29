@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-07-28T11:20:23.554Z"
+    "updated_at": "2026-07-29T11:45:44.655Z"
   },
   "components": [
     {
@@ -315,7 +315,6 @@
         "qsps56n4xtjt",
         "plgz1dn2y920",
         "q6j0l99lhd3f",
-        "d9h1m6536fzn",
         "cpp86z6nq4cx",
         "5zxx7fjwmb8z"
       ]
@@ -667,7 +666,9 @@
         "cy2hswvcdlb8",
         "dflqb7d1csg7",
         "8815bky5jthm",
-        "qwb01f6py1c3"
+        "qwb01f6py1c3",
+        "bjgm8mgjn0sm",
+        "0bnls29mcbkc"
       ]
     },
     {
@@ -4445,21 +4446,6 @@
       "only_show_if_degraded": false
     },
     {
-      "id": "d9h1m6536fzn",
-      "name": "Lilongwe, Malawi - (LLW)",
-      "status": "partial_outage",
-      "created_at": "2025-09-02T12:52:12.206Z",
-      "updated_at": "2025-09-10T13:51:06.259Z",
-      "position": 41,
-      "description": null,
-      "showcase": false,
-      "start_date": "2025-09-02",
-      "group_id": "00gpj4s37mz4",
-      "page_id": "yh6f0r4529hb",
-      "group": false,
-      "only_show_if_degraded": false
-    },
-    {
       "id": "9b9tyrd9x3xr",
       "name": "Portland, OR, United States - (PDX)",
       "status": "operational",
@@ -6639,7 +6625,7 @@
       "name": "Tunnel",
       "status": "operational",
       "created_at": "2019-01-24T16:28:05.466Z",
-      "updated_at": "2026-07-16T17:08:51.749Z",
+      "updated_at": "2026-07-28T20:44:39.737Z",
       "position": 102,
       "description": "Cloudflare Tunnel provides you with a secure way to connect your resources to Cloudflare without a publicly routable IP address",
       "showcase": false,
@@ -7514,6 +7500,36 @@
       "description": null,
       "showcase": false,
       "start_date": "2026-05-08",
+      "group_id": "77867vxkttgw",
+      "page_id": "yh6f0r4529hb",
+      "group": false,
+      "only_show_if_degraded": false
+    },
+    {
+      "id": "bjgm8mgjn0sm",
+      "name": "Anshun, China - (AVA)",
+      "status": "operational",
+      "created_at": "2026-07-29T00:00:54.469Z",
+      "updated_at": "2026-07-29T00:00:54.469Z",
+      "position": 686,
+      "description": null,
+      "showcase": false,
+      "start_date": "2026-07-29",
+      "group_id": "77867vxkttgw",
+      "page_id": "yh6f0r4529hb",
+      "group": false,
+      "only_show_if_degraded": false
+    },
+    {
+      "id": "0bnls29mcbkc",
+      "name": "Astana, Kazakhstan - (NQZ)",
+      "status": "operational",
+      "created_at": "2026-07-29T05:30:44.583Z",
+      "updated_at": "2026-07-29T05:30:44.583Z",
+      "position": 687,
+      "description": null,
+      "showcase": false,
+      "start_date": "2026-07-29",
       "group_id": "77867vxkttgw",
       "page_id": "yh6f0r4529hb",
       "group": false,
