@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-07-31T11:51:07.269Z"
+    "updated_at": "2026-08-01T10:49:01.967Z"
   },
   "components": [
     {
@@ -25,7 +25,7 @@
     {
       "id": "1km35smx8p41",
       "name": "Cloudflare Sites and Services",
-      "status": "degraded_performance",
+      "status": "operational",
       "created_at": "2014-10-27T21:59:30.264Z",
       "updated_at": "2020-11-11T20:12:30.167Z",
       "position": 1,
@@ -668,7 +668,8 @@
         "8815bky5jthm",
         "qwb01f6py1c3",
         "bjgm8mgjn0sm",
-        "0bnls29mcbkc"
+        "0bnls29mcbkc",
+        "nq69m9tlltrg"
       ]
     },
     {
@@ -1138,9 +1139,9 @@
     {
       "id": "4c231tkdlpcl",
       "name": "Analytics",
-      "status": "degraded_performance",
+      "status": "operational",
       "created_at": "2014-11-13T11:54:10.191Z",
-      "updated_at": "2026-07-31T11:51:07.209Z",
+      "updated_at": "2026-07-31T13:01:59.767Z",
       "position": 7,
       "description": "Customer analytics aggregation service",
       "showcase": false,
@@ -1268,7 +1269,7 @@
       "name": "API",
       "status": "operational",
       "created_at": "2014-10-09T03:32:07.158Z",
-      "updated_at": "2026-07-16T11:57:55.123Z",
+      "updated_at": "2026-07-31T13:01:59.795Z",
       "position": 8,
       "description": "Application programming interface (API) for customers to read and write their configurations at https://api.cloudflare.com",
       "showcase": false,
@@ -2498,9 +2499,9 @@
     {
       "id": "dwmgwrxg7cx3",
       "name": "Hamburg, Germany - (HAM)",
-      "status": "operational",
+      "status": "degraded_performance",
       "created_at": "2015-12-14T11:28:08.468Z",
-      "updated_at": "2026-07-22T06:05:48.565Z",
+      "updated_at": "2026-07-31T15:20:20.025Z",
       "position": 18,
       "description": null,
       "showcase": false,
@@ -3055,7 +3056,7 @@
       "name": "London, United Kingdom - (LHR)",
       "status": "operational",
       "created_at": "2014-10-27T20:36:04.069Z",
-      "updated_at": "2026-07-08T02:32:05.192Z",
+      "updated_at": "2026-07-31T20:40:43.089Z",
       "position": 24,
       "description": null,
       "showcase": false,
@@ -3190,7 +3191,7 @@
       "name": "CDN/Cache",
       "status": "operational",
       "created_at": "2020-03-25T19:03:33.850Z",
-      "updated_at": "2026-07-17T16:45:25.587Z",
+      "updated_at": "2026-07-31T20:40:43.106Z",
       "position": 25,
       "description": null,
       "showcase": false,
@@ -4210,7 +4211,7 @@
       "name": "Dashboard",
       "status": "operational",
       "created_at": "2014-10-09T03:32:07.173Z",
-      "updated_at": "2026-07-29T16:23:52.254Z",
+      "updated_at": "2026-07-31T13:01:59.822Z",
       "position": 39,
       "description": "Dashboard where customers can view and make changes to their configurations at https://dash.cloudflare.com",
       "showcase": false,
@@ -6175,7 +6176,7 @@
       "name": "Pages",
       "status": "operational",
       "created_at": "2021-04-16T21:04:08.018Z",
-      "updated_at": "2026-07-18T17:54:57.747Z",
+      "updated_at": "2026-07-31T13:01:59.847Z",
       "position": 78,
       "description": null,
       "showcase": false,
@@ -6805,7 +6806,7 @@
       "name": "Workers",
       "status": "operational",
       "created_at": "2019-01-24T16:49:08.728Z",
-      "updated_at": "2026-07-29T20:31:15.267Z",
+      "updated_at": "2026-07-31T13:01:59.871Z",
       "position": 112,
       "description": "Cloudflare Workers provides a serverless execution environment that allows you to create new applications or augment existing ones without configuring or maintaining infrastructure",
       "showcase": false,
@@ -7530,6 +7531,21 @@
       "description": null,
       "showcase": false,
       "start_date": "2026-07-29",
+      "group_id": "77867vxkttgw",
+      "page_id": "yh6f0r4529hb",
+      "group": false,
+      "only_show_if_degraded": false
+    },
+    {
+      "id": "nq69m9tlltrg",
+      "name": "Jamnagar, India - (BDQ)",
+      "status": "operational",
+      "created_at": "2026-07-31T17:10:11.752Z",
+      "updated_at": "2026-07-31T17:10:11.752Z",
+      "position": 688,
+      "description": null,
+      "showcase": false,
+      "start_date": "2026-07-31",
       "group_id": "77867vxkttgw",
       "page_id": "yh6f0r4529hb",
       "group": false,
