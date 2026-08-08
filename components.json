@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-08-07T10:43:58.030Z"
+    "updated_at": "2026-08-08T10:52:56.063Z"
   },
   "components": [
     {
@@ -25,7 +25,7 @@
     {
       "id": "1km35smx8p41",
       "name": "Cloudflare Sites and Services",
-      "status": "operational",
+      "status": "degraded_performance",
       "created_at": "2014-10-27T21:59:30.264Z",
       "updated_at": "2020-11-11T20:12:30.167Z",
       "position": 1,
@@ -6115,9 +6115,9 @@
     {
       "id": "4n0gb0kh02gf",
       "name": "Network",
-      "status": "operational",
+      "status": "degraded_performance",
       "created_at": "2023-01-13T13:39:19.804Z",
-      "updated_at": "2026-07-30T07:57:42.148Z",
+      "updated_at": "2026-08-08T08:25:15.169Z",
       "position": 73,
       "description": null,
       "showcase": false,
@@ -6220,9 +6220,9 @@
     {
       "id": "hb7g5sq2zz0h",
       "name": "R2",
-      "status": "operational",
+      "status": "degraded_performance",
       "created_at": "2022-07-05T10:55:24.503Z",
-      "updated_at": "2026-08-04T22:58:39.868Z",
+      "updated_at": "2026-08-07T18:42:26.248Z",
       "position": 80,
       "description": "High-performance storage for files and objects with zero egress charges",
       "showcase": false,
@@ -6912,7 +6912,7 @@
       "name": "Workers Observability",
       "status": "operational",
       "created_at": "2024-12-12T22:27:27.098Z",
-      "updated_at": "2026-07-17T19:53:00.329Z",
+      "updated_at": "2026-08-07T17:42:14.615Z",
       "position": 118,
       "description": "Workers Logs",
       "showcase": false,
