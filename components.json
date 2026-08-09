@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-08-08T10:52:56.063Z"
+    "updated_at": "2026-08-09T11:34:14.040Z"
   },
   "components": [
     {
@@ -25,7 +25,7 @@
     {
       "id": "1km35smx8p41",
       "name": "Cloudflare Sites and Services",
-      "status": "degraded_performance",
+      "status": "operational",
       "created_at": "2014-10-27T21:59:30.264Z",
       "updated_at": "2020-11-11T20:12:30.167Z",
       "position": 1,
@@ -6115,9 +6115,9 @@
     {
       "id": "4n0gb0kh02gf",
       "name": "Network",
-      "status": "degraded_performance",
+      "status": "operational",
       "created_at": "2023-01-13T13:39:19.804Z",
-      "updated_at": "2026-08-08T08:25:15.169Z",
+      "updated_at": "2026-08-08T17:19:49.381Z",
       "position": 73,
       "description": null,
       "showcase": false,
@@ -6220,9 +6220,9 @@
     {
       "id": "hb7g5sq2zz0h",
       "name": "R2",
-      "status": "degraded_performance",
+      "status": "operational",
       "created_at": "2022-07-05T10:55:24.503Z",
-      "updated_at": "2026-08-07T18:42:26.248Z",
+      "updated_at": "2026-08-09T02:35:44.385Z",
       "position": 80,
       "description": "High-performance storage for files and objects with zero egress charges",
       "showcase": false,
