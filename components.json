@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-08-10T11:53:58.640Z"
+    "updated_at": "2026-08-11T11:28:59.384Z"
   },
   "components": [
     {
@@ -25,7 +25,7 @@
     {
       "id": "1km35smx8p41",
       "name": "Cloudflare Sites and Services",
-      "status": "degraded_performance",
+      "status": "operational",
       "created_at": "2014-10-27T21:59:30.264Z",
       "updated_at": "2020-11-11T20:12:30.167Z",
       "position": 1,
@@ -2442,7 +2442,7 @@
       "name": "Foshan, China - (FUO)",
       "status": "operational",
       "created_at": "2022-01-13T16:09:56.567Z",
-      "updated_at": "2025-05-14T11:01:40.636Z",
+      "updated_at": "2026-08-11T05:32:15.810Z",
       "position": 17,
       "description": null,
       "showcase": false,
@@ -2667,7 +2667,7 @@
       "name": "Fuzhou, China - (FOC)",
       "status": "operational",
       "created_at": "2022-01-13T16:09:40.620Z",
-      "updated_at": "2025-05-14T11:01:40.661Z",
+      "updated_at": "2026-08-11T05:32:15.829Z",
       "position": 19,
       "description": null,
       "showcase": false,
@@ -6340,9 +6340,9 @@
     {
       "id": "8w536gxk7dvq",
       "name": "Recursive DNS",
-      "status": "degraded_performance",
+      "status": "operational",
       "created_at": "2019-01-24T16:51:39.639Z",
-      "updated_at": "2026-08-10T10:15:40.216Z",
+      "updated_at": "2026-08-10T12:19:05.982Z",
       "position": 86,
       "description": "Free recursive DNS service at 1.1.1.1 and 1.0.0.1",
       "showcase": false,
