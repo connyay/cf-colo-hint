@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-08-12T11:31:12.210Z"
+    "updated_at": "2026-08-13T11:30:59.639Z"
   },
   "components": [
     {
@@ -4950,7 +4950,7 @@
       "name": "Email Security (Area1)",
       "status": "operational",
       "created_at": "2024-05-23T19:39:45.000Z",
-      "updated_at": "2026-07-16T17:09:40.000Z",
+      "updated_at": "2026-08-12T17:23:45.000Z",
       "position": 48,
       "description": "Customers with Area1 only product.",
       "showcase": false,
@@ -5025,7 +5025,7 @@
       "name": "Email Security (Zero Trust)",
       "status": "operational",
       "created_at": "2024-05-23T19:37:22.000Z",
-      "updated_at": "2026-07-16T17:09:40.000Z",
+      "updated_at": "2026-08-12T17:23:45.000Z",
       "position": 49,
       "description": null,
       "showcase": false,
