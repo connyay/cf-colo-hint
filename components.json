@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-08-17T11:24:26.427Z"
+    "updated_at": "2026-08-18T11:24:31.113Z"
   },
   "components": [
     {
@@ -3330,7 +3330,7 @@
       "name": "Los Angeles, CA, United States - (LAX)",
       "status": "operational",
       "created_at": "2014-10-27T19:24:27.000Z",
-      "updated_at": "2026-05-18T06:33:29.000Z",
+      "updated_at": "2026-08-17T20:44:32.000Z",
       "position": 27,
       "description": null,
       "showcase": false,
@@ -4215,7 +4215,7 @@
       "name": "Dashboard",
       "status": "operational",
       "created_at": "2014-10-09T03:32:07.000Z",
-      "updated_at": "2026-08-11T13:00:10.000Z",
+      "updated_at": "2026-08-17T19:25:39.000Z",
       "position": 39,
       "description": "Dashboard where customers can view and make changes to their configurations at https://dash.cloudflare.com",
       "showcase": false,
@@ -4320,7 +4320,7 @@
       "name": "Phoenix, AZ, United States - (PHX)",
       "status": "operational",
       "created_at": "2015-10-23T18:17:04.000Z",
-      "updated_at": "2026-06-30T23:14:51.000Z",
+      "updated_at": "2026-08-17T20:44:32.000Z",
       "position": 40,
       "description": null,
       "showcase": false,
@@ -5835,7 +5835,7 @@
       "name": "Lists",
       "status": "operational",
       "created_at": "2023-11-04T12:45:35.000Z",
-      "updated_at": "2026-07-16T17:09:31.000Z",
+      "updated_at": "2026-08-17T22:41:47.000Z",
       "position": 62,
       "description": "Lists of IP addresses, hostnames and ASNs",
       "showcase": false,
