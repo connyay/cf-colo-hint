@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-08-18T11:24:31.113Z"
+    "updated_at": "2026-08-19T11:24:35.109Z"
   },
   "components": [
     {
@@ -4815,7 +4815,7 @@
       "name": "Durable Objects",
       "status": "operational",
       "created_at": "2023-06-12T14:55:22.000Z",
-      "updated_at": "2026-08-17T08:58:06.000Z",
+      "updated_at": "2026-08-19T07:20:23.000Z",
       "position": 46,
       "description": "Durable Objects provide low-latency coordination and consistent permanent storage for the Workers platform.",
       "showcase": false,
