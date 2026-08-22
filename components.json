@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-08-21T11:24:31.163Z"
+    "updated_at": "2026-08-22T11:23:41.945Z"
   },
   "components": [
     {
@@ -3151,7 +3151,7 @@
       "name": "Hong Kong - (HKG)",
       "status": "operational",
       "created_at": "2014-10-27T21:46:42.000Z",
-      "updated_at": "2026-07-15T15:00:34.000Z",
+      "updated_at": "2026-08-21T15:19:55.000Z",
       "position": 25,
       "description": null,
       "showcase": false,
@@ -4816,7 +4816,7 @@
       "name": "Durable Objects",
       "status": "operational",
       "created_at": "2023-06-12T14:55:22.000Z",
-      "updated_at": "2026-08-20T19:32:37.000Z",
+      "updated_at": "2026-08-21T15:19:55.000Z",
       "position": 46,
       "description": "Durable Objects provide low-latency coordination and consistent permanent storage for the Workers platform.",
       "showcase": false,
@@ -6271,7 +6271,7 @@
       "name": "R2",
       "status": "operational",
       "created_at": "2022-07-05T10:55:24.000Z",
-      "updated_at": "2026-08-20T19:32:37.000Z",
+      "updated_at": "2026-08-22T02:57:56.000Z",
       "position": 81,
       "description": "High-performance storage for files and objects with zero egress charges",
       "showcase": false,
@@ -6406,7 +6406,7 @@
       "name": "RealtimeKit",
       "status": "operational",
       "created_at": "2025-05-16T17:08:23.000Z",
-      "updated_at": "2026-08-11T12:31:24.000Z",
+      "updated_at": "2026-08-21T15:19:55.000Z",
       "position": 88,
       "description": "Build real-time serverless video, audio and data applications.\r\n\r\nCloudflare Realtime is infrastructure for real-time audio/video/data applications. It allows you to build real-time apps without worrying about scaling or regions. It can act as a selective forwarding unit (WebRTC SFU), as a fanout delivery system for broadcasting (WebRTC CDN) or anything in between.",
       "showcase": false,
@@ -7021,7 +7021,7 @@
       "name": "Zero Trust",
       "status": "operational",
       "created_at": "2021-04-08T15:53:09.000Z",
-      "updated_at": "2026-08-11T12:31:06.000Z",
+      "updated_at": "2026-08-21T21:33:58.000Z",
       "position": 125,
       "description": null,
       "showcase": false,
