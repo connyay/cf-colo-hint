@@ -4,7 +4,7 @@
     "name": "Cloudflare",
     "url": "https://www.cloudflarestatus.com",
     "time_zone": "Etc/UTC",
-    "updated_at": "2026-08-31T11:23:46.641Z"
+    "updated_at": "2026-09-01T11:23:46.052Z"
   },
   "components": [
     {
@@ -358,7 +358,7 @@
       "name": "Access",
       "status": "operational",
       "created_at": "2018-02-09T21:46:39.000Z",
-      "updated_at": "2026-08-29T10:48:32.000Z",
+      "updated_at": "2026-08-31T22:02:59.000Z",
       "position": 2,
       "description": "Cloudflare Access determines who can reach your application by applying the Access policies you configure",
       "showcase": false,
@@ -3166,9 +3166,9 @@
     {
       "id": "bnjvsmmllkb9",
       "name": "Lima, Peru - (LIM)",
-      "status": "under_maintenance",
+      "status": "operational",
       "created_at": "2014-12-03T20:29:25.000Z",
-      "updated_at": "2026-08-25T12:32:07.000Z",
+      "updated_at": "2026-08-31T17:30:50.000Z",
       "position": 25,
       "description": null,
       "showcase": false,
@@ -4096,9 +4096,9 @@
     {
       "id": "z0yd3sxqjqdm",
       "name": "D1",
-      "status": "operational",
+      "status": "degraded_performance",
       "created_at": "2024-02-09T08:57:38.000Z",
-      "updated_at": "2026-08-26T23:07:31.000Z",
+      "updated_at": "2026-09-01T08:38:51.000Z",
       "position": 36,
       "description": null,
       "showcase": false,
@@ -6271,9 +6271,9 @@
     {
       "id": "hb7g5sq2zz0h",
       "name": "R2",
-      "status": "operational",
+      "status": "degraded_performance",
       "created_at": "2022-07-05T10:55:24.000Z",
-      "updated_at": "2026-08-24T08:28:22.000Z",
+      "updated_at": "2026-08-31T18:47:05.000Z",
       "position": 81,
       "description": "High-performance storage for files and objects with zero egress charges",
       "showcase": false,
@@ -6946,9 +6946,9 @@
     {
       "id": "tmh50tx2nprs",
       "name": "Workers KV",
-      "status": "degraded_performance",
+      "status": "operational",
       "created_at": "2019-01-24T16:49:32.000Z",
-      "updated_at": "2026-08-31T11:01:59.000Z",
+      "updated_at": "2026-08-31T12:40:56.000Z",
       "position": 120,
       "description": "Workers KV is a data storage that allows you to store and retrieve data globally to build dynamic and performant APIs and websites that support high read volumes with low latency",
       "showcase": false,
@@ -6976,9 +6976,9 @@
     {
       "id": "5df6y9z3fsky",
       "name": "Workflows",
-      "status": "operational",
+      "status": "degraded_performance",
       "created_at": "2025-04-04T09:39:26.000Z",
-      "updated_at": "2026-08-26T23:07:31.000Z",
+      "updated_at": "2026-09-01T08:42:47.000Z",
       "position": 122,
       "description": "Workflows is Cloudflare Durable Execution engine, that give the ability to build and execute applications that are durable in the face of errors, network issues, upstream API outages, rate limits, and (most importantly) infrastructure failure.",
       "showcase": false,
